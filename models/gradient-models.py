@@ -6,7 +6,7 @@ import sklearn.preprocessing as skl_pre
 import sklearn.ensemble as skl_ensemble
 import sklearn.model_selection as skl_ms
 from sklearn.impute import SimpleImputer
-from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.metrics import r2_score
 import xgboost as xgb
 
 filename = sys.argv[1]
@@ -75,32 +75,25 @@ X = imputer.fit_transform(X)
 # Split the data into train and test sets
 X_train, X_test, y_train, y_test = skl_ms.train_test_split(X, y, test_size=0.2)
 
-# Fit the Gradient Boosting Classifier model
-gbm_model = GradientBoostingClassifier(n_estimators=100)  # Adjust the number of estimators as needed
+# Fit the Gradient Boosting Regression model
+gbm_model = skl_ensemble.GradientBoostingRegressor(n_estimators=100)  # Adjust the number of estimators as needed
 gbm_model.fit(X_train, y_train)
 
-# Predict on the test set using Gradient Boosting Classifier
+# Predict on the test set using Gradient Boosting Regression
 y_pred_gbm = gbm_model.predict(X_test)
 
-# Calculate the misclassification rate for Gradient Boosting Classifier
-misclassification_gbm = np.mean(y_pred_gbm != y_test)
-print('Misclassification (Gradient Boosting): ', misclassification_gbm)
+# Calculate the R-squared score for Gradient Boosting Regression
+r2_gbm = r2_score(y_test, y_pred_gbm)
+print('R-squared (Gradient Boosting): ', r2_gbm)
 
-# Convert the target variables to integers
-y_train = y_train.astype(int)
-y_test = y_test.astype(int)
-
-# Fit the XGBoost model
-xgb_model = xgb.XGBClassifier(n_estimators=100)
+# Fit the XGBoost Regression model
+xgb_model = xgb.XGBRegressor(n_estimators=100)
 xgb_model.fit(X_train, y_train)
 
-# Predict on the test set using XGBoost
+# Predict on the test set using XGBoost Regression
 y_pred_xgb = xgb_model.predict(X_test)
 
-# Calculate the misclassification rate for XGBoost
-misclassification_xgb = np.mean(y_pred_xgb != y_test)
-print('Misclassification (XGBoost): ', misclassification_xgb)
-
-
-
+# Calculate the R-squared score for XGBoost Regression
+r2_xgb = r2_score(y_test, y_pred_xgb)
+print('R-squared (XGBoost): ', r2_xgb)
 
