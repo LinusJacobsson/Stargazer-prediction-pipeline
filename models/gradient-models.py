@@ -8,6 +8,8 @@ import sklearn.model_selection as skl_ms
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import r2_score
 from sklearn.model_selection import GridSearchCV
+from sklearn.model_selection import RepeatedStratifiedKFold
+from sklearn.ensemble import BaggingRegressor
 import xgboost as xgb
 
 filename = sys.argv[1]
@@ -73,13 +75,18 @@ y = df_encoded["Star Count"].values
 imputer = SimpleImputer()
 X = imputer.fit_transform(X)
 
+# Normalize numerical features
+scaler = skl_pre.StandardScaler()
+X = scaler.fit_transform(X)
+
 # Split the data into train and test sets
 X_train, X_test, y_train, y_test = skl_ms.train_test_split(X, y, test_size=0.2)
 
 # Define the parameter grid for GridSearchCV
 param_grid = {
     'n_estimators': [50, 100, 150],
-    'max_depth': [3, 5, 7]
+    'max_depth': [3, 5, 7],
+    'learning_rate': [0.1, 0.01, 0.001]
 }
 
 # Perform GridSearchCV for Gradient Boosting Regression
@@ -97,12 +104,6 @@ y_pred_gbm = best_gbm_model.predict(X_test)
 r2_gbm = r2_score(y_test, y_pred_gbm)
 print('R-squared (Gradient Boosting): ', r2_gbm)
 
-# Define the parameter grid for GridSearchCV
-param_grid = {
-    'n_estimators': [50, 100, 150],
-    'max_depth': [3, 5, 7]
-}
-
 # Perform GridSearchCV for XGBoost Regression
 xgb_model = xgb.XGBRegressor()
 xgb_grid = GridSearchCV(estimator=xgb_model, param_grid=param_grid, scoring='r2', cv=5)
@@ -117,4 +118,15 @@ y_pred_xgb = best_xgb_model.predict(X_test)
 # Calculate the R-squared score for XGBoost Regression
 r2_xgb = r2_score(y_test, y_pred_xgb)
 print('R-squared (XGBoost): ', r2_xgb)
+
+# Ensemble Methods - Bagging
+bagging_model = BaggingRegressor(base_estimator=best_gbm_model, n_estimators=10)
+bagging_model.fit(X_train, y_train)
+
+# Predict on the test set using the Bagging model
+y_pred_bagging = bagging_model.predict(X_test)
+
+# Calculate the R-squared score for Bagging model
+r2_bagging = r2_score(y_test, y_pred_bagging)
+print('R-squared (Bagging): ', r2_bagging)
 
