@@ -7,6 +7,7 @@ import sklearn.ensemble as skl_ensemble
 import sklearn.model_selection as skl_ms
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import r2_score
+from sklearn.model_selection import GridSearchCV
 import xgboost as xgb
 
 filename = sys.argv[1]
@@ -75,23 +76,43 @@ X = imputer.fit_transform(X)
 # Split the data into train and test sets
 X_train, X_test, y_train, y_test = skl_ms.train_test_split(X, y, test_size=0.2)
 
-# Fit the Gradient Boosting Regression model
-gbm_model = skl_ensemble.GradientBoostingRegressor(n_estimators=100)  # Adjust the number of estimators as needed
-gbm_model.fit(X_train, y_train)
+# Define the parameter grid for GridSearchCV
+param_grid = {
+    'n_estimators': [50, 100, 150],
+    'max_depth': [3, 5, 7]
+}
 
-# Predict on the test set using Gradient Boosting Regression
-y_pred_gbm = gbm_model.predict(X_test)
+# Perform GridSearchCV for Gradient Boosting Regression
+gbm_model = skl_ensemble.GradientBoostingRegressor()
+gbm_grid = GridSearchCV(estimator=gbm_model, param_grid=param_grid, scoring='r2', cv=5)
+gbm_grid.fit(X_train, y_train)
+
+# Get the best model from GridSearchCV
+best_gbm_model = gbm_grid.best_estimator_
+
+# Predict on the test set using the best Gradient Boosting Regression model
+y_pred_gbm = best_gbm_model.predict(X_test)
 
 # Calculate the R-squared score for Gradient Boosting Regression
 r2_gbm = r2_score(y_test, y_pred_gbm)
 print('R-squared (Gradient Boosting): ', r2_gbm)
 
-# Fit the XGBoost Regression model
-xgb_model = xgb.XGBRegressor(n_estimators=100)
-xgb_model.fit(X_train, y_train)
+# Define the parameter grid for GridSearchCV
+param_grid = {
+    'n_estimators': [50, 100, 150],
+    'max_depth': [3, 5, 7]
+}
 
-# Predict on the test set using XGBoost Regression
-y_pred_xgb = xgb_model.predict(X_test)
+# Perform GridSearchCV for XGBoost Regression
+xgb_model = xgb.XGBRegressor()
+xgb_grid = GridSearchCV(estimator=xgb_model, param_grid=param_grid, scoring='r2', cv=5)
+xgb_grid.fit(X_train, y_train)
+
+# Get the best model from GridSearchCV
+best_xgb_model = xgb_grid.best_estimator_
+
+# Predict on the test set using the best XGBoost Regression model
+y_pred_xgb = best_xgb_model.predict(X_test)
 
 # Calculate the R-squared score for XGBoost Regression
 r2_xgb = r2_score(y_test, y_pred_xgb)
