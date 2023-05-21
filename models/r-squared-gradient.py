@@ -80,7 +80,7 @@ X = imputer.fit_transform(X)
 scaler = skl_pre.StandardScaler()
 X = scaler.fit_transform(X)
 
-np.random.seed(42)  # Set a random seed for reproducibility
+np.random.seed(0)  # Set a random seed for reproducibility
 
 # Split the data into train and test sets
 X_train, X_test, y_train, y_test = skl_ms.train_test_split(X, y, test_size=0.2)
