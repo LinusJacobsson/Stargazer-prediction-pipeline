@@ -1,5 +1,3 @@
-import json
-import sys
 import pandas as pd
 import numpy as np
 import sklearn.preprocessing as skl_pre
@@ -12,54 +10,8 @@ from sklearn.model_selection import RepeatedStratifiedKFold
 from sklearn.ensemble import BaggingRegressor
 import xgboost as xgb
 
-filename = sys.argv[1]
 
-# Load the data from the file
-with open(filename, 'r') as f:
-    data = json.load(f)
-
-# Extract the repository data
-repos = data['data']['search']['edges']
-
-# Initialize a list to hold dictionaries
-repo_dicts = []
-
-# Iterate over repos and extract relevant info
-for i, repo in enumerate(repos, start=1):
-    repo_data = repo['node']
-
-    # Create a dictionary for each repository
-    repo_dict = {}
-
-    # Basic info
-    repo_dict['Repository Name'] = repo_data['name']
-    repo_dict['Owner'] = repo_data['owner']['login']
-    repo_dict['Star Count'] = repo_data['stargazers']['totalCount']
-
-    # Additional features
-    repo_dict['Fork Count'] = repo_data['forkCount']
-    repo_dict['Created at'] = pd.to_datetime(repo_data['createdAt']).timestamp()
-    repo_dict['Updated at'] = pd.to_datetime(repo_data['updatedAt']).timestamp()
-    repo_dict['Primary Language'] = repo_data['primaryLanguage']['name'] if repo_data['primaryLanguage'] else 'None'
-    repo_dict['PR Count'] = repo_data['pullRequests']['totalCount']
-    repo_dict['Issue Count'] = repo_data['issues']['totalCount']
-    repo_dict['Watcher Count'] = repo_data['watchers']['totalCount']
-    repo_dict['Disk Usage'] = repo_data['diskUsage']
-    repo_dict['Is Fork'] = repo_data['isFork']
-    repo_dict['Is Archived'] = repo_data['isArchived']
-    repo_dict['License Info'] = repo_data['licenseInfo']['name'] if repo_data['licenseInfo'] else 'None'
-
-    # Extract the topics
-    topics = [edge['node']['topic']['name'] for edge in repo_data['repositoryTopics']['edges']]
-    for topic in topics:
-        repo_dict['Topic_' + topic] = 1
-
-    # Add the dictionary to the list
-    repo_dicts.append(repo_dict)
-
-# Convert the list of dictionaries to a DataFrame
-df = pd.DataFrame(repo_dicts)
-
+df = pd.read_csv('../data.csv')
 
 # Convert categorical columns to strings
 categorical_cols = ['Primary Language', 'License Info']
@@ -69,7 +21,7 @@ df[categorical_cols] = df[categorical_cols].astype(str)
 df_encoded = pd.get_dummies(df, columns=categorical_cols)
 
 # Split the data into input features (X) and target variable (y)
-X = df_encoded.drop(["Star Count", "Repository Name", "Owner"], axis=1).values
+X = df_encoded.drop(['Star Count','Owner', 'Repository Name', 'Owner', 'Created at', 'Updated at',  'Topics'], axis=1).values
 y = df_encoded["Star Count"].values
 
 # Impute missing values with the mean value of each column
