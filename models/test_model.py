@@ -20,15 +20,13 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2)
 #reg = GradientBoostingRegressor(learning_rate = 0.2, n_estimators=100, max_depth=None)
 reg = RandomForestRegressor(max_features="log2", ccp_alpha=0.02, n_estimators=200, max_depth=100)
 #reg = Ridge(alpha=0.1)
-cv_scores = cross_val_score(reg, X_train, y_train, cv=5, scoring='r2')
+#cv_scores = cross_val_score(reg, X_train, y_train, cv=5, scoring='r2')
 
-print("Cross-Validation R-squared Scores:", cv_scores)
-print("Average R-squared:", cv_scores.mean())
+#print("Cross-Validation R-squared Scores:", cv_scores)
+#print("Average R-squared:", cv_scores.mean())
 
-'''
 reg.fit(X_train, y_train)
 predictions = reg.predict(X_test)
 res = r2_score(y_test, predictions)
 
-print("R-squared: ", res)
-'''
+print(res)
