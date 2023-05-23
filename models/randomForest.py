@@ -51,13 +51,13 @@ rf_best_model = rf_grid.best_estimator_
 y_pred_rf = rf_best_model.predict(X_test)
 
 # Calculate the R-squared score for Random Forest Regression
-r2_rf = r2_score(y_test, y_pred_rf)
-print(r2_rf)
+#r2_rf = r2_score(y_test, y_pred_rf)
+#print(r2_rf)
 
 
 # Perform cross-validation using KFold for Random Forest Regression
 kf = KFold(n_splits=5, shuffle=True, random_state=0)
 rf_cv_scores = cross_val_score(rf_best_model, X_poly, y, cv=kf, scoring='r2')
 mean_r2_rf_cv = np.mean(rf_cv_scores)
-print('Mean R-squared (Random Forest Regression, Cross-Validation):', mean_r2_rf_cv)
+print(mean_r2_rf_cv)
 
