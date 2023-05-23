@@ -11,8 +11,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import cross_val_score, KFold
 from sklearn.model_selection import GridSearchCV
 
-df = pd.read_csv('../../data.csv')
-
+df = pd.read_csv("/home/appuser/de2-final-project/data.csv")
 # Convert categorical columns to strings
 categorical_cols = ['Primary Language', 'License Info']
 df[categorical_cols] = df[categorical_cols].astype(str)
