@@ -1,0 +1,1001 @@
+,Repository Name,Owner,Star Count,Fork Count,Created at,Updated at,Primary Language,PR Count,Issue Count,Watcher Count,Disk Usage,Is Fork,Is Archived,License Info,Topics
+0,free-programming-books,EbookFoundation,280023,55330,2013-10-11T06:50:37Z,2023-05-19T14:42:15Z,None,8311,930,9670,16794,False,False,Creative Commons Attribution 4.0 International,"education, books, list, resource, hacktoberfest"
+1,996.ICU,996icu,265836,21416,2019-03-26T07:31:14Z,2023-05-19T14:48:24Z,None,1946,0,4258,188163,False,False,Other,
+2,javascript-algorithms,trekhleb,170043,27916,2018-03-24T07:47:04Z,2023-05-19T14:46:57Z,JavaScript,671,319,4385,13236,False,False,MIT License,"javascript, algorithms, algorithm, javascript-algorithms, computer-science"
+3,CS-Notes,CyC2018,164256,50181,2018-02-13T14:56:24Z,2023-05-19T14:03:25Z,None,601,560,5382,116174,False,False,None,"algorithm, leetcode, interview, computer-science, system-design"
+4,bootstrap,twbs,163674,78473,2011-07-29T21:19:00Z,2023-05-19T14:18:51Z,JavaScript,14584,21941,6816,230705,False,False,MIT License,"css, bootstrap, javascript, html, scss"
+5,ohmyzsh,ohmyzsh,158988,25269,2009-08-28T18:15:37Z,2023-05-19T14:50:25Z,Shell,6846,4455,2665,11343,False,False,MIT License,"shell, zsh-configuration, theme, terminal, productivity"
+6,Python,TheAlgorithms,158772,40117,2016-07-16T09:44:01Z,2023-05-19T14:13:31Z,Python,7002,1252,5936,13434,False,False,MIT License,"python, algorithm, algorithms-implemented, algorithm-competitions, algos"
+7,flutter,flutter,153466,25364,2015-03-06T22:54:58Z,2023-05-19T13:48:54Z,Dart,44057,82384,3555,259326,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","mobile, android, ios, material-design, dart"
+8,linux,torvalds,151881,48040,2011-09-04T22:48:12Z,2023-05-19T13:43:09Z,C,761,0,8163,4440382,False,False,Other,
+9,gitignore,github,148050,84199,2010-11-08T20:17:14Z,2023-05-19T14:43:26Z,None,4212,0,3353,2356,False,False,Creative Commons Zero v1.0 Universal,"gitignore, git"
+10,computer-science,ossu,139287,17980,2014-05-04T00:18:39Z,2023-05-19T14:10:12Z,None,396,609,5486,1204,False,False,MIT License,"computer-science, awesome-list, courses, curriculum"
+11,the-art-of-command-line,jlevy,136214,13580,2015-05-20T15:11:03Z,2023-05-19T14:05:09Z,None,569,236,2839,2673,False,False,None,"bash, unix, documentation, linux, macos"
+12,Python-100-Days,jackfrued,135991,49112,2018-03-01T16:05:52Z,2023-05-19T14:50:40Z,Python,319,601,6182,310266,False,False,None,
+13,Auto-GPT,Significant-Gravitas,132597,27100,2023-03-16T09:21:07Z,2023-05-19T14:51:11Z,Python,1666,1676,1456,7220,False,False,MIT License,"ai, gpt-4, openai, python, artificial-intelligence"
+14,youtube-dl,ytdl-org,120404,8997,2010-10-31T14:35:07Z,2023-05-19T14:44:15Z,Python,4845,26016,2205,64866,False,False,The Unlicense,
+15,30-seconds-of-code,30-seconds,111592,11491,2017-11-29T17:35:03Z,2023-05-19T14:41:18Z,JavaScript,1488,277,2645,592990,False,False,Creative Commons Attribution 4.0 International,"awesome-list, javascript, snippets, snippets-collection, learning-resources"
+16,go,golang,111406,16543,2014-08-19T04:33:40Z,2023-05-19T14:48:55Z,Go,2981,55999,3465,350076,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","programming-language, language, go, golang"
+17,next.js,vercel,106326,23913,2016-10-05T23:32:51Z,2023-05-19T14:46:21Z,JavaScript,15838,16297,1381,1838452,False,False,MIT License,"react, server-rendering, universal, node, components"
+18,d3,d3,105348,23311,2010-09-27T17:22:42Z,2023-05-19T14:48:19Z,JavaScript,1115,2140,3738,42671,False,False,ISC License,"visualization, data-visualization, charts, svg, chart"
+19,project-based-learning,practical-tutorials,102620,14390,2017-04-12T05:07:46Z,2023-05-19T14:46:53Z,None,328,74,2248,438,False,False,MIT License,"tutorial, project, beginner-project, webdevelopment, python"
+20,awesome-go,avelino,101668,10959,2014-07-06T13:42:15Z,2023-05-19T14:02:59Z,Go,4244,578,2753,10151,False,False,MIT License,"golang, golang-library, go, awesome, awesome-list"
+21,transformers,huggingface,100662,20545,2018-10-29T13:56:00Z,2023-05-19T14:45:25Z,Python,11742,11632,1013,142606,False,False,Apache License 2.0,"nlp, natural-language-processing, pytorch, language-model, tensorflow"
+22,kubernetes,kubernetes,98451,36146,2014-06-06T22:56:04Z,2023-05-19T14:26:58Z,Go,74826,43071,3241,1194199,False,False,Apache License 2.0,"kubernetes, go, cncf, containers"
+23,PowerToys,microsoft,90666,5268,2019-05-01T17:44:02Z,2023-05-19T14:43:49Z,C#,4415,21577,1105,323852,False,False,MIT License,"powertoys, desktop, windows, fancyzones, microsoft-powertoys"
+24,material-ui,mui,86756,29813,2014-08-18T19:11:54Z,2023-05-19T14:09:17Z,TypeScript,19052,17376,1363,380649,False,False,MIT License,"react-components, react, javascript, material-design, design-systems"
+25,ant-design,ant-design,85935,39616,2015-04-24T15:37:24Z,2023-05-19T14:17:31Z,TypeScript,14117,26616,207,155159,False,False,MIT License,"react, ui-kit, typescript, antd, ant-design"
+26,rust,rust-lang,81634,10793,2010-06-16T20:39:03Z,2023-05-19T14:38:35Z,Rust,63022,48454,1484,920343,False,False,Other,"rust, compiler, language, hacktoberfest"
+27,storybook,storybookjs,78655,8462,2016-03-18T04:23:44Z,2023-05-19T13:43:45Z,TypeScript,10435,10783,955,672613,False,False,MIT License,"storybook, styleguide, testing, components, webpack"
+28,models,tensorflow,75807,46259,2016-02-05T01:15:20Z,2023-05-19T14:44:48Z,Jupyter Notebook,3736,7110,2781,612984,False,False,Other,
+29,awesome-chatgpt-prompts,f,75317,9578,2022-12-05T13:54:13Z,2023-05-19T14:45:26Z,HTML,480,0,997,624,False,False,Creative Commons Zero v1.0 Universal,"chatbot, chatgpt, chatgpt-api, language, bots"
+30,Font-Awesome,FortAwesome,71444,12427,2012-02-17T14:19:43Z,2023-05-19T08:38:53Z,JavaScript,665,18874,1382,110561,False,False,Other,"fontawesome, icons, webfont, font, css"
+31,django,django,70750,29226,2012-04-28T02:47:18Z,2023-05-19T14:38:06Z,Python,16821,0,2278,238068,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","python, django, web, framework, orm"
+32,advanced-java,doocs,70070,18304,2018-10-06T11:38:30Z,2023-05-19T14:22:29Z,Java,114,139,2615,33645,False,False,Creative Commons Attribution Share Alike 4.0 International,"java, distributed-systems, message-queue, redis, distributed-search-engine"
+33,free-for-dev,ripienaar,69989,7610,2015-03-18T21:06:26Z,2023-05-19T14:40:30Z,HTML,2789,0,1568,7035,False,False,None,"free-for-developers, awesome-list"
+34,HelloGitHub,521xueweihan,68965,8988,2016-05-04T06:24:11Z,2023-05-19T14:09:38Z,Python,31,2462,2772,4451,False,False,None,"github, hellogithub, python, awesome"
+35,gin,gin-gonic,68763,7455,2014-06-16T23:57:25Z,2023-05-19T13:16:32Z,Go,1559,2027,1368,3222,False,False,MIT License,"server, middleware, framework, go, router"
+36,awesome-vue,vuejs,68605,9343,2015-10-20T00:16:14Z,2023-05-19T14:25:00Z,None,3771,215,2148,13004,False,False,MIT License,
+37,svelte,sveltejs,67835,3316,2016-11-20T18:13:05Z,2023-05-19T12:44:18Z,TypeScript,3410,5000,872,90843,False,False,MIT License,"template, ui, compiler"
+38,pytorch,pytorch,66934,18354,2016-08-13T05:26:41Z,2023-05-19T13:59:05Z,Python,67831,33798,1650,1315308,False,False,Other,"neural-network, autograd, gpu, numpy, deep-learning"
+39,neovim,neovim,65974,4647,2014-01-31T13:39:22Z,2023-05-19T14:43:53Z,Vim Script,13852,9744,980,246808,False,False,Other,"neovim, c, vim, lua, nvim"
+40,moby,moby,65938,18679,2013-01-18T18:10:57Z,2023-05-19T13:17:30Z,Go,23333,21930,2957,197629,False,False,Apache License 2.0,"docker, containers, go"
+41,Front-End-Checklist,thedaviddias,65147,6248,2017-10-16T10:12:36Z,2023-05-19T14:41:13Z,None,292,144,1467,2870,False,False,Creative Commons Zero v1.0 Universal,"frontend, front-end-development, front-end-developer-tool, guidelines, checklist"
+42,Awesome-Hacking,Hack-with-Github,65056,8519,2016-03-30T15:47:10Z,2023-05-19T14:44:18Z,None,92,0,3717,165,False,False,Creative Commons Zero v1.0 Universal,"hacking, security, bug-bounty, awesome, android"
+43,tauri,tauri-apps,63594,1719,2019-07-13T09:09:37Z,2023-05-19T14:05:42Z,Rust,3442,2602,473,75190,False,False,Apache License 2.0,"rust, webview, high-performance, works-with-vue, works-with-gatsby"
+44,flask,pallets,62985,15660,2010-04-06T11:11:59Z,2023-05-19T13:37:19Z,Python,2402,2502,2133,10210,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","python, flask, wsgi, web-framework, werkzeug"
+45,swift,apple,62749,10082,2015-10-23T21:15:07Z,2023-05-19T09:35:27Z,C++,48707,13649,2516,989780,False,False,Apache License 2.0,
+46,GitHub-Chinese-Top-Charts,GrowingGit,61831,8941,2019-09-05T03:01:56Z,2023-05-19T13:03:02Z,Java,17,265,2217,46859,False,False,Other,
+47,interviews,kdn251,59803,12564,2017-02-14T18:19:25Z,2023-05-19T12:34:04Z,Java,164,52,2612,24091,False,False,MIT License,"java, interview, interview-questions, interview-practice, interview-preparation"
+48,redux,reduxjs,59580,15402,2015-05-29T23:53:15Z,2023-05-19T14:08:27Z,TypeScript,2436,1998,1299,28256,False,False,MIT License,redux
+49,protobuf,protocolbuffers,59398,15016,2014-08-26T15:52:15Z,2023-05-19T14:08:55Z,C++,7124,5551,2071,126735,False,False,Other,"protobuf, protocol-buffers, protocol-compiler, protobuf-runtime, protoc"
+50,angular.js,angular,59171,28123,2010-01-06T00:34:37Z,2023-05-19T10:00:59Z,JavaScript,7999,9039,3822,101744,False,True,MIT License,
+51,markdown-here,adam-p,58824,11414,2012-05-13T03:27:22Z,2023-05-19T13:07:43Z,JavaScript,82,604,1053,16027,False,False,MIT License,
+52,architect-awesome,xingshaocheng,58007,17710,2018-04-06T13:30:58Z,2023-05-19T14:27:59Z,None,79,67,3307,3080,False,False,None,
+53,jquery,jquery,57479,20776,2009-04-03T15:20:14Z,2023-05-19T13:49:55Z,JavaScript,2846,2248,3221,32351,False,False,MIT License,jquery
+54,ansible,ansible,57401,23353,2012-03-06T14:58:02Z,2023-05-19T13:52:44Z,Python,49164,31429,1953,242958,False,False,GNU General Public License v3.0,"python, ansible, hacktoberfest"
+55,vite,vitejs,56338,5001,2020-04-21T05:03:57Z,2023-05-19T14:27:06Z,TypeScript,4484,5752,405,33071,False,False,MIT License,"vite, hmr, frontend, build-tool, dev-server"
+56,33-js-concepts,leonardomso,56100,7857,2018-09-04T13:27:04Z,2023-05-19T14:16:07Z,JavaScript,273,52,1263,858,False,False,MIT License,"javascript, concepts, nodejs, react, angular"
+57,awesome-interview-questions,DopplerHQ,55302,7583,2015-11-28T09:48:17Z,2023-05-19T14:43:06Z,None,226,34,1600,1096,False,False,None,"awesome-list, awesomeness, interview-questions, interviewing, interview-practice"
+58,github-readme-stats,anuraghazra,55296,16624,2020-07-09T10:34:22Z,2023-05-19T14:47:53Z,JavaScript,1472,989,246,2102,False,False,MIT License,"profile-readme, dynamic, readme-generator, serverless, hacktoberfest"
+59,Apollo-11,chrislgarry,54814,6835,2014-04-03T15:45:02Z,2023-05-19T14:13:40Z,Assembly,497,377,1332,2964,False,False,Other,"agc, nasa, apollo, hacktoberfest"
+60,HowToCook,Anduin2017,53546,7707,2020-02-29T10:43:49Z,2023-05-19T13:39:13Z,HTML,633,599,368,402206,False,False,The Unlicense,"cookbook, recipes, cooking, dishes, chinese"
+61,fzf,junegunn,52261,2189,2013-10-23T16:04:23Z,2023-05-19T14:25:53Z,Go,730,2386,382,5005,False,False,MIT License,"fzf, go, bash, zsh, fish"
+62,syncthing,syncthing,52039,3765,2013-11-26T09:48:21Z,2023-05-19T14:19:26Z,Go,3746,5117,990,125278,False,False,Mozilla Public License 2.0,"synchronization, go, peer-to-peer, p2p"
+63,superset,apache,52009,10612,2015-07-21T18:55:34Z,2023-05-19T12:36:13Z,TypeScript,13355,9138,1469,450550,False,False,Apache License 2.0,"superset, apache, apache-superset, data-visualization, data-viz"
+64,spring-framework,spring-projects,51850,36144,2010-12-08T04:04:45Z,2023-05-19T10:43:06Z,Java,4253,23448,3373,191827,False,False,Apache License 2.0,"framework, spring, spring-framework"
+65,design-resources-for-developers,bradtraversy,51448,10487,2020-05-06T14:40:35Z,2023-05-19T14:38:27Z,None,1195,85,957,4906,False,False,MIT License,
+66,awesome-for-beginners,MunGell,51343,6240,2015-10-24T19:53:36Z,2023-05-19T14:01:31Z,None,1147,125,1254,498,False,False,None,"awesome, beginner-project, awesome-list, list, beginners-friendly"
+67,leetcode,azl397985856,51200,9307,2018-03-30T09:13:51Z,2023-05-19T14:05:24Z,JavaScript,304,246,1340,145884,False,False,Other,"algorithm, leetcode, interview, computer-science, cpp"
+68,awesome-nodejs,sindresorhus,51142,5652,2014-07-11T13:35:34Z,2023-05-19T14:00:33Z,None,1088,98,1658,1529,False,False,Creative Commons Zero v1.0 Universal,"awesome, awesome-list, nodejs, javascript, list"
+69,tesseract,tesseract-ocr,51036,8545,2014-08-12T18:04:59Z,2023-05-19T14:03:01Z,C++,1532,2510,1671,52740,False,False,Apache License 2.0,"tesseract, tesseract-ocr, ocr, lstm, machine-learning"
+70,Semantic-UI,Semantic-Org,50572,5103,2013-04-08T23:32:04Z,2023-05-19T11:37:55Z,JavaScript,878,6209,1320,113055,False,False,MIT License,"ui, ui-components, flexbox, css-framework, dropdown"
+71,DeepLearning-500-questions,scutan90,50570,15554,2018-06-27T06:36:45Z,2023-05-19T14:45:18Z,JavaScript,339,182,2311,207074,False,False,GNU General Public License v3.0,
+72,supabase,supabase,50354,3750,2019-10-12T05:56:49Z,2023-05-19T14:24:01Z,TypeScript,5753,2181,449,1133979,False,False,Apache License 2.0,"firebase, supabase, realtime, postgrest, postgres"
+73,requests,psf,49546,9092,2011-02-13T18:38:17Z,2023-05-19T14:13:08Z,Python,2396,3771,1353,12845,False,False,Apache License 2.0,"python, http, forhumans, requests, python-requests"
+74,ionic-framework,ionic-team,49015,13645,2013-08-20T23:06:02Z,2023-05-19T14:41:54Z,TypeScript,6388,20862,1630,1057159,False,False,MIT License,"ionic, mobile, framework, angular, javascript"
+75,ML-For-Beginners,microsoft,48415,9939,2021-03-03T01:34:05Z,2023-05-19T14:38:34Z,Jupyter Notebook,423,0,860,179658,False,False,MIT License,"ml, data-science, machine-learning, machine-learning-algorithms, machinelearning"
+76,excalidraw,excalidraw,48346,4112,2020-01-02T01:04:43Z,2023-05-19T14:42:51Z,TypeScript,3861,2517,286,42797,False,False,MIT License,"productivity, collaboration, diagrams, drawing, whiteboard"
+77,prometheus,prometheus,48217,8152,2012-11-24T11:14:12Z,2023-05-19T12:40:45Z,Go,6958,5065,1141,164674,False,False,Apache License 2.0,"monitoring, metrics, alerting, graphing, time-series"
+78,obs-studio,obsproject,47688,6866,2013-10-01T02:40:31Z,2023-05-19T14:43:48Z,C,5516,3074,1433,68815,False,False,GNU General Public License v2.0,"c, c-plus-plus, live-streaming, video-recording, screen-capture"
+79,imgui,ocornut,47564,8460,2014-07-21T14:29:47Z,2023-05-19T14:46:11Z,C++,1103,4800,1029,87757,False,False,MIT License,"gui, gamedev, tools, ui, toolkit"
+80,guava,google,47498,10543,2014-05-29T16:23:17Z,2023-05-19T13:38:12Z,Java,1685,3444,2431,420756,False,False,Apache License 2.0,"guava, java"
+81,moment,moment,47370,7143,2011-03-01T02:46:06Z,2023-05-19T12:35:22Z,JavaScript,2033,4049,870,20992,False,False,MIT License,
+82,awesome-courses,prakhar1989,47210,7997,2014-11-15T18:36:49Z,2023-05-19T13:52:01Z,None,265,69,2292,1401,False,False,None,"computer-science, courses, awesome-list, awesome"
+83,bulma,jgthms,47151,3945,2016-01-23T23:48:34Z,2023-05-19T08:59:17Z,CSS,1124,2463,603,102311,False,False,MIT License,"css, html, flexbox, css-framework, design"
+84,awesome-flutter,Solido,46813,6341,2017-05-07T11:45:27Z,2023-05-19T14:17:41Z,Dart,914,0,1592,3290,False,False,None,"flutter, awesome-list, dartlang, mobile-development, flutter-plugin"
+85,SecLists,danielmiessler,46634,22977,2012-02-19T01:30:18Z,2023-05-19T13:12:51Z,PHP,627,216,1847,909811,False,False,MIT License,
+86,nuxt,nuxt,45359,3944,2016-10-26T11:18:47Z,2023-05-19T11:35:50Z,TypeScript,3816,11880,784,103822,False,False,MIT License,"csr, full-stack, hybrid, node, nuxt"
+87,anime,juliangarnier,45175,3656,2016-03-13T21:37:45Z,2023-05-19T14:44:34Z,JavaScript,154,678,740,49045,False,False,MIT License,"animation, anime, javascript-library, svg, canvas"
+88,awesome-scalability,binhnguyennus,45150,5042,2017-12-27T03:46:40Z,2023-05-19T12:51:54Z,None,82,0,1765,1458,False,False,MIT License,"system-design, backend, scalability, interview, architecture"
+89,big-list-of-naughty-strings,minimaxir,44831,2138,2015-08-08T20:57:20Z,2023-05-19T14:41:16Z,Python,159,91,857,330,False,False,MIT License,
+90,serverless,serverless,44741,5587,2015-04-21T03:48:40Z,2023-05-19T14:02:56Z,JavaScript,5288,5946,959,96947,False,False,MIT License,"serverless, serverless-framework, serverless-architectures, aws-lambda, google-cloud-functions"
+91,docusaurus,facebook,44720,6955,2017-06-20T16:13:53Z,2023-05-19T14:44:02Z,TypeScript,5429,2624,375,245456,False,False,MIT License,"documentation, website, javascript, react, open-source"
+92,okhttp,square,43987,9107,2012-07-23T13:42:55Z,2023-05-19T11:44:55Z,Kotlin,3858,3816,1639,48637,False,False,Apache License 2.0,"java, android, kotlin, graalvm"
+93,meteor,meteor,43479,5244,2012-01-19T01:58:17Z,2023-05-19T07:15:50Z,JavaScript,3544,8871,1576,120577,False,False,Other,"javascript, meteor, mongodb, build-system, npm"
+94,node,base-org,43447,951,2023-02-01T13:55:02Z,2023-05-19T14:46:06Z,Shell,36,14,233,2579,False,False,MIT License,
+95,etcd,etcd-io,43445,9248,2013-07-06T21:57:21Z,2023-05-19T10:01:42Z,Go,9550,6197,1340,75283,False,False,Apache License 2.0,"etcd, raft, distributed-systems, kubernetes, go"
+96,awesome-ios,vsouza,42867,6780,2014-07-10T16:03:45Z,2023-05-19T14:02:57Z,Swift,2653,462,1837,13400,False,False,MIT License,"awesome, swift-library, swift-extensions, swift-framework, ios-animation"
+97,AdminLTE,ColorlibHQ,42521,18088,2013-12-25T02:52:40Z,2023-05-19T12:24:36Z,JavaScript,2152,2762,2009,131611,False,False,MIT License,"bootstrap, admin-dashboard, admin, admin-template, admin-panel"
+98,parcel,parcel-bundler,42361,2262,2017-08-07T16:36:47Z,2023-05-19T14:42:51Z,JavaScript,2821,5054,457,38619,False,False,MIT License,"module-bundler, build-tool, javascript, css, html"
+99,go-ethereum,ethereum,42284,16599,2013-12-26T13:05:46Z,2023-05-19T14:40:27Z,Go,8697,7251,2202,203856,False,False,GNU Lesser General Public License v3.0,"go, blockchain, ethereum, p2p, geth"
+100,stf,openstf,12794,2635,2015-06-22T02:23:43Z,2023-05-19T07:49:13Z,JavaScript,237,1098,630,71754,False,False,Other,"stf, android-development, android, device-farm"
+101,turbolinks,turbolinks,12794,640,2016-02-01T02:14:01Z,2023-05-15T20:59:00Z,TypeScript,124,488,187,596,False,True,MIT License,
+102,newspaper,codelucas,12778,2023,2013-11-25T09:50:50Z,2023-05-19T13:26:13Z,Python,304,663,382,18349,False,False,MIT License,"python, news, crawler, crawling, scraper, news-aggregator"
+103,YYeTsBot,tgbot-collection,12769,1669,2019-08-15T07:50:56Z,2023-05-19T11:26:14Z,Python,166,80,176,19968,False,False,MIT License,"yyets, telegram-bot, movies, tv-shows, bot, zimuxia"
+104,pinpoint,pinpoint-apm,12758,3719,2014-10-20T09:27:22Z,2023-05-19T02:06:28Z,Java,6063,3864,745,249086,False,False,Apache License 2.0,"apm, monitoring, performance, agent, distributed-tracing, tracing"
+105,chinese-copywriting-guidelines,sparanoid,12757,1758,2014-03-17T08:27:16Z,2023-05-19T14:02:18Z,None,96,69,261,364,False,False,MIT License,"chinese, markdown, copywriting, css, chinese-simplified, chinese-traditional, guideline, documentation, leancloud"
+106,speedtest-cli,sivel,12754,1913,2012-09-10T19:17:53Z,2023-05-19T12:12:00Z,Python,203,0,313,312,False,False,Apache License 2.0,"python, python-library, python-script, speedtest"
+107,ZY-Player,Hunlongyu,12734,2090,2019-11-27T06:38:56Z,2023-05-19T13:11:59Z,Vue,82,486,263,19743,False,False,MIT License,"video, electron, vue, player, zy-player, electron-application, electron-app, zyplayer"
+108,codon,exaloop,12702,460,2021-09-27T17:56:34Z,2023-05-19T14:15:35Z,C++,65,278,116,3759,False,False,Other,"python, compiler, llvm, high-performance, gpu-programming, parallel-programming"
+109,foundationdb,apple,12698,1241,2017-12-14T01:40:42Z,2023-05-19T12:17:28Z,C++,8544,1668,290,158123,False,False,Apache License 2.0,"key-value-store, transactional, acid, distributed-database, foundationdb"
+110,http-server,http-party,12688,1451,2011-06-16T23:54:57Z,2023-05-18T20:01:45Z,JavaScript,342,510,193,2118,False,False,MIT License,"http, static, hosting, server, command-line, hacktoberfest"
+111,swift-style-guide,kodecocodes,12685,2134,2014-06-10T00:52:42Z,2023-05-19T07:06:34Z,None,160,199,559,2622,False,False,Other,
+112,pulsar,apache,12683,3288,2016-06-28T07:00:03Z,2023-05-19T08:47:24Z,Java,13770,6187,412,186708,False,False,Apache License 2.0,"pulsar, pubsub, messaging, streaming, queuing, event-streaming"
+113,bootstrap-sass,twbs,12677,3634,2011-09-06T18:58:49Z,2023-05-17T08:43:53Z,SCSS,393,837,550,3183,False,False,MIT License,
+114,vue-awesome-swiper,surmon-china,12672,1990,2016-10-05T17:15:44Z,2023-05-19T06:38:02Z,JavaScript,79,769,215,1196,False,False,MIT License,"slide, vue, vue-swiper, vue-components, vue-awesome-swiper, nuxtjs, vuejs, vuejs2, vue2, vue-component"
+115,dev-sidecar,docmirror,12664,1527,2020-09-29T10:38:20Z,2023-05-19T13:33:06Z,JavaScript,6,243,102,8547,False,False,Mozilla Public License 2.0,"dev-sidecar, fastgit, dns-ip, internet, lerna, proxy, gfw, mitmproxy, electron, fastgithub"
+116,leon,leon-ai,12658,1021,2019-02-10T12:25:12Z,2023-05-19T14:21:34Z,TypeScript,218,269,223,12643,False,False,MIT License,"leon, personal-assistant, nodejs, python, ai, artificial-intelligence, speech-to-text, text-to-speech, speech-recognition, speech-synthesis"
+117,carbonyl,fathyb,12657,280,2023-01-20T10:58:22Z,2023-05-19T12:33:09Z,Rust,49,101,62,283,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","browser, chromium, terminal"
+118,react-jsonschema-form,rjsf-team,12654,2077,2015-12-16T15:14:05Z,2023-05-19T08:51:36Z,TypeScript,1760,1856,162,230254,False,False,Apache License 2.0,"react, json-schema, forms, ui, web, json, data-validation"
+119,stetho,facebookarchive,12643,1162,2015-01-22T22:34:10Z,2023-05-19T09:01:03Z,Java,321,378,376,2353,False,True,MIT License,
+120,smartcrop.js,jwagner,12642,614,2014-04-03T14:21:19Z,2023-05-19T14:16:41Z,JavaScript,29,90,217,23126,False,False,MIT License,"smartcrop, javascript, nodejs, image-processing"
+121,kubesphere,kubesphere,12638,1899,2018-04-21T02:03:04Z,2023-05-19T11:25:12Z,Go,1853,3693,210,70000,False,False,Apache License 2.0,"devops, container-management, k8s, cncf, cloud-native, servicemesh, kubesphere, kubernetes-platform-solution, kubernetes, jenkins"
+122,IGListKit,Instagram,12630,1576,2016-09-07T08:39:27Z,2023-05-19T09:22:56Z,Objective-C,634,924,340,8276,False,False,MIT License,"uicollectionview, ios, objective-c, diffing, instagram"
+123,flipper,facebook,12628,920,2018-04-12T16:47:36Z,2023-05-19T11:46:09Z,TypeScript,3314,1339,172,216161,False,False,MIT License,
+124,marko,marko-js,12627,673,2014-01-07T23:58:21Z,2023-05-19T12:33:44Z,JavaScript,904,1031,210,19295,False,False,MIT License,"javascript, ui-components, dom, vdom, nodejs, server-side-rendering, client-side-rendering, isomorphic, frontend"
+125,redux-form,redux-form,12611,1693,2015-07-31T16:07:03Z,2023-05-18T07:50:25Z,JavaScript,1047,3731,176,10020,False,False,MIT License,"redux, redux-form, react, form, forms, form-validation, validation"
+126,Go,TheAlgorithms,12605,2204,2016-08-20T16:32:12Z,2023-05-19T13:57:00Z,Go,561,70,275,2390,False,False,MIT License,"algorithms, algorithms-implemented, data-structures, datastructures, sorting, search, interview, interview-preparation, preparation, community-driven"
+127,redux-persist,rt2zz,12599,865,2015-07-23T04:43:58Z,2023-05-19T11:09:49Z,TypeScript,418,1022,87,1111,False,False,MIT License,"persistor, storage, redux, redux-middleware"
+128,mirai,mamoe,12598,2500,2019-08-07T10:14:28Z,2023-05-19T13:22:40Z,Kotlin,557,1840,132,97133,False,False,GNU Affero General Public License v3.0,"java, kotlin, mirai, chatbot"
+129,bootstrap-datepicker,uxsolutions,12589,6204,2012-03-17T01:11:40Z,2023-05-17T19:21:09Z,JavaScript,930,1752,454,6017,False,False,Apache License 2.0,"bootstrap-datepicker, javascript, bootstrap"
+130,omi,Tencent,12585,1258,2015-05-31T14:24:58Z,2023-05-19T04:00:26Z,JavaScript,462,305,347,139392,False,False,Other,"omi, jsx, web-components, virtual-dom, mp, mini-program, miniprogram, weapp, custom-elements, shadow-dom"
+131,goquery,PuerkitoBio,12579,884,2012-08-29T02:14:59Z,2023-05-19T06:45:42Z,Go,86,351,251,517,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","selector-strings, jquery, html-parsing, goquery"
+132,nginx-rtmp-module,arut,12569,3456,2012-03-14T05:37:38Z,2023-05-19T12:30:36Z,C,150,1563,662,3175,False,False,"BSD 2-Clause ""Simplified"" License",
+133,naming-cheatsheet,kettanaito,12565,756,2017-06-30T07:46:04Z,2023-05-19T14:07:27Z,None,56,36,121,56,False,False,MIT License,"naming, naming-conventions, naming-cheatsheet, cheatsheet, variables, guideline, guidelines, pattern, naming-schemes, naming-pattern"
+134,UglifyJS,mishoo,12559,1265,2012-08-27T09:31:03Z,2023-05-19T07:17:10Z,JavaScript,2944,2834,272,18247,False,False,Other,
+135,Auto.js,clearw5,12520,3925,2017-01-27T01:01:16Z,2023-05-19T08:26:26Z,None,47,0,295,8,False,True,None,"android, uiautomator, automation, javascript, workflow, tasker, javascript-ide, autojs, nodejs"
+136,polybar,polybar,12518,607,2016-05-19T14:16:23Z,2023-05-19T03:57:27Z,C++,833,1975,128,8738,False,False,MIT License,"polybar, linux, bar, window-manager, i3wm, bspwm, hacktoberfest, cpp, x11"
+137,Tone.js,Tonejs,12495,969,2014-03-11T04:56:45Z,2023-05-19T08:03:02Z,TypeScript,256,922,214,29377,False,False,MIT License,"web-audio, javascript, music, synthesis, scheduling, samples, tone"
+138,capistrano,capistrano,12483,1829,2009-02-26T16:14:04Z,2023-05-19T01:27:34Z,Ruby,897,1113,322,4524,False,False,MIT License,"deployment, ssh, ruby, capistrano"
+139,sidekiq,sidekiq,12476,2319,2012-01-16T23:17:27Z,2023-05-19T10:37:54Z,Ruby,1509,4293,223,13467,False,False,Other,"ruby, sidekiq, background-jobs, jobs"
+140,secguide,Tencent,12475,1880,2021-05-18T12:42:49Z,2023-05-19T10:46:31Z,None,26,50,212,245,False,False,Other,"security, guide"
+141,SwifterSwift,SwifterSwift,12471,1545,2016-08-01T22:25:24Z,2023-05-19T10:55:59Z,Swift,768,313,291,16231,False,False,MIT License,"swift, xcode, carthage, cocoapods, tvos, ios, macos, swifterswift, extensions, uikit"
+142,fig-standards,php-fig,12449,2945,2010-11-05T04:44:12Z,2023-05-18T15:41:23Z,None,1098,0,893,3365,False,False,Other,
+143,whistle,avwo,12449,1011,2015-03-13T05:42:01Z,2023-05-19T13:33:24Z,JavaScript,116,785,202,77567,False,False,MIT License,"fiddler, charles, hosts, web, proxy, debug, node, nodejs, weinre"
+144,homebrew-core,Homebrew,12440,11470,2016-03-01T06:58:36Z,2023-05-19T10:17:44Z,Ruby,126075,5106,295,601149,False,False,"BSD 2-Clause ""Simplified"" License","homebrew, formulae, ruby, tap, core, hacktoberfest"
+145,react-native-gifted-chat,FaridSafi,12439,3483,2015-11-14T15:45:34Z,2023-05-19T05:06:34Z,TypeScript,849,1543,194,47877,False,False,MIT License,"react-native, chat, component"
+146,ruffle,ruffle-rs,12439,642,2019-04-25T17:53:32Z,2023-05-19T14:51:01Z,Rust,4331,6433,146,65743,False,False,Other,"swf, flash, rust, emulator, reimplementation, hacktoberfest"
+147,awesome-quant,wilsonfreitas,12425,2040,2015-09-30T09:53:49Z,2023-05-19T14:51:29Z,Python,100,50,618,494,False,False,None,"finance, financial-data, stock-data, awesome, awesome-list, quantitative-finance, quant, quantitative-trading, yahoo-finance, finance-api"
+148,IoT-For-Beginners,microsoft,12417,1767,2021-03-03T16:33:45Z,2023-05-19T14:38:33Z,C++,321,112,287,326833,False,False,MIT License,"iot, microcontroller, raspberry-pi, rpi, cpp, python, iot-edge, iot-device, hacktoberfest"
+149,banner,youth5201314,12386,2405,2016-04-22T05:50:25Z,2023-05-19T11:15:39Z,Java,32,1154,236,11314,False,False,Apache License 2.0,"banner, viewpager, viewpager2, indicator, androidx"
+150,playframework,playframework,12382,4104,2011-09-07T09:24:08Z,2023-05-18T12:43:01Z,Scala,8029,3669,657,106660,False,False,Apache License 2.0,"scala, java, reactive, web-framework, restful, play, playframework, jvm, framework, webapps"
+151,postgres,postgres,12381,3896,2010-09-21T11:35:45Z,2023-05-19T11:22:30Z,C,133,0,506,787976,False,False,Other,
+152,Sa-Token,dromara,12373,2206,2020-02-03T10:34:29Z,2023-05-19T13:41:28Z,Java,73,376,143,5424,False,False,Apache License 2.0,"java, token, authorization, sso, aouth2, springcloud"
+153,wtfpython-cn,leisurelicht,12372,2085,2018-11-10T09:37:58Z,2023-05-19T08:45:59Z,Python,12,32,525,338,False,False,Do What The F*ck You Want To Public License,
+154,reinforcement-learning-an-introduction,ShangtongZhang,12370,4653,2016-09-13T16:24:05Z,2023-05-19T12:38:06Z,Python,62,97,562,6162,False,False,MIT License,"reinforcement-learning, artificial-intelligence"
+155,unilm,microsoft,12350,1818,2019-07-23T04:15:28Z,2023-05-19T14:34:35Z,Python,142,953,263,18071,False,False,MIT License,"nlp, pre-trained-model, unilm, minilm, layoutlm, multimodal-pre-trained-model, layoutxlm, beit, document-ai, trocr"
+156,piggymetrics,sqshq,12340,5868,2015-03-29T17:56:31Z,2023-05-19T07:44:44Z,Java,44,0,834,1524,False,False,MIT License,"spring-boot, spring-cloud, microservices, docker, microservice"
+157,frida,frida,12331,1329,2013-04-12T22:35:05Z,2023-05-19T13:09:29Z,Makefile,120,2348,312,20690,False,False,Other,"frida, instrumentation, vala"
+158,kaniko,GoogleContainerTools,12315,1258,2018-01-29T17:53:54Z,2023-05-19T13:56:36Z,Go,1223,1286,140,43008,False,False,Apache License 2.0,"containers, docker, developer-tools, kubernetes"
+159,react-pdf,diegomura,12308,1015,2016-10-18T21:33:58Z,2023-05-19T10:29:03Z,JavaScript,643,1480,101,29203,False,False,MIT License,"react, pdf, renderer, flexbox"
+160,lib-flexible,amfe,12307,3530,2014-09-10T07:59:51Z,2023-05-19T09:06:26Z,JavaScript,13,198,518,8577,False,False,None,
+161,AndroidSwipeLayout,daimajia,12297,2699,2014-08-25T04:09:33Z,2023-05-19T09:01:07Z,Java,65,502,462,399,False,False,MIT License,
+162,AndroidViewAnimations,daimajia,12281,2441,2014-06-23T03:53:13Z,2023-05-19T08:55:51Z,Java,35,135,475,297,False,False,MIT License,"animation, android, easing-functions"
+163,Bringing-Old-Photos-Back-to-Life,microsoft,12280,1631,2020-06-24T06:37:58Z,2023-05-19T13:37:36Z,Python,30,232,272,41892,False,False,MIT License,"image-restoration, old-photo-restoration, generative-adversarial-network, gans, pytorch, image-manipulation, photo-restoration, photos"
+164,htmx,bigskysoftware,12259,464,2020-04-13T16:17:51Z,2023-05-19T14:50:30Z,JavaScript,605,718,116,22745,False,False,"BSD 2-Clause ""Simplified"" License","html, javascript, hateoas, rest, htmx, hyperscript"
+165,book,rust-lang,12258,2902,2015-12-11T22:49:49Z,2023-05-19T13:40:25Z,Rust,1923,1719,223,45646,False,False,Other,"mdbook, rust, rust-programming-language, book"
+166,webpack-bundle-analyzer,webpack-contrib,12254,523,2016-10-26T04:24:35Z,2023-05-19T12:25:11Z,JavaScript,268,285,93,2790,False,False,MIT License,"webpack, webpack-bundle-analyzer, analyze, bundle, interactive, treemap, size, chart"
+167,react-hot-loader,gaearon,12241,837,2014-07-12T23:49:43Z,2023-05-06T08:31:46Z,JavaScript,955,961,174,9389,False,False,MIT License,
+168,awx,ansible,12235,3115,2017-05-17T15:50:14Z,2023-05-19T13:00:20Z,Python,6320,7634,372,283605,False,False,Other,"python, ansible, django, django-rest-framework, awx, automation, reactjs, hacktoberfest"
+169,wasmtime,bytecodealliance,12234,988,2017-08-29T14:01:55Z,2023-05-19T13:28:24Z,Rust,4580,1813,179,133703,False,False,Apache License 2.0,"wasm, jit, sandbox, cranelift, wasi, wasmtime, webassembly, runtime, rust, aot"
+170,simplefolio,cobiwave,12226,4965,2019-06-28T06:07:04Z,2023-05-19T07:48:52Z,SCSS,164,93,59,16960,False,False,MIT License,"javascript, scss, template, portfolio, html5, css3, simplefolio, minimal-portfolio-template, parcel-bundler, parcel"
+171,hacker-laws-zh,nusr,12211,1029,2019-05-15T01:25:34Z,2023-05-19T02:47:46Z,None,29,13,361,1417,False,False,MIT License,"principles, coding, computerscience, laws, chinese"
+172,dataloader,graphql,12185,536,2015-09-10T10:05:23Z,2023-05-19T05:22:23Z,JavaScript,161,170,143,693,False,False,MIT License,"nodejs, dataloader, graphql, batch"
+173,mean,linnovate,12176,3532,2013-05-22T12:15:47Z,2023-05-19T02:11:22Z,TypeScript,788,1262,619,10014,False,False,None,"stack, angular, javascript, mongodb, express, node"
+174,PhpSpreadsheet,PHPOffice,12170,3034,2016-06-19T16:58:48Z,2023-05-19T14:19:58Z,PHP,1652,1702,313,51514,False,False,MIT License,"php, spreadsheet, excel, libreoffice, xlsx, ods, xls, phpexcel, sylk, office"
+175,awesome-microservices,mfornos,12163,1733,2015-05-03T13:56:04Z,2023-05-19T09:05:59Z,None,219,22,636,1155,False,False,Creative Commons Zero v1.0 Universal,"awesome, microservices, microservices-architecture, cloud-native, cloud-computing"
+176,JSVerbalExpressions,VerbalExpressions,12155,529,2013-07-19T14:59:46Z,2023-05-18T03:28:47Z,JavaScript,311,110,264,2942,False,False,MIT License,"verbalexpressions, javascript-regular-expressions"
+177,brotli,google,12155,1195,2014-10-09T14:35:14Z,2023-05-19T08:14:42Z,C,642,359,337,40356,False,False,MIT License,
+178,tushare,waditu,12153,4267,2015-01-07T07:51:14Z,2023-05-19T14:44:01Z,Python,133,1567,988,7549,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","python, finance, fintech, stock-market, stock-data, tushare, pandas, realtime-quotes-data"
+179,DZNEmptyDataSet,dzenbot,12133,1758,2014-06-03T14:50:31Z,2023-05-18T09:31:07Z,Objective-C,141,338,259,14208,False,True,MIT License,
+180,blog_os,phil-opp,12094,898,2015-07-23T15:23:54Z,2023-05-19T13:30:06Z,HTML,727,424,277,17145,False,False,Apache License 2.0,"kernel, rust, operating-system, x86-64, hacktoberfest"
+181,LxgwWenKai,lxgw,12085,384,2021-01-30T15:41:52Z,2023-05-19T10:56:39Z,Batchfile,13,90,76,721042,False,False,SIL Open Font License 1.1,"font, cjk, typeface"
+182,mailinabox,mail-in-a-box,12077,1343,2013-08-21T13:56:50Z,2023-05-19T13:59:08Z,Python,688,1559,299,3517,False,False,Creative Commons Zero v1.0 Universal,"smtp, email, mail, server"
+183,ai-edu,microsoft,12074,2754,2018-11-16T04:36:22Z,2023-05-19T09:08:33Z,HTML,660,132,453,986133,False,False,Other,
+184,examples-of-web-crawlers,shengqiangzhang,12064,3633,2019-03-13T07:11:23Z,2023-05-19T14:22:09Z,Python,10,107,338,243974,False,False,MIT License,"crawler, spider, taobao, tmall, example, python, selenium, pyquery, stock, fund"
+185,Halfrost-Field,halfrost,12041,1864,2017-04-02T11:24:18Z,2023-05-19T14:30:39Z,Go,8,34,480,105246,False,False,Creative Commons Attribution Share Alike 4.0 International,"ios, source-code, objective-c, swift, javascript, analyze, article, golang, go, machine-learning"
+186,tengine,alibaba,12031,2475,2012-03-21T06:34:37Z,2023-05-19T07:40:06Z,C,890,882,904,22744,False,False,"BSD 2-Clause ""Simplified"" License","tengine, nginx"
+187,tailscale,tailscale,12022,820,2020-01-31T22:00:03Z,2023-05-19T14:22:37Z,Go,3921,4228,128,19798,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","wireguard, oauth, sso, 2fa, vpn, tailscale"
+188,magnetW,xiandanin,12020,2174,2018-03-09T05:35:26Z,2023-05-19T07:43:23Z,JavaScript,7,0,300,7347,False,True,GNU General Public License v3.0,"electron, vue, electron-vue"
+189,vim-pathogen,tpope,12007,1206,2009-12-13T20:59:18Z,2023-05-17T22:54:17Z,Vim Script,51,171,423,103,False,False,Vim License,
+190,reaction,reactioncommerce,11995,2165,2013-09-18T15:30:36Z,2023-05-18T16:50:50Z,JavaScript,3122,3551,432,112513,False,False,GNU General Public License v3.0,"ecommerce-platform, ecommerce, commerce, reactioncommerce, e-commerce, javascript, cart, shop, storefront, marketplace"
+191,browserslist,browserslist,11979,691,2014-12-13T19:35:45Z,2023-05-19T12:25:48Z,JavaScript,264,471,138,4257,False,False,MIT License,
+192,fluentd,fluent,11969,1293,2011-06-19T08:41:40Z,2023-05-18T22:53:31Z,Ruby,1890,1998,338,19230,False,False,Apache License 2.0,"fluentd, logging, data-collector, ruby, cncf"
+193,prefect,PrefectHQ,11966,1227,2018-06-29T21:59:26Z,2023-05-19T11:50:18Z,Python,5407,3718,152,120909,False,False,Apache License 2.0,"python, workflow, data-engineering, data-science, workflow-engine, prefect, infrastructure, ml-ops, data-ops, automation"
+194,Material,CosmicMind,11961,1287,2015-08-22T16:21:53Z,2023-05-18T21:25:51Z,Swift,248,1059,290,34053,False,False,MIT License,"material, design, material-design, animation, graphics, ios, ui, ux, material-colors, navigation-drawer"
+195,browser-sync,BrowserSync,11961,785,2013-10-12T19:35:45Z,2023-05-19T10:16:57Z,JavaScript,338,1686,251,13824,False,False,Apache License 2.0,
+196,wechat-chatgpt,fuergaosi233,11945,3621,2022-12-06T13:15:21Z,2023-05-19T08:50:02Z,TypeScript,153,722,89,1301,False,False,None,
+197,PHP-CS-Fixer,PHP-CS-Fixer,11940,1508,2012-05-16T06:42:23Z,2023-05-19T11:22:45Z,PHP,4330,2607,212,28355,False,False,MIT License,"php, static-analysis, code-style, code-standards"
+198,postgraphile,graphile,11933,552,2016-04-14T21:29:19Z,2023-05-18T15:14:13Z,TypeScript,690,998,133,18373,False,False,MIT License,"graphql, postgres, typescript, postgraphql, schema, graphql-api, automatic-api, graphile, graphql-js, pg"
+199,explainshell,idank,11922,745,2013-08-30T11:20:11Z,2023-05-19T10:15:13Z,Python,46,268,203,1137,False,False,GNU General Public License v3.0,
+200,terraform,hashicorp,37297,8625,2014-03-13T22:25:48Z,2023-05-19T14:24:51Z,Go,13108,19786,1194,299584,False,False,Mozilla Public License 2.0,"graph, infrastructure-as-code, terraform, cloud, cloud-management"
+201,vuetify,vuetifyjs,37170,6783,2016-09-12T00:39:35Z,2023-05-19T13:40:25Z,TypeScript,4538,12158,602,83573,False,False,MIT License,"vue, vuejs, vue-components, material-design, material, material-theme, material-components, javascript, semantic, vue-material"
+202,bypass-paywalls-chrome,iamadamdev,37135,2737,2018-04-07T20:33:19Z,2023-05-19T14:17:26Z,JavaScript,194,999,567,1321,False,False,None,"chrome-extension, chrome-extensions, bypass, paywall, chrome, bypass-paywalls, firefox-addon, firefox, firefox-extension"
+203,awesome-chatgpt-prompts-zh,PlexPt,36763,11594,2022-12-12T01:55:03Z,2023-05-19T14:20:21Z,None,46,79,263,39727,False,False,MIT License,"chatgpt, chat-gpt, chatgpt3, chatgpt4, gpt"
+204,freecodecamp.cn,FreeCodeCampChina,36460,1371,2016-09-30T03:13:43Z,2023-05-19T02:43:08Z,CSS,72,585,788,30959,False,False,Other,"freecodecamp, cn-freecodecamp, nodejs, education, javascript, curriculum, certification, community, react, career"
+205,gpt4free,xtekky,36273,9350,2023-03-29T17:00:43Z,2023-05-19T14:51:24Z,Python,157,368,375,158773,False,False,GNU General Public License v3.0,"chatgpt, chatgpt-4, chatgpt4, gpt, gpt-3, gpt-4, gpt3, gpt4, gpt4-api, openai"
+206,FFmpeg,FFmpeg,36188,10903,2011-04-14T14:12:38Z,2023-05-19T14:26:56Z,C,381,0,1366,353636,False,False,Other,"ffmpeg, video, audio, c, mpeg, webm, mp4, matroska, hls, rtsp"
+207,joplin,laurent22,35932,3977,2017-01-16T21:49:41Z,2023-05-19T13:57:02Z,TypeScript,2864,5297,454,372989,False,False,Other,"react-native, nodejs, onedrive, android, synchronisation, electron, evernote, enex-files, nextcloud, webdav"
+208,video.js,videojs,35582,7372,2010-05-14T18:45:10Z,2023-05-19T11:35:12Z,JavaScript,3006,5028,1282,126669,False,False,Other,"video, player, hls, javascript, videojs, html, html5-video, html5-audio, html5, dash"
+209,ailearning,apachecn,35464,11121,2017-02-25T08:53:02Z,2023-05-19T13:35:52Z,Python,528,107,1683,171448,False,False,Other,"fp-growth, apriori, mahchine-leaning, naivebayes, svm, adaboost, kmeans, svd, pca, logistic"
+210,open-source-mac-os-apps,serhii-londar,35386,2190,2017-11-03T02:35:33Z,2023-05-19T10:53:00Z,None,644,186,946,5871,False,False,Creative Commons Zero v1.0 Universal,"macos, mac, macosx, apps, applications, awesome-list, opensource, open-source, awesome, swift"
+211,cheat.sh,chubin,35320,1699,2017-05-07T21:40:56Z,2023-05-19T13:11:19Z,Python,153,227,588,4558,False,False,MIT License,"cheatsheet, curl, terminal, command-line, cli, examples, documentation, help, tldr, hacktoberfest2021"
+212,Magisk,topjohnwu,35035,9303,2016-09-08T12:42:53Z,2023-05-19T14:25:37Z,C++,1930,4877,1415,57315,False,False,GNU General Public License v3.0,
+213,lazygit,jesseduffield,35033,1411,2018-05-19T00:53:06Z,2023-05-19T14:18:47Z,Go,1133,1337,255,37610,False,False,MIT License,"cli, git, terminal"
+214,json,nlohmann,34912,6020,2013-07-04T08:47:49Z,2023-05-19T14:25:26Z,C++,935,2124,755,180615,False,False,MIT License,"json, json-pointer, json-patch, cbor, msgpack, header-only, stl-containers, json-serialization, json-parser, rfc-6901"
+215,AppFlowy,AppFlowy-IO,34803,2119,2021-06-16T12:56:48Z,2023-05-19T13:30:17Z,Rust,1369,1106,297,46033,False,False,GNU Affero General Public License v3.0,"flutter, flutter-apps, flutter-examples, flutter-app, flutter-ui, rust, rust-language, rust-lang, notion, notion-alternative"
+216,jeecg-boot,jeecgboot,34648,13535,2018-11-26T10:40:00Z,2023-05-19T12:13:27Z,Java,186,4184,840,52023,False,False,Apache License 2.0,"spring-boot, ant-design, mybatis, vue, ant-design-vue, shiro, antd, jbpm, activiti, codegenerator"
+217,awesome-rust,rust-unofficial,34642,2200,2014-07-17T10:45:10Z,2023-05-19T14:18:37Z,Rust,1354,123,782,6709,False,False,Creative Commons Zero v1.0 Universal,"rust, awesome"
+218,jadx,skylot,34560,4291,2013-03-18T17:08:21Z,2023-05-19T14:05:50Z,Java,443,1419,797,19373,False,False,Apache License 2.0,"android, dex, java, decompiler"
+219,node-v0.x-archive,nodejs,34555,7508,2009-05-27T16:29:46Z,2023-05-19T12:19:35Z,None,3796,6380,2057,144238,False,True,None,
+220,wrk,wg,34490,2810,2012-03-20T11:12:28Z,2023-05-19T13:58:44Z,C,126,384,751,38743,False,False,Other,
+221,starship,starship,34251,1464,2019-04-02T03:23:12Z,2023-05-19T13:29:51Z,Rust,2837,1841,174,32061,False,False,ISC License,"zsh-theme, fish-theme, zsh-prompt, fish-prompt, shell-prompt, oh-my-zsh, rust, starship, zsh, powershell"
+222,ant-design-pro,ant-design,34226,7902,2017-08-25T10:40:44Z,2023-05-19T11:29:31Z,TypeScript,1404,9132,762,7457,False,False,MIT License,"antd, react, enterprise, boilerplate, admin, umi, dashboard, ant-design, antv"
+223,tutorials,eugenp,34170,53591,2013-04-29T18:26:36Z,2023-05-19T07:13:14Z,Java,13373,672,1525,375658,False,False,MIT License,
+224,monaco-editor,microsoft,34132,3277,2016-06-07T16:56:31Z,2023-05-19T14:44:45Z,JavaScript,446,3207,516,121326,False,False,MIT License,"monaco-editor, vscode, editor, browser, typescript"
+225,tabler,tabler,34092,3602,2018-02-01T09:08:59Z,2023-05-19T13:44:23Z,HTML,683,747,631,137801,False,False,MIT License,"dashboard, html, bootstrap, sass, scss, boilerplate-template, admin-dashboard, dashboard-templates, modular, dashboards"
+226,tidb,pingcap,34069,5476,2015-09-06T04:01:52Z,2023-05-19T14:42:32Z,Go,28977,14945,1289,459106,False,False,Apache License 2.0,"distributed-database, distributed-transactions, tidb, database, scale, mysql, htap, sql, cloud-native, serverless"
+227,koa,koajs,34011,3297,2013-07-20T18:53:45Z,2023-05-19T09:10:32Z,JavaScript,815,887,835,3423,False,False,MIT License,koa
+228,og-aws,open-guides,33932,3685,2016-07-13T17:30:16Z,2023-05-19T13:33:44Z,Shell,583,224,1219,7680,False,False,Creative Commons Attribution 4.0 International,
+229,pure-bash-bible,dylanaraps,33560,3076,2018-06-13T01:39:33Z,2023-05-19T10:01:07Z,Shell,59,74,741,232,False,False,MIT License,"bash, shell, script, guide, list, bible, book, reference, handbook, learning"
+230,awesome-cheatsheets,LeCoupa,33521,5545,2017-11-09T02:47:15Z,2023-05-19T14:18:33Z,JavaScript,263,66,683,8883,False,False,MIT License,"cheatsheets, javascript, bash, nodejs, cheatsheet, database, language, frontend, backend, feathersjs"
+231,Open-Assistant,LAION-AI,32949,2822,2022-12-13T05:24:17Z,2023-05-19T14:13:07Z,Python,1701,1463,414,44393,False,False,Apache License 2.0,"chatgpt, language-model, rlhf, ai, assistant, discord-bot, machine-learning, nextjs, python"
+232,taro,NervJS,32933,4478,2018-04-08T09:32:26Z,2023-05-19T11:25:10Z,TypeScript,3523,9745,689,1433768,False,False,Other,"taro, react, reactjs, react-native, weixin, wechat, wechat-mini-program, wxapp, javascript, typescript"
+233,segment-anything,facebookresearch,32852,3559,2023-03-23T17:03:03Z,2023-05-19T14:16:52Z,Jupyter Notebook,65,308,244,10993,False,False,Apache License 2.0,
+234,gulp,gulpjs,32757,4376,2013-07-04T05:26:06Z,2023-05-17T21:07:10Z,JavaScript,664,1882,1051,1088,False,False,MIT License,
+235,leveldb,google,32677,7290,2014-08-27T21:17:52Z,2023-05-19T14:13:42Z,C++,366,714,1327,1653,False,False,"BSD 3-Clause ""New"" or ""Revised"" License",
+236,carbon,carbon-app,32607,1857,2017-06-16T02:50:28Z,2023-05-19T14:18:21Z,JavaScript,798,634,247,20100,False,False,MIT License,"carbon, javascript, beautiful, snippets, github-gist, sharing, education, tweet, presentation"
+237,python-cheatsheet,gto76,32478,5937,2018-01-25T04:16:53Z,2023-05-19T09:19:00Z,Python,90,60,961,11887,False,False,None,"cheatsheet, python, reference, python-cheatsheet"
+238,metabase,metabase,32449,4384,2015-02-02T19:25:47Z,2023-05-19T14:40:50Z,Clojure,17143,13707,635,411069,False,False,Other,"analytics, businessintelligence, dashboard, reporting, slack, clojure, database, metabase, postgres, postgresql"
+239,gorm,go-gorm,32413,3577,2013-10-25T08:31:38Z,2023-05-19T10:22:20Z,Go,1159,5114,497,4489,False,False,MIT License,"go, golang, orm, web, gorm"
+240,arthas,alibaba,32411,6991,2018-08-29T17:15:57Z,2023-05-19T13:13:45Z,Java,715,1754,1143,44432,False,False,Apache License 2.0,"java, agent, trace, jvm, arthas, trouble-shooting, diagnosis, classloader, alibaba"
+241,black,psf,32382,2088,2018-03-14T19:54:45Z,2023-05-19T14:41:13Z,Python,1386,2270,228,7138,False,False,MIT License,"python, code, formatter, codeformatter, gofmt, yapf, autopep8, pre-commit-hook, hacktoberfest"
+242,gold-miner,xitu,32357,5011,2015-11-04T03:29:13Z,2023-05-19T14:26:21Z,None,3897,5560,1274,80071,False,False,None,"android, translation, ios, frontend, react, tutorials, ai, swift, tensorflow, javascript"
+243,hello-algorithm,geekxh,32314,6217,2020-05-29T05:47:09Z,2023-05-19T13:58:45Z,Java,31,39,674,365050,False,False,None,"algorithms, interview-questions, dynamic-programming, leetcode, leetcode-solutions"
+244,XX-Net,XX-net,32021,7790,2015-01-15T09:35:51Z,2023-05-19T13:33:16Z,Python,484,13183,1677,60810,False,False,None,"goagent, gfw, proxy, vpn, uncensored"
+245,pyenv,pyenv,31895,2793,2012-08-31T06:57:52Z,2023-05-19T12:51:42Z,Roff,948,1601,382,4791,False,False,MIT License,"python, shell"
+246,acme.sh,acmesh-official,31591,4314,2015-12-26T12:56:33Z,2023-05-19T12:02:32Z,Shell,1885,2701,487,6121,False,False,GNU General Public License v3.0,"acme, acme-protocol, letsencrypt, certbot, shell, ash, bash, posix, posix-sh, zerossl"
+247,android-open-project,Trinea,31220,12005,2014-01-05T15:20:15Z,2023-05-19T14:02:19Z,None,288,82,3658,2139,False,False,Apache License 2.0,"android, open-source-project"
+248,carbon-lang,carbon-language,30450,1363,2020-04-27T21:45:16Z,2023-05-19T11:56:01Z,C++,2043,513,412,10388,False,False,Other,"programming-language, carbon-lang, compiler, cpp, language, experimental, experimental-language"
+249,astro,withastro,30439,1562,2021-03-15T17:19:47Z,2023-05-19T14:37:29Z,TypeScript,4252,2699,154,141093,False,False,Other,"static-site-generator, blog, islands, components, node, browser, server, hybrid, universal, astro"
+250,metasploit-framework,rapid7,30251,13183,2011-08-30T06:13:20Z,2023-05-19T14:22:16Z,Ruby,12091,5549,2021,867736,False,False,Other,hacktoberfest
+251,graphql-engine,hasura,29755,2642,2018-06-18T07:57:36Z,2023-05-19T11:41:59Z,TypeScript,3295,5570,338,3726279,False,False,Apache License 2.0,"graphql, graphql-server, postgres, hasura, access-control, automatic-api, api, rest-api, graphql-api, sql-server"
+252,beego,beego,29751,5575,2012-02-29T02:32:08Z,2023-05-19T07:24:38Z,Go,1932,3254,1208,11205,False,False,Other,"go, beego"
+253,googletest,google,29677,9334,2015-07-28T15:07:53Z,2023-05-19T14:16:55Z,C++,1891,2102,1188,12852,False,False,"BSD 3-Clause ""New"" or ""Revised"" License",
+254,ColossalAI,hpcaitech,29618,3444,2021-10-28T16:19:44Z,2023-05-19T13:49:01Z,Python,2569,1025,320,23306,False,False,Apache License 2.0,"deep-learning, hpc, large-scale, data-parallelism, pipeline-parallelism, model-parallelism, ai, big-model, distributed-computing, inference"
+255,Blog,mqyqingfeng,29546,4685,2017-03-13T10:04:33Z,2023-05-19T12:19:22Z,None,8,310,1258,4686,False,False,None,"blog, javascript, advanced"
+256,framework,laravel,29505,10069,2013-01-10T21:27:28Z,2023-05-19T10:45:50Z,PHP,27137,17065,1000,73881,False,False,MIT License,"php, framework, laravel"
+257,husky,typicode,29467,1019,2014-06-23T12:14:21Z,2023-05-19T13:51:29Z,JavaScript,354,892,152,3776,False,False,MIT License,"git, hooks, commit, pre-commit"
+258,compose,docker,29465,4870,2013-12-09T11:40:58Z,2023-05-19T13:44:19Z,Go,3620,6825,705,24514,False,False,Apache License 2.0,"docker, docker-compose, orchestration, go, golang"
+259,COVID-19,CSSEGISandData,29276,18806,2020-02-04T22:03:53Z,2023-05-19T04:22:55Z,None,2773,3761,871,8698144,False,True,None,"johns-hopkins-university, systems-science, engineering, covid-19, 2019-ncov, coronavirus, csse, jhu"
+260,es6features,lukehoban,29131,2923,2014-03-03T18:29:30Z,2023-05-19T13:20:54Z,None,76,57,1217,199,False,False,MIT License,
+261,HanLP,hankcs,29076,8289,2014-10-09T06:36:16Z,2023-05-19T10:33:15Z,Python,125,1367,1145,72720,False,False,Apache License 2.0,"nlp, natural-language-processing, hanlp, pos-tagging, dependency-parser, text-classification, named-entity-recognition, semantic-parsing"
+262,tmux,tmux,28999,1903,2015-06-03T23:32:55Z,2023-05-19T14:50:19Z,C,525,3035,431,16949,False,False,Other,
+263,libpku,lib-pku,28892,8258,2018-11-22T13:33:06Z,2023-05-19T14:48:12Z,TeX,34,41,1233,714371,False,False,None,
+264,rxjs,ReactiveX,28891,2951,2015-03-15T06:17:10Z,2023-05-19T11:23:33Z,TypeScript,3808,3093,452,125055,False,False,Apache License 2.0,"rxjs, javascript"
+265,MockingBird,babysor,28833,4320,2021-08-07T03:53:39Z,2023-05-19T10:42:19Z,Python,82,798,274,130830,False,False,Other,"ai, speech, pytorch, deep-learning"
+266,project-guidelines,elsewhencode,28710,3284,2017-06-30T10:17:55Z,2023-05-19T13:59:22Z,JavaScript,130,38,632,498,False,False,MIT License,"best-practices, maintainability, guidelines, javascript, javascript-best-practices, how-to"
+267,50projects50days,bradtraversy,28665,7723,2020-11-16T14:39:01Z,2023-05-19T14:25:41Z,CSS,139,0,536,498,False,False,MIT License,
+268,REKCARC-TSC-UHT,PKUanonym,28554,7214,2019-04-05T03:31:23Z,2023-05-19T14:08:01Z,HTML,134,27,878,4412744,False,False,Creative Commons Attribution Share Alike 4.0 International,"course, course-project, course-assignment, tsinghua-university, computer-science"
+269,Hover,IanLunn,28440,5821,2014-01-02T14:27:35Z,2023-05-19T08:59:05Z,SCSS,65,106,864,994,False,False,Other,"css-effects, css, sass"
+270,500lines,aosabook,28264,5937,2013-11-04T02:02:53Z,2023-05-19T13:42:42Z,JavaScript,230,69,1819,60251,False,False,Other,
+271,ccxt,ccxt,28250,6946,2017-05-14T15:41:56Z,2023-05-19T11:45:06Z,Python,9219,8645,931,3191021,False,False,MIT License,"altcoin, api, arbitrage, bitcoin, bot, cryptocurrency, crypto, e-commerce, ethereum, exchange"
+272,todomvc,tastejs,28215,13958,2011-06-03T19:56:33Z,2023-05-19T11:23:58Z,JavaScript,1309,765,1140,73004,False,False,Other,
+273,programmer-job-blacklist,shengxinjing,28214,1860,2016-06-25T06:09:10Z,2023-05-19T11:45:55Z,Shell,42,332,1230,329,False,False,MIT License,
+274,html2canvas,niklasvh,28210,4632,2011-07-16T01:05:58Z,2023-05-19T14:06:05Z,TypeScript,472,2478,513,117300,False,False,MIT License,"javascript, screenshot, dom"
+275,linux-insides,0xAX,28164,3204,2015-01-03T18:44:57Z,2023-05-19T12:05:45Z,Python,651,176,1348,21247,False,False,Other,"linux-kernel, linux-insides, linux"
+276,ImHex,WerWolv,28151,1324,2020-11-10T14:27:00Z,2023-05-19T14:49:14Z,C++,315,716,420,25047,False,False,GNU General Public License v2.0,"hex-editor, reverse-engineering, ips, dear-imgui, disassembler, analyzer, mathematical-evaluator, pattern-language, dark-mode, hacktoberfest"
+277,backbone,jashkenas,28007,5539,2010-09-30T19:41:28Z,2023-05-19T02:29:39Z,JavaScript,1849,2397,1308,27144,False,False,MIT License,
+278,NeteaseCloudMusicApi,Binaryify,27968,13389,2016-06-22T11:58:03Z,2023-05-19T13:16:57Z,JavaScript,410,1263,351,16093,False,False,MIT License,"javascript, api, neteasecloud, cloudmusic, nodejs, apis"
+279,sequelize,sequelize,27898,4198,2010-07-22T07:11:11Z,2023-05-19T12:56:51Z,JavaScript,5581,10067,421,43723,False,False,MIT License,"javascript, sql, orm, transactions, mysql, postgresql, mssql, sqlite, mariadb, sequelize"
+280,httpie,httpie,27777,3765,2012-02-25T12:39:13Z,2023-05-19T13:22:38Z,Python,583,815,73,6911,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","http, cli, client, terminal, web, json, development, rest, debugging, python"
+281,swift-algorithm-club,kodecocodes,27717,4930,2016-01-26T17:56:12Z,2023-05-19T06:15:03Z,Swift,798,212,1562,14104,False,False,MIT License,"swift, data-structures, algorithms"
+282,vault,hashicorp,27693,3814,2015-02-25T00:15:59Z,2023-05-19T14:45:54Z,Go,15094,5483,816,248780,False,False,Mozilla Public License 2.0,"vault, go, secrets"
+283,solid,solidjs,27621,745,2018-04-24T16:36:27Z,2023-05-19T14:45:01Z,TypeScript,364,746,221,13761,False,False,MIT License,"javascript, performance, solid, proxies, declarative, fine-grained, jsx, reactive"
+284,composer,composer,27617,6616,2011-06-08T08:53:00Z,2023-05-19T11:22:37Z,PHP,3739,7368,597,25543,False,False,MIT License,"php, composer, dependency-manager, package-manager, packages, hacktoberfest"
+285,postcss,postcss,27485,1570,2013-09-24T23:06:48Z,2023-05-19T08:13:21Z,TypeScript,870,916,519,10310,False,False,MIT License,"postcss, css, parser, ast, framework"
+286,layui,layui,27402,7169,2015-09-22T08:12:03Z,2023-05-19T11:36:09Z,JavaScript,417,601,972,9172,False,False,MIT License,"layui, ui, javascript, js, html, css"
+287,cockroach,cockroachdb,27141,3439,2014-02-06T00:18:47Z,2023-05-19T09:19:13Z,Go,51150,52365,708,2542683,False,False,Other,"go, database, sql, distributed-database, cockroachdb, hacktoberfest"
+288,lx-music-desktop,lyswhut,27087,4458,2019-08-14T14:31:08Z,2023-05-19T13:55:32Z,TypeScript,65,1259,323,31917,False,False,Apache License 2.0,"music-player, electron-app, javascript, vue3"
+289,uppy,transloadit,26861,1855,2015-11-16T12:32:33Z,2023-05-19T08:03:03Z,JavaScript,2420,2032,332,382515,False,False,MIT License,"tus, resumable, file-uploads, javascript, webbrowser, mit, open-source, modular, file-uploader, uploader"
+290,Faker,fzaninotto,26725,3505,2011-10-14T22:49:02Z,2023-05-19T01:52:51Z,PHP,1503,570,561,10094,False,True,MIT License,
+291,Charts,danielgindi,26681,5843,2015-03-20T10:49:12Z,2023-05-19T14:26:25Z,Swift,895,4155,606,190655,False,False,Apache License 2.0,
+292,modern-unix,ibraheemdev,26670,674,2021-01-12T00:50:14Z,2023-05-19T13:11:22Z,None,49,67,420,49,False,False,None,"lists, unix, shell, tools, command-line, terminal, cli"
+293,JavaScript,TheAlgorithms,26548,4557,2017-07-13T06:12:33Z,2023-05-19T13:58:50Z,JavaScript,1129,172,581,2661,False,False,GNU General Public License v3.0,"algorithm, algorithm-challenges, data-structures, cryptography, cipher, search, sort, sorting-algorithms, mathematics, conversions"
+294,jsPDF,parallax,26517,4501,2009-12-06T14:56:32Z,2023-05-19T14:17:44Z,JavaScript,1230,2349,478,108123,False,False,MIT License,hacktoberfest
+295,mobx,mobxjs,26459,1756,2015-03-14T14:31:38Z,2023-05-19T12:49:09Z,TypeScript,1229,1874,358,19247,False,False,MIT License,"mobx, reactive-programming, react, typescript, javascript"
+296,minikube,kubernetes,26445,4584,2016-04-15T22:38:35Z,2023-05-19T09:20:55Z,Go,7946,8554,490,208578,False,False,Apache License 2.0,"minikube, kubernetes, cluster, containers, go, cncf"
+297,cheerio,cheeriojs,26380,1591,2011-10-09T04:23:20Z,2023-05-19T08:27:33Z,TypeScript,2053,1122,365,9265,False,False,MIT License,"cheerio, jquery, htmlparser2, dom, htmlparser, selector, scraper, parser, html, hacktoberfest"
+298,awesome-python-cn,jobbole,26303,7708,2015-11-03T09:50:50Z,2023-05-19T13:50:11Z,Makefile,82,27,2084,1584,False,False,Other,python
+299,python-guide,realpython,26283,5863,2011-03-15T03:24:20Z,2023-05-19T14:01:38Z,Batchfile,845,271,1401,6902,False,False,Other,"python, guide, book, kennethreitz"
+300,zx,google,37383,908,2021-05-05T05:50:01Z,2023-05-19T13:23:05Z,JavaScript,210,329,151,754,False,False,Apache License 2.0,"javascript, nodejs, shell, bash, cli"
+301,terraform,hashicorp,37297,8625,2014-03-13T22:25:48Z,2023-05-19T14:24:51Z,Go,13108,19786,1194,299584,False,False,Mozilla Public License 2.0,"graph, infrastructure-as-code, terraform, cloud, cloud-management"
+302,impress.js,impress,37208,6818,2011-12-28T22:23:19Z,2023-05-18T16:47:47Z,JavaScript,374,472,1238,4678,False,False,MIT License,
+303,vuetify,vuetifyjs,37170,6783,2016-09-12T00:39:35Z,2023-05-19T13:40:25Z,TypeScript,4538,12158,602,83573,False,False,MIT License,"vue, vuejs, vue-components, material-design, material, material-theme, material-components, javascript, semantic, vue-material"
+304,dive,wagoodman,36808,1485,2018-05-13T15:44:01Z,2023-05-19T14:47:49Z,Go,166,282,344,4503,False,False,MIT License,"docker, docker-image, inspector, explorer, cli, tui"
+305,hexo,hexojs,36769,4491,2012-09-23T15:17:08Z,2023-05-19T14:42:53Z,JavaScript,1150,3840,823,7545,False,False,MIT License,"hexo, javascript, nodejs, static-site-generator"
+306,awesome-chatgpt-prompts-zh,PlexPt,36763,11594,2022-12-12T01:55:03Z,2023-05-19T14:20:21Z,None,46,79,263,39727,False,False,MIT License,"chatgpt, chat-gpt, chatgpt3, chatgpt4, gpt"
+307,gitea,go-gitea,36634,4628,2016-11-01T02:13:26Z,2023-05-19T14:48:55Z,Go,13729,10883,493,280468,False,False,MIT License,"gitea, golang, devops, git, gitlab, github, go, gogs, hacktoberfest, git-gui"
+308,meilisearch,meilisearch,36532,1322,2018-04-23T11:45:28Z,2023-05-19T12:42:14Z,Rust,1551,1486,266,54251,False,False,MIT License,"search-engine, rust, typo-tolerance, synonyms, site-search, database, enterprise-search, api, rest, search"
+309,MPAndroidChart,PhilJay,36471,8939,2014-04-25T14:29:47Z,2023-05-19T10:13:28Z,Java,494,4872,1123,21720,False,False,Other,"java, chart, graph, android, mpandroidchart"
+310,gpt4free,xtekky,36273,9350,2023-03-29T17:00:43Z,2023-05-19T14:51:24Z,Python,157,368,375,158773,False,False,GNU General Public License v3.0,"chatgpt, chatgpt-4, chatgpt4, gpt, gpt-3, gpt-4, gpt3, gpt4, gpt4-api, openai"
+311,FFmpeg,FFmpeg,36188,10903,2011-04-14T14:12:38Z,2023-05-19T14:26:56Z,C,381,0,1366,353636,False,False,Other,"ffmpeg, video, audio, c, mpeg, webm, mp4, matroska, hls, rtsp"
+312,brew,Homebrew,36021,8830,2016-03-06T05:08:38Z,2023-05-19T14:42:02Z,Ruby,10646,4026,691,72424,False,False,"BSD 2-Clause ""Simplified"" License","homebrew, ruby, macos, package-manager, brew"
+313,joplin,laurent22,35932,3977,2017-01-16T21:49:41Z,2023-05-19T13:57:02Z,TypeScript,2864,5297,454,372989,False,False,Other,"react-native, nodejs, onedrive, android, synchronisation, electron, evernote, enex-files, nextcloud, webdav"
+314,quill,quilljs,35690,3030,2012-07-30T23:23:18Z,2023-05-19T13:29:38Z,JavaScript,576,3184,471,14999,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","editor, rich-text-editor, quill, wysiwyg"
+315,ailearning,apachecn,35464,11121,2017-02-25T08:53:02Z,2023-05-19T13:35:52Z,Python,528,107,1683,171448,False,False,Other,"fp-growth, apriori, mahchine-leaning, naivebayes, svm, adaboost, kmeans, svd, pca, logistic"
+316,php-src,php,35463,7543,2011-06-16T01:52:25Z,2023-05-19T11:22:37Z,C,9665,1488,1421,510742,False,False,Other,
+317,open-source-mac-os-apps,serhii-londar,35386,2190,2017-11-03T02:35:33Z,2023-05-19T10:53:00Z,None,644,186,946,5871,False,False,Creative Commons Zero v1.0 Universal,"macos, mac, macosx, apps, applications, awesome-list, opensource, open-source, awesome, swift"
+318,cheat.sh,chubin,35320,1699,2017-05-07T21:40:56Z,2023-05-19T13:11:19Z,Python,153,227,588,4558,False,False,MIT License,"cheatsheet, curl, terminal, command-line, cli, examples, documentation, help, tldr, hacktoberfest2021"
+319,Deep-Learning-Papers-Reading-Roadmap,floodsung,35243,7222,2016-10-14T11:49:48Z,2023-05-19T14:17:54Z,Python,92,53,2126,3638,False,False,None,deep-learning
+320,swiper,nolimits4web,35178,9720,2012-03-14T19:11:45Z,2023-05-19T12:46:53Z,JavaScript,782,4928,698,78531,False,False,MIT License,"swipe, swiper, gallery, touch, touch-events, mobile, slider, carousel"
+321,slate,slatedocs,35176,22016,2013-09-13T22:15:24Z,2023-05-19T14:23:22Z,SCSS,936,601,511,2410,False,False,Apache License 2.0,"slate, api-documentation, api, static-site-generator"
+322,lazygit,jesseduffield,35033,1411,2018-05-19T00:53:06Z,2023-05-19T14:18:47Z,Go,1133,1337,255,37610,False,False,MIT License,"cli, git, terminal"
+323,json,nlohmann,34912,6020,2013-07-04T08:47:49Z,2023-05-19T14:25:26Z,C++,935,2124,755,180615,False,False,MIT License,"json, json-pointer, json-patch, cbor, msgpack, header-only, stl-containers, json-serialization, json-parser, rfc-6901"
+324,react-hook-form,react-hook-form,34882,1744,2019-03-05T23:47:10Z,2023-05-19T14:47:00Z,TypeScript,2171,3801,171,27807,False,False,MIT License,"typescript, react-hooks, forms, validation, react-native, form-builder, dx, ux, reactjs"
+325,kong,Kong,34855,4459,2014-11-17T23:56:08Z,2023-05-19T09:22:53Z,Lua,5935,4099,1015,29160,False,False,Apache License 2.0,"api-gateway, nginx, luajit, microservices, api-management, serverless, apis, iot, consul, docker"
+326,interview_internal_reference,0voice,34840,9288,2019-06-10T06:54:19Z,2023-05-19T12:27:12Z,Python,44,45,1515,1104,False,False,None,"network, redis, storage, cpu, high-performance, interview, mongodb, mysql, nginx, zookeeper"
+327,open-source-ios-apps,dkhamsing,34815,5066,2015-01-26T23:32:34Z,2023-05-19T13:30:10Z,None,882,256,1455,21481,False,False,Creative Commons Zero v1.0 Universal,"ios, swift, objective-c, iphone, ipad, react-native, awesome, list, app, example"
+328,AppFlowy,AppFlowy-IO,34803,2119,2021-06-16T12:56:48Z,2023-05-19T13:30:17Z,Rust,1369,1106,297,46033,False,False,GNU Affero General Public License v3.0,"flutter, flutter-apps, flutter-examples, flutter-app, flutter-ui, rust, rust-language, rust-lang, notion, notion-alternative"
+329,styleguide,google,34654,13293,2015-05-20T19:18:59Z,2023-05-19T13:45:53Z,HTML,411,312,1311,2674,False,False,Apache License 2.0,"cpplint, styleguide, style-guide"
+330,awesome-rust,rust-unofficial,34642,2200,2014-07-17T10:45:10Z,2023-05-19T14:18:37Z,Rust,1354,123,782,6709,False,False,Creative Commons Zero v1.0 Universal,"rust, awesome"
+331,query,TanStack,34592,2246,2019-09-10T19:23:58Z,2023-05-19T14:27:24Z,TypeScript,1650,1297,197,35047,False,False,MIT License,"react, hooks, fetch, cache, async, rest, graphql, data, query, stale"
+332,lerna,lerna,34573,2318,2015-12-04T09:36:55Z,2023-05-19T12:04:03Z,TypeScript,1174,2441,260,34409,False,False,MIT License,"lerna, monorepo, npm, package, publishing"
+333,fullPage.js,alvarotrigo,34566,7440,2013-09-20T11:58:29Z,2023-05-19T13:57:45Z,JavaScript,508,4006,851,16442,False,False,GNU General Public License v3.0,"javascript, scrolling, slide, onepage, fullpage, snap, sections, swipe, fullscreen, slideshow"
+334,jadx,skylot,34560,4291,2013-03-18T17:08:21Z,2023-05-19T14:05:50Z,Java,443,1419,797,19373,False,False,Apache License 2.0,"android, dex, java, decompiler"
+335,node-v0.x-archive,nodejs,34555,7508,2009-05-27T16:29:46Z,2023-05-19T12:19:35Z,None,3796,6380,2057,144238,False,True,None,
+336,wrk,wg,34490,2810,2012-03-20T11:12:28Z,2023-05-19T13:58:44Z,C,126,384,751,38743,False,False,Other,
+337,preact,preactjs,34410,1893,2015-09-11T02:40:18Z,2023-05-19T13:20:44Z,JavaScript,2124,1655,406,15420,False,False,MIT License,"preact, jsx, react, virtual-dom, components, dom, vdom"
+338,phaser,photonstorm,34410,6976,2013-04-12T12:27:51Z,2023-05-19T12:10:31Z,JavaScript,2251,4123,1244,371532,False,False,MIT License,"phaser, phaserjs, javascript, html5-game-development, webgl, game-frameworks, game-development, gamedev, canvas, phaser-development"
+339,drawio,jgraph,34388,6740,2016-09-06T12:59:15Z,2023-05-19T14:23:57Z,JavaScript,157,2997,586,1318732,False,False,Apache License 2.0,"diagram, javascript, whiteboard"
+340,ant-design-pro,ant-design,34226,7902,2017-08-25T10:40:44Z,2023-05-19T11:29:31Z,TypeScript,1404,9132,762,7457,False,False,MIT License,"antd, react, enterprise, boilerplate, admin, umi, dashboard, ant-design, antv"
+341,sentry,getsentry,34198,3794,2010-08-30T22:06:41Z,2023-05-19T11:40:53Z,Python,41401,7405,682,396348,False,False,Other,"crash-reporting, crash-reports, error-monitoring, monitoring, devops, csp-report, django, error-logging, sentry, python"
+342,tutorials,eugenp,34170,53591,2013-04-29T18:26:36Z,2023-05-19T07:13:14Z,Java,13373,672,1525,375658,False,False,MIT License,
+343,monaco-editor,microsoft,34132,3277,2016-06-07T16:56:31Z,2023-05-19T14:44:45Z,JavaScript,446,3207,516,121326,False,False,MIT License,"monaco-editor, vscode, editor, browser, typescript"
+344,hackathon-starter,sahat,34112,8107,2013-11-13T17:24:12Z,2023-05-19T07:04:13Z,JavaScript,587,615,796,13555,False,False,MIT License,"hackathon, boilerplate, oauth2, nodejs, starter-kit, hacktoberfest"
+345,tabler,tabler,34092,3602,2018-02-01T09:08:59Z,2023-05-19T13:44:23Z,HTML,683,747,631,137801,False,False,MIT License,"dashboard, html, bootstrap, sass, scss, boilerplate-template, admin-dashboard, dashboard-templates, modular, dashboards"
+346,tidb,pingcap,34069,5476,2015-09-06T04:01:52Z,2023-05-19T14:42:32Z,Go,28977,14945,1289,459106,False,False,Apache License 2.0,"distributed-database, distributed-transactions, tidb, database, scale, mysql, htap, sql, cloud-native, serverless"
+347,koa,koajs,34011,3297,2013-07-20T18:53:45Z,2023-05-19T09:10:32Z,JavaScript,815,887,835,3423,False,False,MIT License,koa
+348,og-aws,open-guides,33932,3685,2016-07-13T17:30:16Z,2023-05-19T13:33:44Z,Shell,583,224,1219,7680,False,False,Creative Commons Attribution 4.0 International,
+349,lottie-android,airbnb,33902,5357,2016-10-06T22:42:42Z,2023-05-19T10:57:10Z,Java,690,1568,847,136347,False,False,Apache License 2.0,"animation, android, lottie, airbnb, after-effects"
+350,JavaFamily,AobingJava,33786,7608,2019-11-12T04:26:18Z,2023-05-19T10:46:28Z,None,14,60,1151,396,False,False,None,"java, java8, redis, mysql, jvm, interview, zookeeper, rocketmq, system"
+351,deeplearningbook-chinese,exacity,33759,9091,2016-12-07T11:46:51Z,2023-05-19T10:11:54Z,TeX,34,199,2215,8908,False,False,None,
+352,first-contributions,firstcontributions,33736,60009,2016-09-20T14:35:09Z,2023-05-19T14:32:00Z,None,66965,589,492,17846,False,False,MIT License,"open-source, tutorial, contribution, community, tutorials, beginner, beginner-friendly, contributions, contributions-welcome, good-first-issue"
+353,v,vlang,33695,2042,2019-02-08T02:57:06Z,2023-05-19T14:26:46Z,V,9756,7295,490,68806,False,False,MIT License,"programming-language, language, v, compiler, hacktoberfest, hacktoberfest-accepted"
+354,shadowsocks-android,shadowsocks,33685,11633,2012-12-16T13:40:29Z,2023-05-19T13:24:53Z,Kotlin,375,2460,1583,53584,False,False,Other,"shadowsocks, android"
+355,glide,bumptech,33607,6063,2013-07-08T22:52:33Z,2023-05-19T12:41:39Z,Java,836,4258,1057,95399,False,False,Other,"android, imageloader, gif, disk-cache, glide"
+356,awesome-cheatsheets,LeCoupa,33521,5545,2017-11-09T02:47:15Z,2023-05-19T14:18:33Z,JavaScript,263,66,683,8883,False,False,MIT License,"cheatsheets, javascript, bash, nodejs, cheatsheet, database, language, frontend, backend, feathersjs"
+357,uptime-kuma,louislam,33477,2879,2021-07-03T01:02:42Z,2023-05-19T14:31:20Z,JavaScript,965,2180,215,17471,False,False,MIT License,"uptime, monitoring, docker, selfhosted, self-hosted, single-page-app, webapp, responsive, websocket, socket-io"
+358,Microsoft-Activation-Scripts,massgravel,33462,3691,2020-01-12T23:03:34Z,2023-05-19T14:44:35Z,Batchfile,11,153,551,6902,False,False,None,"hwid, kms38, kms, activator, massgrave, massgravel, windows, windows-10, windows-11, office"
+359,brackets,adobe,33452,7961,2011-12-07T21:14:40Z,2023-05-19T01:53:15Z,JavaScript,5606,9686,1590,92974,False,True,MIT License,
+360,shadowsocks,shadowsocks,33372,19085,2012-04-20T13:10:49Z,2023-05-19T08:56:28Z,Python,159,0,2079,891,False,False,None,
+361,caffe,BVLC,33351,18994,2013-09-12T18:39:48Z,2023-05-19T11:53:02Z,C++,2241,4787,2105,76170,False,False,Other,"deep-learning, machine-learning, vision"
+362,iina,iina,33262,2410,2016-12-19T07:18:45Z,2023-05-19T13:08:21Z,Swift,898,3426,530,266339,False,False,GNU General Public License v3.0,"macos, video-player, swift, video, mpv, hacktoberfest"
+363,Made-With-ML,GokuMohandas,33217,5447,2018-11-05T03:44:27Z,2023-05-19T13:02:35Z,Jupyter Notebook,178,48,1215,29435,False,False,MIT License,"machine-learning, deep-learning, pytorch, natural-language-processing, data-science, python, mlops, data-engineering, data-quality"
+364,clipboard.js,zenorocha,33161,4095,2015-09-18T23:04:55Z,2023-05-19T10:14:01Z,JavaScript,226,611,424,3036,False,False,MIT License,"clipboard, javascript"
+365,Open-Assistant,LAION-AI,32949,2822,2022-12-13T05:24:17Z,2023-05-19T14:13:07Z,Python,1701,1463,414,44393,False,False,Apache License 2.0,"chatgpt, language-model, rlhf, ai, assistant, discord-bot, machine-learning, nextjs, python"
+366,taro,NervJS,32933,4478,2018-04-08T09:32:26Z,2023-05-19T11:25:10Z,TypeScript,3523,9745,689,1433768,False,False,Other,"taro, react, reactjs, react-native, weixin, wechat, wechat-mini-program, wxapp, javascript, typescript"
+367,sheetjs,SheetJS,32867,8023,2012-12-03T19:25:52Z,2023-05-19T11:22:50Z,JavaScript,320,2382,611,106471,False,False,Apache License 2.0,"xlsx, excel, spreadsheet, data, xml, csv, database, nodejs, html5, javascript"
+368,segment-anything,facebookresearch,32852,3559,2023-03-23T17:03:03Z,2023-05-19T14:16:52Z,Jupyter Notebook,65,308,244,10993,False,False,Apache License 2.0,
+369,TaskMatrix,microsoft,32809,3140,2023-03-02T09:04:28Z,2023-05-19T14:49:11Z,Python,90,306,294,38783,False,False,MIT License,
+370,chakra-ui,chakra-ui,32756,2907,2019-08-17T14:27:54Z,2023-05-19T12:41:31Z,TypeScript,2887,3249,205,125283,False,False,MIT License,"chakra-ui, react, uikit, react-components, accessible, a11y, wai-aria, reactjs, dark-mode, ui-components"
+371,leveldb,google,32677,7290,2014-08-27T21:17:52Z,2023-05-19T14:13:42Z,C++,366,714,1327,1653,False,False,"BSD 3-Clause ""New"" or ""Revised"" License",
+372,wtfpython,satwikkansal,32640,2559,2017-08-28T20:22:19Z,2023-05-19T13:42:55Z,Python,122,178,759,1091,False,False,Do What The F*ck You Want To Public License,"python, wats, snippets, wtf, gotchas, documentation, pitfalls, interview-questions, python-interview-questions"
+373,carbon,carbon-app,32607,1857,2017-06-16T02:50:28Z,2023-05-19T14:18:21Z,JavaScript,798,634,247,20100,False,False,MIT License,"carbon, javascript, beautiful, snippets, github-gist, sharing, education, tweet, presentation"
+374,immutable-js,immutable-js,32579,1863,2014-07-02T06:02:29Z,2023-05-19T11:23:17Z,TypeScript,714,1221,523,50653,False,False,MIT License,
+375,python-cheatsheet,gto76,32478,5937,2018-01-25T04:16:53Z,2023-05-19T09:19:00Z,Python,90,60,961,11887,False,False,None,"cheatsheet, python, reference, python-cheatsheet"
+376,metabase,metabase,32449,4384,2015-02-02T19:25:47Z,2023-05-19T14:40:50Z,Clojure,17143,13707,635,411069,False,False,Other,"analytics, businessintelligence, dashboard, reporting, slack, clojure, database, metabase, postgres, postgresql"
+377,arthas,alibaba,32411,6991,2018-08-29T17:15:57Z,2023-05-19T13:13:45Z,Java,715,1754,1143,44432,False,False,Apache License 2.0,"java, agent, trace, jvm, arthas, trouble-shooting, diagnosis, classloader, alibaba"
+378,black,psf,32382,2088,2018-03-14T19:54:45Z,2023-05-19T14:41:13Z,Python,1386,2270,228,7138,False,False,MIT License,"python, code, formatter, codeformatter, gofmt, yapf, autopep8, pre-commit-hook, hacktoberfest"
+379,gold-miner,xitu,32357,5011,2015-11-04T03:29:13Z,2023-05-19T14:26:21Z,None,3897,5560,1274,80071,False,False,None,"android, translation, ios, frontend, react, tutorials, ai, swift, tensorflow, javascript"
+380,formik,jaredpalmer,32355,2682,2017-06-14T19:50:59Z,2023-05-19T10:42:48Z,TypeScript,1240,2155,237,13934,False,False,Apache License 2.0,"react, forms, form, hooks, formik, react-hooks, render-props, higher-order-component, react-native"
+381,cli,cli,32322,5075,2019-10-03T15:24:53Z,2023-05-19T14:48:56Z,Go,2297,3464,832,27510,False,False,MIT License,"github-api-v4, cli, git, golang"
+382,zju-icicles,QSCTech,32316,8872,2016-06-28T16:17:32Z,2023-05-19T14:16:38Z,HTML,223,61,1098,4168390,False,False,None,
+383,hello-algorithm,geekxh,32314,6217,2020-05-29T05:47:09Z,2023-05-19T13:58:45Z,Java,31,39,674,365050,False,False,None,"algorithms, interview-questions, dynamic-programming, leetcode, leetcode-solutions"
+384,AndroidUtilCode,Blankj,32146,10601,2016-07-30T18:18:32Z,2023-05-19T11:14:29Z,Java,213,1527,1181,47327,False,False,Apache License 2.0,"android, app, bar, cache, encode, encrypt, file, fragment, log, network"
+385,shellcheck,koalaman,32142,1645,2012-11-17T03:15:11Z,2023-05-19T08:36:07Z,Haskell,337,2406,420,5286,False,False,GNU General Public License v3.0,"haskell, shell, static-analysis, bash, linter, developer-tools"
+386,dbeaver,dbeaver,32055,2874,2015-10-21T08:26:28Z,2023-05-19T13:38:56Z,Java,4039,14573,512,286761,False,False,Apache License 2.0,"sql, database, dbeaver, gui, mysql, postgresql, db2, sqlite, erd, java"
+387,pyenv,pyenv,31895,2793,2012-08-31T06:57:52Z,2023-05-19T12:51:42Z,Roff,948,1601,382,4791,False,False,MIT License,"python, shell"
+388,cobra,spf13,31883,2682,2013-09-03T20:40:26Z,2023-05-19T09:14:03Z,Go,927,1021,365,1949,False,False,Apache License 2.0,"cobra, cobra-library, cobra-generator, posix-compliant-flags, command-cobra, cli-app, command-line, commandline, command, cli"
+389,acme.sh,acmesh-official,31591,4314,2015-12-26T12:56:33Z,2023-05-19T12:02:32Z,Shell,1885,2701,487,6121,False,False,GNU General Public License v3.0,"acme, acme-protocol, letsencrypt, certbot, shell, ash, bash, posix, posix-sh, zerossl"
+390,date-fns,date-fns,31544,1656,2014-10-06T10:24:22Z,2023-05-19T12:33:08Z,TypeScript,1542,1614,208,19788,False,False,MIT License,"javascript, date, modules, utilities, nodejs, time, date-fns, hacktoberfest"
+391,prisma,prisma,31426,1135,2019-06-20T13:33:47Z,2023-05-19T12:33:01Z,TypeScript,5463,8431,234,96194,False,False,Apache License 2.0,"prisma, orm, database, typescript, javascript, nodejs, mariadb, mysql, postgresql, sqlserver"
+392,ijkplayer,bilibili,31384,7989,2013-06-03T04:12:04Z,2023-05-19T11:15:41Z,C,227,5274,1207,8283,False,False,GNU General Public License v2.0,"ijkplayer, android, ios, video, player, ffmpeg"
+393,appwrite,appwrite,31282,2677,2019-04-08T16:36:25Z,2023-05-19T14:39:26Z,TypeScript,2656,2467,360,245272,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","appwrite, docker, baas, backend-as-a-service, javascript, flutter, tools, serverless, backend, hacktoberfest"
+394,typeorm,typeorm,31237,5796,2016-02-29T07:41:14Z,2023-05-19T14:27:32Z,TypeScript,2588,7469,358,26010,False,False,MIT License,"orm, typescript, javascript, database, typeorm, mysql, mariadb, postgresql, sqlite, sqlserver"
+395,vim-plug,junegunn,31230,1924,2013-09-10T14:58:51Z,2023-05-19T14:39:01Z,Vim Script,250,978,386,8803,False,False,MIT License,vim
+396,free,freefq,31224,5683,2020-06-07T02:48:33Z,2023-05-19T14:50:29Z,None,12,508,807,34126,False,False,None,"fanqiang, v2ray, lantern, trojan, freefq, gfw, vmess, bulink, vpn, shadowsocks"
+397,netty,netty,31208,15326,2010-11-09T09:22:21Z,2023-05-19T14:41:16Z,Java,7111,6123,1768,88222,False,False,Apache License 2.0,
+398,zxing,zxing,31056,9323,2011-10-12T14:07:27Z,2023-05-19T08:47:32Z,Java,349,1203,1682,241702,False,False,Apache License 2.0,"java, android, barcode, barcode-scanner, zxing, qr-code, datamatrix, upc"
+399,12306,testerSunshine,31042,9422,2017-05-17T12:23:40Z,2023-05-19T12:24:38Z,Python,146,682,837,58570,False,False,MIT License,
+400,JavaScript,TheAlgorithms,26548,4557,2017-07-13T06:12:33Z,2023-05-19T13:58:50Z,JavaScript,1129,172,581,2661,False,False,GNU General Public License v3.0,"algorithm, algorithm-challenges, data-structures, cryptography, cipher, search, sort, sorting-algorithms, mathematics, conversions"
+401,pytorch-tutorial,yunjey,26537,7730,2017-03-10T07:41:47Z,2023-05-19T09:58:12Z,Python,69,176,625,13110,False,False,MIT License,"deep-learning, pytorch-tutorial, neural-networks, pytorch"
+402,jsPDF,parallax,26517,4501,2009-12-06T14:56:32Z,2023-05-19T14:17:44Z,JavaScript,1230,2349,478,108123,False,False,MIT License,hacktoberfest
+403,consul,hashicorp,26420,4303,2013-11-04T22:15:27Z,2023-05-19T13:50:26Z,Go,12134,5147,954,428110,False,False,Mozilla Public License 2.0,"consul, service-mesh, service-discovery, kubernetes, vault, ecs, api-gateway"
+404,nacos,alibaba,26401,11767,2018-06-15T06:49:27Z,2023-05-19T14:25:45Z,Java,3298,7083,904,52489,False,False,Apache License 2.0,"nacos, dubbo, alibaba, kubernetes, istio, spring-cloud, microservices, service-mesh, configuration-management, distributed-configuration"
+405,cheerio,cheeriojs,26380,1591,2011-10-09T04:23:20Z,2023-05-19T08:27:33Z,TypeScript,2053,1122,365,9265,False,False,MIT License,"cheerio, jquery, htmlparser2, dom, htmlparser, selector, scraper, parser, html, hacktoberfest"
+406,hutool,dromara,26293,7113,2014-04-13T07:23:51Z,2023-05-19T11:32:31Z,Java,762,2302,610,54147,False,False,Other,"java, hutool, http, json, orm, util, tool"
+407,python-guide,realpython,26283,5863,2011-03-15T03:24:20Z,2023-05-19T14:01:38Z,Batchfile,845,271,1401,6902,False,False,Other,"python, guide, book, kennethreitz"
+408,gitflow,nvie,26205,2687,2010-01-20T23:14:12Z,2023-05-19T01:54:51Z,Shell,218,359,593,5251,False,False,Other,
+409,waifu2x,nagadomi,26204,2707,2015-05-17T07:29:15Z,2023-05-19T13:45:29Z,Lua,79,350,718,709513,False,False,MIT License,"waifu2x, torch, super-resolution"
+410,zsh-autosuggestions,zsh-users,26190,1727,2013-10-26T16:09:37Z,2023-05-19T13:00:22Z,Shell,194,542,176,573,False,False,MIT License,"shell, autosuggest, zsh, zsh-autosuggestions, fish, autocomplete"
+411,run,The-Run-Philosophy-Organization,26157,2146,2022-04-10T05:42:40Z,2023-05-19T12:59:25Z,None,212,223,376,410304,False,False,Creative Commons Attribution Share Alike 4.0 International,
+412,ResumeSample,geekcompany,26153,9095,2014-09-08T08:08:13Z,2023-05-19T09:01:13Z,None,10,0,1030,25,False,False,None,
+413,spaCy,explosion,26151,4123,2014-07-03T15:15:40Z,2023-05-19T14:47:22Z,Python,3743,5404,551,201290,False,False,MIT License,"natural-language-processing, data-science, machine-learning, python, cython, nlp, artificial-intelligence, ai, spacy, nlp-library"
+414,react-select,JedWatson,26147,4046,2014-08-26T04:27:45Z,2023-05-18T22:34:27Z,TypeScript,1702,3436,223,19110,False,False,MIT License,
+415,yapi,YMFE,26061,4610,2016-05-30T09:09:09Z,2023-05-19T14:02:28Z,JavaScript,290,2381,533,232820,False,False,Apache License 2.0,"api, api-manager, api-management, api-test"
+416,photoprism,photoprism,26031,1481,2018-01-27T12:00:15Z,2023-05-19T14:08:31Z,Go,632,1772,315,163339,False,False,Other,"golang, tensorflow, photography, private-cloud, google-photos, ai, machine-learning, self-hosted"
+417,lede,coolsnowwolf,25992,18991,2017-09-06T07:39:03Z,2023-05-19T14:03:15Z,C,3113,7732,738,295473,False,False,Other,"lede, lua, openwrt-package, openwrt-zh-cn, openwrt-feed"
+418,miaosha,qiurunze123,25911,6692,2018-09-14T04:36:24Z,2023-05-19T12:48:51Z,Java,69,78,803,65695,False,False,None,
+419,alist,alist-org,25905,3594,2020-12-23T17:40:29Z,2023-05-19T14:44:31Z,Go,387,2115,144,2907,False,False,GNU Affero General Public License v3.0,"golang, gin, webdav, solidjs, file-server, onedrive"
+420,canal,alibaba,25739,7231,2013-01-13T10:59:52Z,2023-05-19T13:24:02Z,Java,615,4057,1201,18998,False,False,Apache License 2.0,
+421,fetch,github,25720,3201,2014-10-13T00:26:19Z,2023-05-18T23:41:04Z,JavaScript,302,632,636,534,False,False,MIT License,"polyfill, fetch, javascript, promise"
+422,react-spring,pmndrs,25683,1137,2018-03-07T15:39:32Z,2023-05-19T07:35:09Z,TypeScript,510,1159,196,672494,False,False,MIT License,"animation-library, spring-physics, react, springs, react-spring"
+423,ray,ray-project,25629,4452,2016-10-25T19:38:30Z,2023-05-19T14:19:49Z,Python,21377,13891,443,311005,False,False,Apache License 2.0,"ray, distributed, parallel, machine-learning, reinforcement-learning, deep-learning, python, rllib, hyperparameter-search, optimization"
+424,spring-cloud-alibaba,alibaba,25626,7827,2017-12-01T20:49:15Z,2023-05-19T12:40:45Z,Java,1208,2089,983,21687,False,False,Apache License 2.0,"spring-cloud, java, spring, microservices, cloud-native, spring-cloud-core, alibaba-oss, alibaba, dubbo, rocketmq"
+425,How-To-Ask-Questions-The-Smart-Way,ryanhanwu,25619,5340,2015-03-28T16:52:40Z,2023-05-19T13:09:23Z,JavaScript,103,29,415,344,False,False,MIT License,"rtfm, translation, stfw"
+426,Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,CamDavidsonPilon,25581,7757,2013-01-14T15:46:28Z,2023-05-19T11:42:59Z,Jupyter Notebook,318,240,1386,172065,False,False,MIT License,"bayesian-methods, pymc, mathematical-analysis, jupyter-notebook, data-science, statistics"
+427,gitbook,GitbookIO,25578,3790,2014-03-31T03:01:56Z,2023-05-19T06:57:42Z,JavaScript,386,0,737,8675,False,False,Apache License 2.0,
+428,django-rest-framework,encode,25568,6587,2011-03-02T17:13:56Z,2023-05-19T11:46:32Z,Python,4529,3815,612,51134,False,False,Other,"python, django, api, rest"
+429,AnotherRedisDesktopManager,qishibo,25544,2320,2019-01-08T06:01:56Z,2023-05-19T12:26:14Z,JavaScript,192,844,253,5311,False,False,MIT License,"redis-desktop-manager, redis-cluster, redis-sentinel, redis-ssh-ssl, redis-gui, redis-client"
+430,portainer,portainer,25532,2175,2016-05-19T20:15:28Z,2023-05-19T14:48:46Z,Go,4006,4953,470,73235,False,False,zlib License,"docker, docker-swarm, ui, docker-deployment, docker-compose, docker-container, docker-image, portainer, docker-ui, dockerfile"
+431,ChatGPT,acheong08,25520,4179,2022-12-03T14:35:24Z,2023-05-19T14:45:24Z,Python,328,750,274,1600,False,False,GNU General Public License v2.0,"chatgpt, cli, library, pypi-package, gptchat, revchatgpt, gpt-35-turbo"
+432,lapce,lapce,25505,761,2018-02-06T08:41:06Z,2023-05-19T14:38:21Z,Rust,971,1350,164,22807,False,False,Apache License 2.0,
+433,influxdb,influxdata,25456,3372,2013-09-26T14:31:10Z,2023-05-19T07:46:08Z,Go,11004,12866,739,166157,False,False,MIT License,"influxdb, monitoring, database, time-series, metrics, go, react"
+434,AI-Expert-Roadmap,AMAI-GmbH,25448,2215,2020-10-24T21:49:40Z,2023-05-19T14:20:36Z,JavaScript,15,57,902,628,False,False,MIT License,"deep-learning, artificial-intelligence, roadmap, ai-roadmap, machine-learning, study-plan, data-science, data-analysis, neural-network, ai"
+435,the-super-tiny-compiler,jamiebuilds,25427,2752,2016-03-11T04:19:18Z,2023-05-19T13:53:31Z,JavaScript,59,0,475,41,False,False,Creative Commons Attribution 4.0 International,
+436,mattermost-server,mattermost,25404,6129,2015-06-15T06:50:02Z,2023-05-19T13:27:12Z,TypeScript,15886,7366,547,746225,False,False,Other,"collaboration, mattermost, golang, react-native, hacktoberfest, monorepo, react"
+437,fastjson,alibaba,25337,6528,2011-11-03T06:58:52Z,2023-05-19T09:01:12Z,Java,856,3504,1317,15513,False,False,Apache License 2.0,"fastjson, java, android, json, json-parser, json-serialization, json-serializer, serialization, deserialization, best-performance"
+438,nprogress,rstacruz,25289,1855,2013-08-20T13:58:02Z,2023-05-19T09:13:32Z,JavaScript,95,149,417,722,False,False,MIT License,
+439,immer,immerjs,25289,834,2017-12-29T12:25:47Z,2023-05-19T10:01:16Z,JavaScript,440,608,154,5865,False,False,MIT License,"immutable, immutables, reducer, redux, state-tree"
+440,vagrant,hashicorp,25200,4381,2010-01-21T08:34:27Z,2023-05-19T12:55:05Z,Ruby,3758,9338,743,80419,False,False,MIT License,"vagrant, ruby, automation, virtualization, hacktoberfest"
+441,data-science-ipython-notebooks,donnemartin,25073,7577,2015-01-23T19:38:29Z,2023-05-19T11:23:29Z,Python,60,38,1632,49025,False,False,Other,"python, machine-learning, deep-learning, data-science, big-data, aws, tensorflow, theano, caffe, scikit-learn"
+442,proxyee-down,proxyee-down-org,25056,4542,2017-10-25T10:07:27Z,2023-05-18T03:14:27Z,Java,35,0,968,26862,False,False,Apache License 2.0,
+443,ChatGLM-6B,THUDM,25030,3104,2023-03-13T12:00:18Z,2023-05-19T14:41:02Z,Python,100,918,285,9157,False,False,Apache License 2.0,
+444,handson-ml,ageron,25014,13042,2016-02-16T19:48:39Z,2023-05-19T11:24:00Z,Jupyter Notebook,121,551,1097,87254,False,False,Apache License 2.0,"tensorflow, scikit-learn, machine-learning, python, deep-learning, neural-network, ml, distributed, jupyter-notebook, deprecated"
+445,os-tutorial,cfenollosa,24958,3122,2014-09-29T08:39:34Z,2023-05-19T07:37:33Z,C,99,162,815,154,False,False,"BSD 3-Clause ""New"" or ""Revised"" License",
+446,kit,go-kit,24957,2411,2015-02-03T00:01:19Z,2023-05-19T13:18:20Z,Go,644,554,686,7382,False,False,MIT License,"go, microservices, golang, metallica"
+447,react-virtualized,bvaughn,24950,3140,2015-11-03T00:48:07Z,2023-05-19T13:40:55Z,JavaScript,626,1176,237,48092,False,False,MIT License,"react, react-components, windowing, virtualization, list, grid, listview, tabular-data, performance"
+448,kafka,apache,24937,12624,2011-08-15T18:06:16Z,2023-05-19T08:28:57Z,Java,13731,0,1081,159259,False,False,Apache License 2.0,"scala, kafka"
+449,jq,stedolan,24915,1441,2012-07-18T19:57:25Z,2023-05-19T12:40:30Z,C,574,2003,326,6985,False,False,Other,
+450,fabric.js,fabricjs,24843,3261,2010-06-09T22:24:38Z,2023-05-19T10:53:02Z,JavaScript,2573,5677,469,169605,False,False,Other,
+451,tqdm,tqdm,24814,1277,2015-06-03T13:13:14Z,2023-05-19T14:34:02Z,Python,514,913,213,5874,False,False,Other,"progressbar, progressmeter, progress-bar, meter, rate, console, terminal, time, progress, gui"
+452,hacker-laws,dwmkerr,24795,1488,2018-01-25T03:46:34Z,2023-05-19T12:50:27Z,Shell,196,201,447,2658,False,False,Creative Commons Attribution Share Alike 4.0 International,"principles, laws, coding, computerscience"
+453,cmder,cmderdev,24782,2028,2013-07-09T07:44:22Z,2023-05-19T13:56:15Z,C++,566,2214,572,2945,False,False,MIT License,"cmder, powershell, c-plus-plus, portable, conemu, color-scheme, mintty, ssh-agent, command-line, shell"
+454,streamlit,streamlit,24740,2180,2019-08-24T00:14:52Z,2023-05-19T12:07:20Z,Python,3339,3270,290,266356,False,False,Apache License 2.0,"python, machine-learning, data-science, deep-learning, data-visualization, streamlit, data-analysis, developer-tools"
+455,nylas-mail,nylas,24738,1474,2014-10-16T18:29:12Z,2023-05-19T08:42:41Z,JavaScript,255,3419,476,87026,False,False,MIT License,"electron, javascript, react, flux, macos, windows, linux, productivity, email, babel"
+456,HowToLiveLonger,geekan,24727,1766,2022-04-16T04:15:18Z,2023-05-19T14:48:48Z,None,23,119,208,70,False,False,The Unlicense,"chinese, programmer, livelonger"
+457,linkedin-skill-assessments-quizzes,Ebazhanov,24716,13144,2019-07-13T19:52:56Z,2023-05-19T14:25:36Z,Python,4846,735,350,132955,False,False,GNU Affero General Public License v3.0,"linkedin, quiz-questions, answers, assessment, quiz, linkedin-questions, free, hacktoberfest, hacktoberfest2020, exam"
+458,commander.js,tj,24691,1721,2011-08-14T21:33:58Z,2023-05-19T08:43:25Z,JavaScript,902,973,234,3172,False,False,MIT License,
+459,toBeTopJavaer,hollischuang,24650,5418,2018-10-25T09:54:54Z,2023-05-19T08:42:36Z,Java,74,125,912,8019,False,False,None,"java, programmer, jvm, spring, mysql, design-patterns"
+460,fastText,facebookresearch,24594,4598,2016-07-16T13:38:42Z,2023-05-19T13:39:53Z,HTML,256,1057,853,8292,False,False,MIT License,
+461,remote-jobs,remoteintech,24572,2615,2015-10-13T03:49:25Z,2023-05-19T11:21:39Z,JavaScript,1455,145,888,3558,False,False,Creative Commons Zero v1.0 Universal,"remote, job-board, jobsearch, jobs-search, remote-work, remote-job, jobseeker, hacktoberfest"
+462,RSSHub,DIYgod,24562,5228,2018-04-02T14:43:21Z,2023-05-19T14:18:24Z,JavaScript,8015,4390,334,159583,False,False,MIT License,"rss, twitter, weibo, bilibili, wechat, zhihu, pixiv, disqus, dribbble, instagram"
+463,modern-js-cheatsheet,mbeaudru,24540,3014,2017-09-18T14:56:00Z,2023-05-19T14:02:18Z,None,88,48,638,333,False,False,MIT License,"javascript, es6"
+464,C-Plus-Plus,TheAlgorithms,24402,6299,2016-07-16T10:19:45Z,2023-05-19T13:26:02Z,C++,2194,257,489,94831,False,False,MIT License,"cpp, algorithm, algorithms-implemented, data-structures, algorithm-competitions, algorithms, interview-preparation, interview-questions, search, sort"
+465,xxl-job,xuxueli,24327,10091,2015-11-28T12:59:34Z,2023-05-19T10:30:22Z,Java,430,2754,949,32974,False,False,GNU General Public License v3.0,"xxl-job, job, quartz, glue, task, schedule, scheduler, java, distributed, restful"
+466,helm,helm,24324,6674,2015-10-06T01:07:32Z,2023-05-19T13:43:46Z,Go,4904,7112,521,19940,False,False,Apache License 2.0,"cncf, chart, kubernetes, helm, charts"
+467,Clone-Wars,GorvGoyl,24323,2108,2020-12-02T11:10:16Z,2023-05-19T10:46:14Z,None,142,72,471,1885,False,False,GNU Affero General Public License v3.0,"clone, tiktok, whatsapp, netflix, airbnb, spotify, instagram, reddit, twitter"
+468,JavaScript30,wesbos,24313,32634,2016-12-07T19:15:31Z,2023-05-19T14:44:34Z,HTML,594,0,683,46925,False,False,None,
+469,engineering-blogs,kilimchoi,24294,916,2015-06-13T18:25:17Z,2023-05-19T13:09:57Z,Ruby,1025,87,939,1350,False,False,None,"engineering-blogs, tech, programming-blogs, software-development, lists"
+470,ShareX,ShareX,24275,2860,2013-10-08T23:32:10Z,2023-05-19T13:50:07Z,C#,1031,5814,526,63782,False,False,GNU General Public License v3.0,"screen-capture, screen-recorder, file-sharing, file-upload, url-shortener, color-picker, region-capture, imgur, dropbox, gif"
+471,xgboost,dmlc,24147,8586,2014-02-06T17:28:03Z,2023-05-19T11:48:28Z,C++,4360,4807,916,26595,False,False,Apache License 2.0,"gbdt, gbrt, gbm, distributed-systems, xgboost, machine-learning"
+472,jsoncrack.com,AykutSarac,24128,1292,2022-01-30T15:25:18Z,2023-05-19T14:45:36Z,TypeScript,107,180,119,25585,False,False,GNU General Public License v3.0,"json, tool, react, visualization, graph, nextjs, diagrams, productivity"
+473,iris,kataras,23964,2480,2016-01-30T04:36:48Z,2023-05-19T10:25:14Z,Go,433,923,696,16082,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","go, iris, web-framework, mvc, golang, dependency-injection, http2, sessions, websocket"
+474,stanford_alpaca,tatsu-lab,23914,3420,2023-03-10T23:33:09Z,2023-05-19T14:20:12Z,Python,44,218,307,9364,False,False,Apache License 2.0,"deep-learning, instruction-following, language-model"
+475,swagger-ui,swagger-api,23880,8681,2011-07-15T22:56:39Z,2023-05-19T13:08:42Z,JavaScript,3410,5112,656,465508,False,False,Apache License 2.0,"swagger, swagger-ui, swagger-api, swagger-js, rest, rest-api, openapi-specification, oas, openapi, openapi3"
+476,ItChat,littlecodersh,23851,5465,2016-01-19T07:49:48Z,2023-05-19T14:27:20Z,Python,107,862,895,955,False,False,MIT License,"itchat, wechat, api, robot"
+477,xstate,statelyai,23830,1098,2015-09-14T15:04:15Z,2023-05-19T12:31:52Z,TypeScript,1697,1172,185,157496,False,False,MIT License,"state-machine, statechart, interpreter, visualizer, scxml, state, state-management, workflow, orchestration, hacktoberfest"
+478,mongo,mongodb,23745,5519,2009-01-15T16:15:18Z,2023-05-19T09:35:15Z,C++,1522,0,1222,971113,False,False,Other,"c-plus-plus, database, mongodb, nosql"
+479,pnpm,pnpm,23731,715,2016-01-28T07:40:43Z,2023-05-19T14:28:33Z,TypeScript,2485,3330,130,134125,False,False,MIT License,"npm, dependency-manager, package-manager, node, nodejs, install, modules, javascript"
+480,NewPipe,TeamNewPipe,23720,2657,2015-09-03T23:39:26Z,2023-05-19T13:41:57Z,Java,1965,7953,581,68262,False,False,GNU General Public License v3.0,"youtube-video, video, newpipe, watch, translation, download-videos, android, soundcloud, peertube, bandcamp"
+481,BaseRecyclerViewAdapterHelper,CymChad,23561,5031,2016-04-10T07:40:11Z,2023-05-19T09:01:43Z,Kotlin,282,3468,571,65316,False,False,MIT License,"recyclerview, recyclerview-adapter, recyclerview-item-animation, android, android-library"
+482,Python-programming-exercises,zhiwehu,23534,6599,2012-06-14T07:56:46Z,2023-05-19T13:38:46Z,None,113,72,824,778,False,False,None,
+483,Depix,beurtschipper,23533,2908,2020-12-06T12:39:08Z,2023-05-19T09:50:53Z,Python,28,0,395,843,False,False,Other,
+484,quasar,quasarframework,23531,3190,2015-10-05T15:45:36Z,2023-05-19T13:07:52Z,JavaScript,4413,7232,474,291086,False,False,MIT License,"quasar-framework, vuejs, vue, vue-component, javascript, ios, android, electron, material, vue-components"
+485,awesome-compose,docker,23512,4465,2020-02-13T08:51:42Z,2023-05-19T12:14:24Z,HTML,264,88,372,6066,False,False,Creative Commons Zero v1.0 Universal,"awesome-list, awesome, docker-compose"
+486,components,angular,23502,6514,2016-01-04T18:50:02Z,2023-05-19T06:52:29Z,TypeScript,12905,14107,930,101358,False,False,MIT License,"angular, material-design, material, angular-components"
+487,Vundle.vim,VundleVim,23499,2592,2010-10-17T23:17:53Z,2023-05-19T11:59:22Z,Vim Script,242,714,704,935,False,False,MIT License,
+488,tools,rome,23489,677,2020-02-20T05:57:33Z,2023-05-19T13:11:58Z,Rust,2947,1352,190,143917,False,False,MIT License,"formatter, linter, javascript, toolchain, typescript"
+489,YesPlayMusic,qier222,23487,3460,2020-10-09T10:04:21Z,2023-05-19T14:25:53Z,Vue,365,1554,203,48244,False,False,MIT License,"vue, vuex, vue-router, vue-cli, music, javascript, music-player, web-music-player, pwa, pwa-apps"
+490,docsify,docsifyjs,23475,5572,2016-11-20T07:55:43Z,2023-05-19T13:35:31Z,JavaScript,810,1169,264,26879,False,False,MIT License,"documentation, documentation-tool, github-pages, docs, docsify, vue, doc, markdown"
+491,remix,remix-run,23468,1913,2020-10-26T19:57:28Z,2023-05-19T13:36:18Z,TypeScript,3005,1577,214,37520,False,False,MIT License,
+492,rollup,rollup,23463,1348,2015-05-14T22:26:28Z,2023-05-19T10:12:32Z,JavaScript,1939,3047,260,25271,False,False,Other,
+493,aos,michalsnik,23439,2430,2015-07-09T17:49:00Z,2023-05-19T11:50:11Z,JavaScript,136,658,314,1465,False,False,MIT License,
+494,professional-programming,charlax,23393,2020,2015-11-07T05:07:52Z,2023-05-19T10:46:18Z,Python,44,17,640,4684,False,False,MIT License,"read-articles, programmer, professional, scalability, concepts, documentation, lessons-learned, engineer, programming-language, learning"
+495,Hystrix,Netflix,23382,4698,2012-11-19T20:14:46Z,2023-05-19T12:18:11Z,Java,805,1023,1667,9783,False,False,None,
+496,dnSpy,dnSpy,23363,4580,2015-07-01T16:05:10Z,2023-05-19T14:25:08Z,C#,83,0,958,35047,False,True,None,
+497,RxSwift,ReactiveX,23326,4072,2015-04-07T21:25:17Z,2023-05-19T10:55:44Z,Swift,1283,1209,540,16237,False,False,MIT License,"swift, reactivex, reactive, ios, unidirectional, observer, functional, rxswift"
+498,Web,qianguyihao,23320,5933,2017-01-03T11:44:33Z,2023-05-19T12:38:46Z,None,77,181,658,7220,False,False,Other,"front-end, html, css, javascript"
+499,mdb-ui-kit,mdbootstrap,23319,3540,2014-08-18T11:54:00Z,2023-05-19T13:07:44Z,SCSS,336,1168,786,49191,False,False,MIT License,"material-design, bootstrap-material, bootstrap, material, javascript, framework, bootstrap5, css, html, uikit"
+500,ember.js,emberjs,22451,4297,2011-05-25T23:39:40Z,2023-05-19T07:31:17Z,JavaScript,10135,6654,874,79356,False,False,MIT License,"ember, javascript, javascript-framework, hacktoberfest"
+501,idiomatic.js,rwaldron,22451,3184,2011-05-25T17:48:59Z,2023-05-19T14:10:13Z,None,175,81,915,1237,False,False,Other,
+502,octotree,ovity,22448,1877,2014-05-09T18:15:20Z,2023-05-19T00:01:30Z,JavaScript,385,756,380,82923,False,False,GNU Affero General Public License v3.0,"github, chrome, firefox, opera, safari, browser-extension, code-review, edge, pull-request-review, code-files"
+503,react-navigation,react-navigation,22432,4903,2017-01-26T19:51:40Z,2023-05-19T03:57:59Z,TypeScript,1674,9055,327,60973,False,False,None,"react, react-native, react-navigation, navigation, hacktoberfest"
+504,hub,github,22416,2371,2009-12-05T22:15:25Z,2023-05-19T11:22:26Z,Go,820,2014,592,7319,False,False,MIT License,"go, homebrew, git, github-api, pull-request"
+505,docker_practice,yeasy,22389,5530,2014-09-05T04:06:39Z,2023-05-19T09:10:13Z,Go,313,204,852,11860,False,False,None,"docker, book, cloud-computing, container, kubernetes, swarm, mesos, spark, devops, linux"
+506,draft-js,facebookarchive,22389,2702,2016-02-19T20:18:26Z,2023-05-19T08:35:17Z,JavaScript,1363,1775,334,36831,False,True,MIT License,
+507,blog,fouber,22383,2408,2014-04-25T09:44:42Z,2023-05-19T13:13:38Z,None,6,15,5079,19107,False,False,None,
+508,copilot-docs,github,22366,2446,2021-10-23T16:07:04Z,2023-05-19T14:40:08Z,None,39,0,412,53737,False,False,Creative Commons Attribution 4.0 International,
+509,openzeppelin-contracts,OpenZeppelin,22276,11392,2016-08-01T20:54:54Z,2023-05-19T12:10:35Z,JavaScript,2517,1639,654,33052,False,False,MIT License,"ethereum, solidity, evm, security, smart-contracts"
+510,Ryujinx,Ryujinx,22276,2144,2018-02-04T23:07:54Z,2023-05-19T14:51:18Z,C#,2926,1986,315,28175,False,False,MIT License,"emulator, csharp, switch, emulation, dotnet-core, dotnet"
+511,sweetalert,t4t5,22248,2896,2014-09-30T11:12:48Z,2023-05-19T08:37:01Z,TypeScript,290,708,460,5478,False,False,MIT License,"modal, sweetalert, javascript, popup, dialog, alert, ui"
+512,react-redux-links,markerikson,22203,2494,2016-01-22T02:10:28Z,2023-05-19T01:56:26Z,None,102,38,741,1588,False,False,None,"react, redux, webpack, javascript, es6"
+513,react-admin,marmelab,22155,4907,2016-07-13T07:58:54Z,2023-05-19T14:39:46Z,TypeScript,4766,4158,275,368341,False,False,MIT License,"material-ui, react, frontend-framework, rest, admin, admin-dashboard, single-page-app, admin-on-rest, react-admin, reactjs"
+514,gson,google,22126,4237,2015-03-19T18:21:20Z,2023-05-19T02:58:38Z,Java,797,1527,745,12052,False,False,Apache License 2.0,
+515,zod,colinhacks,22123,759,2020-03-07T20:59:08Z,2023-05-19T14:15:58Z,TypeScript,562,1291,48,4718,False,False,MIT License,"typescript, schema-validation, type-inference, runtime-validation, static-types"
+516,fairseq,facebookresearch,22065,5446,2017-08-29T16:26:12Z,2023-05-19T14:44:09Z,Python,1254,3847,372,24647,False,False,MIT License,"python, pytorch, artificial-intelligence"
+517,envoy,envoyproxy,22035,4262,2016-08-08T15:07:24Z,2023-05-19T14:25:26Z,C++,18191,9300,599,209555,False,False,Apache License 2.0,"cats, rocket-ships, cars, more-cats, cats-over-dogs, nanoservices, corgis, cncf"
+518,intro.js,usablica,22001,2628,2013-03-10T15:12:45Z,2023-05-19T02:31:30Z,HTML,1114,771,461,45028,False,False,Other,"introjs, html, javascript, guide, tour, ux, cdn, minify"
+519,chosen,harvesthq,21977,4183,2011-04-18T15:07:41Z,2023-05-18T08:00:23Z,HTML,763,2372,672,3057,False,False,Other,"deprecated, not-maintained"
+520,OpenBBTerminal,OpenBB-finance,21977,2169,2020-12-20T10:46:38Z,2023-05-19T14:15:54Z,Python,3088,1779,249,1563560,False,False,MIT License,"python, investment, machine-learning, artificial-intelligence, finance, cryptocurrency, investment-research, stocks, quantitative-finance, economics"
+521,github1s,conwnet,21968,798,2019-06-16T09:55:25Z,2023-05-19T08:11:50Z,TypeScript,291,200,108,17150,False,False,MIT License,"hacktoberfest, vscode"
+522,autocomplete,withfig,21957,5029,2020-09-29T02:21:06Z,2023-05-19T13:36:39Z,TypeScript,1452,475,78,25013,False,False,MIT License,"autocomplete, terminal, shell, macos, zsh, bash, fish, iterm2, cli, typescript"
+523,polymer,Polymer,21940,2027,2012-08-23T20:56:30Z,2023-05-17T14:53:02Z,HTML,1439,3910,866,30658,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","polymer, web-components"
+524,MonitorControl,MonitorControl,21931,681,2017-09-16T21:13:40Z,2023-05-19T13:27:46Z,Swift,233,783,153,29797,False,False,MIT License,"macos, keyboard, brightness, volume, external-monitor, m1, apple, silicon, ddc, macos-app"
+525,SwiftyJSON,SwiftyJSON,21925,3399,2014-06-18T14:41:15Z,2023-05-19T13:21:28Z,Swift,416,692,628,1116,False,False,MIT License,"swiftyjson, json, swift, xcode10, swift4-2, response, request, carthage, cocoapods, json-parsing-library"
+526,DeepSpeech,mozilla,21921,3735,2016-06-02T15:04:53Z,2023-05-19T11:24:07Z,C++,1664,2085,658,50567,False,False,Mozilla Public License 2.0,"deep-learning, machine-learning, neural-networks, tensorflow, speech-recognition, speech-to-text, deepspeech, embedded, on-device, offline"
+527,algo,wangzheng0822,21918,6961,2018-09-24T05:33:46Z,2023-05-19T14:05:01Z,Python,409,124,843,1173,False,False,Apache License 2.0,
+528,setup-ipsec-vpn,hwdsl2,21917,5899,2016-01-07T16:44:12Z,2023-05-19T10:34:09Z,Shell,93,1263,652,7352,False,False,Other,"vpn, ipsec, l2tp, ikev2, security, vpn-server, network, vpn-client, encryption, libreswan"
+529,backstage,backstage,21917,4065,2020-01-24T22:39:49Z,2023-05-19T08:11:15Z,TypeScript,13020,4126,214,3204460,False,False,Apache License 2.0,"infrastructure, dx, developer-experience, developer-portal, service-catalog, microservices, cncf, backstage, hacktoberfest"
+530,react-starter-kit,kriasoft,21912,4144,2014-04-16T13:08:18Z,2023-05-19T13:43:18Z,TypeScript,840,1185,537,16507,False,False,MIT License,"react, javascript, graphql, boilerplate, reactjs, nodejs, starter-kit, typescript, template, relay"
+531,tdesktop,telegramdesktop,21812,4499,2014-05-02T12:36:31Z,2023-05-19T10:19:28Z,C++,1622,12550,792,201298,False,False,Other,"telegram, telegram-desktop, messenger, telegram-solution, multi-platform"
+532,faiss,facebookresearch,21802,2942,2017-02-07T16:07:05Z,2023-05-19T14:44:23Z,C++,727,2066,448,126201,False,False,MIT License,
+533,windows95,felixrieseberg,21789,1281,2018-08-23T05:04:38Z,2023-05-19T12:12:08Z,TypeScript,61,230,451,3822,False,False,Other,
+534,iosched,google,21753,6259,2014-04-01T22:40:40Z,2023-05-19T09:08:17Z,Kotlin,170,242,1448,58059,False,True,Apache License 2.0,"kotlin, architecture, coroutines, conference, android"
+535,openssl,openssl,21716,9171,2013-01-15T22:34:48Z,2023-05-19T12:55:05Z,C,12444,8425,991,284443,False,False,Apache License 2.0,"cryptography, openssl, encryption, tls, ssl, decryption"
+536,freqtrade,freqtrade,21663,4728,2017-05-17T23:48:53Z,2023-05-19T08:04:57Z,Python,4806,3818,593,170031,False,False,GNU General Public License v3.0,"python, cryptocurrencies, trading-bot, telegram-bot, bitcoin, trade, cryptocurrency, algorithmic-trading, freqtrade"
+537,srs,ossrs,21628,4974,2015-04-29T06:59:32Z,2023-05-19T11:39:30Z,C++,600,1215,844,249489,False,False,MIT License,"rtmp, live-streaming, live, media-server, hls, webrtc, srt, low-latency, video-conferencing, video"
+538,micro,zyedidia,21559,1118,2016-03-11T02:06:28Z,2023-05-19T14:49:08Z,Go,792,1954,259,12773,False,False,MIT License,"micro, text-editor, editor, command-line, go, golang, cross-platform, terminal"
+539,fish-shell,fish-shell,21545,1708,2012-05-10T03:00:55Z,2023-05-19T06:16:31Z,C++,2947,6727,283,77755,False,False,Other,"fish, shell, terminal"
+540,wttr.in,chubin,21536,995,2015-12-26T21:03:43Z,2023-05-19T13:33:24Z,Python,291,567,224,1638,False,False,Apache License 2.0,"weather-information, weather-api, curl, weather, weather-app, terminal, ascii-art, hacktoberfest2021, hacktoberfest, hacktoberfest-accepted"
+541,vuepress,vuejs,21532,4774,2018-04-05T16:58:38Z,2023-05-19T14:04:48Z,JavaScript,1216,1907,265,14870,False,False,MIT License,"vue, vuepress, seo, static-site-generator, docs-generator, blog-engine"
+542,pumpkin-book,datawhalechina,21529,4606,2018-12-22T05:05:24Z,2023-05-19T11:25:41Z,None,59,69,627,10594,False,False,Other,"machine-learning, pumpkin-book, book"
+543,celery,celery,21528,4487,2009-04-24T11:31:24Z,2023-05-19T13:37:20Z,Python,2930,4849,479,34539,False,False,Other,"python, task-manager, task-scheduler, task-runner, queue-workers, queued-jobs, queue-tasks, amqp, redis, sqs"
+544,libgdx,libgdx,21505,6421,2012-08-10T19:34:38Z,2023-05-19T11:08:29Z,Java,3507,3605,1178,1102272,False,False,Apache License 2.0,"libgdx, java, game, cross-platform, android, ios, html5, windows, linux, macosx"
+545,awesome-actions,sdras,21490,1376,2018-10-17T17:53:45Z,2023-05-19T12:53:04Z,None,588,39,292,1083,False,False,Creative Commons Zero v1.0 Universal,"awesome, github, github-actions, actions, awesome-list, awesome-lists, curated-list, actions-list"
+546,table,TanStack,21482,2800,2016-10-20T17:25:08Z,2023-05-19T13:53:05Z,TypeScript,958,2230,164,21335,False,False,MIT License,"react, table, datagrid, datatable, grid, datagrids, hooks, sorting, filtering, grouping"
+547,react-motion,chenglou,21470,1205,2015-06-11T07:38:23Z,2023-05-19T13:36:19Z,JavaScript,228,398,285,5349,False,False,MIT License,
+548,passport,jaredhanson,21466,1215,2011-10-08T22:38:32Z,2023-05-19T14:02:52Z,JavaScript,150,745,318,614,False,False,MIT License,"nodejs, express, passport, oauth, oauth2, saml, openid-connect, openid"
+549,libuv,libuv,21446,3361,2013-11-30T00:29:56Z,2023-05-19T13:50:24Z,C,2211,1560,703,17980,False,False,MIT License,"asynchronous, io, networking, unix, windows, velociraptors, unicorns, deep-io"
+550,aseprite,aseprite,21421,2049,2014-08-19T23:44:50Z,2023-05-19T14:47:44Z,C++,485,3322,417,38240,False,False,None,"animation, pixel-art, graphics, animated-sprites, spritesheet, gif, aseprite, c-plus-plus, sprites, draw"
+551,bitcoinbook,bitcoinbook,21393,5597,2013-08-11T23:18:28Z,2023-05-19T11:34:16Z,AsciiDoc,673,368,1082,49091,False,False,Other,
+552,trilium,zadam,21272,1418,2017-05-23T00:30:20Z,2023-05-19T13:33:08Z,JavaScript,295,2930,242,110489,False,False,GNU Affero General Public License v3.0,"knowledge-graph, note-taking, notebook, knowledge-base, knowledge-management, knowledge-management-graph, electron, electron-app, local-first, self-hosted"
+553,Kingfisher,onevcat,21271,2410,2015-04-06T14:26:21Z,2023-05-19T03:38:03Z,Swift,703,1285,363,5781,False,False,MIT License,"swift, kingfisher, image, cache, filters, image-processor, xcode, ios, macos"
+554,Rectangle,rxhanson,21221,611,2019-06-21T21:34:53Z,2023-05-19T08:39:30Z,Swift,217,503,87,4872,False,False,Other,
+555,v8,v8,21210,3837,2014-09-24T15:24:30Z,2023-05-19T12:36:55Z,C++,66,0,973,1300193,False,False,Other,"javascript-engine, virtual-machine, compiler, interpreter, javascript"
+556,redisson,redisson,21141,5054,2014-01-11T14:06:25Z,2023-05-19T10:01:52Z,Java,556,4448,890,23137,False,False,Apache License 2.0,"java, redis, lock, map, list, queue, executor, redis-cluster, redis-client, distributed"
+557,tornado,tornadoweb,21115,5485,2009-09-09T04:55:16Z,2023-05-19T09:54:18Z,Python,1495,1768,997,10033,False,False,Apache License 2.0,"python, asynchronous"
+558,dracula-theme,dracula,21113,2230,2013-10-27T12:39:02Z,2023-05-19T14:32:14Z,None,121,632,185,1225,False,False,MIT License,
+559,rancher,rancher,21053,2803,2014-11-07T20:49:31Z,2023-05-19T09:27:41Z,Go,9810,31196,633,141923,False,False,Apache License 2.0,"rancher, docker, kubernetes, orchestration, cattle, containers"
+560,lux,iawia002,21045,2467,2018-02-24T11:29:03Z,2023-05-19T14:12:20Z,Go,296,929,355,2557,False,False,MIT License,"downloader, go, crawler, scraper, video, bilibili, youtube, youku, iqiyi, tumblr"
+561,masscan,robertdavidgraham,21030,2919,2013-07-28T05:35:33Z,2023-05-19T12:41:01Z,C,200,510,657,3496,False,False,Other,
+562,normalizr,paularmstrong,20982,897,2014-08-20T08:41:38Z,2023-05-17T11:02:00Z,JavaScript,193,0,201,2471,False,True,MIT License,"normalizr, redux, javascript, json, reactjs, flux, normalize, api"
+563,wiki,requarks,20967,2332,2016-08-16T19:35:26Z,2023-05-19T13:32:39Z,Vue,608,2462,302,37606,False,False,GNU Affero General Public License v3.0,"wiki, nodejs, git, documentation, cross-platform, markdown, open-source, hacktoberfest"
+564,games,leereilly,20950,2811,2012-01-05T19:48:55Z,2023-05-19T13:27:41Z,None,398,258,890,510,False,False,None,"game-engine, platform-game, html5-games, strategy-game, puzzle-game, sandbox-game, gamedev, games, game, game-development"
+565,hosts,googlehosts,20920,10619,2017-08-05T16:10:32Z,2023-05-19T12:29:29Z,None,88,419,1284,13238,False,False,Other,hosts
+566,modern-cpp-tutorial,changkun,20850,2769,2016-08-19T14:39:15Z,2023-05-19T09:15:30Z,C++,138,113,628,39501,False,False,MIT License,"cpp11, cpp14, cpp17, cpp20, modern-cpp, cpp, cpp-tutorial"
+567,API-Security-Checklist,shieldfy,20834,2495,2017-07-08T20:01:38Z,2023-05-19T08:34:03Z,None,135,39,532,484,False,False,MIT License,"api, security, jwt, oauth2"
+568,tips,git-tips,20819,1753,2015-07-15T07:24:48Z,2023-05-19T12:15:11Z,JavaScript,171,34,569,393,False,False,MIT License,"git, tips, tips-and-tricks"
+569,the-swift-programming-language-in-chinese,SwiftGGTeam,20783,5159,2014-06-03T04:44:09Z,2023-05-19T02:12:05Z,CSS,814,409,1284,41134,False,False,None,hacktoberfest
+570,WeChatExtension-ForMac,MustangYM,20751,3499,2019-04-25T03:02:16Z,2023-05-19T14:10:54Z,Objective-C,72,1673,296,198245,False,False,MIT License,"wechat, weixin-plugin, macos, wechat-plugin, alfred, wechat-macos"
+571,security-guide-for-developers,FallibleInc,20696,1616,2016-06-08T15:56:25Z,2023-05-18T03:43:40Z,None,42,12,1109,5838,False,False,None,"security-checklist, security-book, security, books, api"
+572,30-Days-Of-React,Asabeneh,20687,5630,2020-09-29T13:38:54Z,2023-05-19T13:00:38Z,JavaScript,262,58,370,18498,False,False,None,"challenge, javascript, js, react, react-router-dom, reactjs, redux, css, html, html5"
+573,es6tutorial,ruanyf,20686,8958,2014-04-20T13:06:28Z,2023-05-19T02:03:37Z,JavaScript,604,549,894,5587,False,False,Other,
+574,Rocket,SergioBenitez,20662,1422,2016-03-18T02:50:18Z,2023-05-19T13:39:31Z,Rust,710,1439,263,7519,False,False,Other,"rocket, web, framework, web-framework, web-development, rust"
+575,Babylon.js,BabylonJS,20660,3154,2013-06-27T20:40:42Z,2023-05-19T13:58:49Z,TypeScript,10964,2851,553,1042211,False,False,Apache License 2.0,"webgl, webgl2, 3d, game-development, webvr, babylon, webaudio, typescript, webxr, webgpu"
+576,novu,novuhq,20629,1370,2021-08-26T15:22:44Z,2023-05-19T12:00:16Z,TypeScript,2349,974,134,92620,False,False,MIT License,"notifications, communication, email, sms, push-notifications, transactional, javascript, typescript, nodejs, notification-center"
+577,headlessui,tailwindlabs,20628,856,2020-09-16T09:53:09Z,2023-05-19T13:14:36Z,TypeScript,528,901,167,4624,False,False,MIT License,"react, headless-ui, headlessui, vue, accessibility, a11y, tailwindcss, components"
+578,kratos,go-kratos,20610,3793,2019-01-10T10:42:31Z,2023-05-19T13:17:52Z,Go,1800,1010,442,9258,False,False,MIT License,"golang, framework, kratos, go, microservices, architecture, protobuf, http, grpc, generate"
+579,generator-jhipster,jhipster,20580,3988,2013-10-21T20:07:22Z,2023-05-19T13:15:13Z,TypeScript,14826,7312,735,142120,False,False,Apache License 2.0,"angular, spring-boot, webpack, java, docker, yeoman-generator, generator, react, kubernetes, cloud"
+580,SummaryOfLoanSuspension,WeNeedHome,20567,2228,2022-07-12T16:33:25Z,2023-05-19T12:33:24Z,HTML,510,0,343,188407,False,False,None,
+581,delve,go-delve,20552,2054,2014-05-20T19:24:43Z,2023-05-19T12:59:17Z,Go,1790,1536,384,32357,False,False,MIT License,"go, debugger, golang"
+582,tokio,tokio-rs,20535,1921,2016-09-09T22:31:36Z,2023-05-19T11:21:10Z,Rust,3285,1914,304,12364,False,False,MIT License,"rust, asynchronous, networking"
+583,postgrest,PostgREST,20532,939,2014-06-13T00:23:00Z,2023-05-19T13:28:15Z,Haskell,1080,1439,349,6278,False,False,MIT License,"haskell, database, rest, postgresql, server, postgrest, automatic-api, postgres, api, http"
+584,jumpserver,jumpserver,20527,4884,2014-07-04T03:54:59Z,2023-05-19T14:37:45Z,Python,5453,4994,646,74543,False,False,GNU General Public License v3.0,"jumpserver, python, ssh-server, django, coco, luna, terminal, web-terminal, bastion-host"
+585,winston,winstonjs,20522,1764,2010-12-29T18:49:51Z,2023-05-19T14:19:59Z,JavaScript,917,1383,224,3747,False,False,MIT License,
+586,vscodium,VSCodium,20511,862,2018-08-13T14:26:58Z,2023-05-19T14:37:19Z,Shell,411,964,196,29558,False,False,MIT License,"vscode, open-source-licensing, floss, ide, editor, hacktoberfest"
+587,flatbuffers,google,20469,3093,2014-05-19T18:33:01Z,2023-05-19T13:33:28Z,C++,2336,2208,637,19383,False,False,Apache License 2.0,"flatbuffers, serialization, serialization-library, json-parser, marshalling, rpc, zero-copy, mmap, cross-platform, c-plus-plus"
+588,go-micro,go-micro,20451,2281,2015-01-13T23:30:18Z,2023-05-19T14:10:36Z,Go,1573,952,520,14448,False,False,Apache License 2.0,"go, golang, micro, microservices, rpc, distributed-systems"
+589,JARVIS,microsoft,20430,1648,2023-03-30T02:57:12Z,2023-05-19T13:52:21Z,Python,45,152,358,3867,False,False,MIT License,"deep-learning, platform, pytorch"
+590,k6,grafana,20415,1069,2016-03-21T15:30:24Z,2023-05-19T11:06:39Z,Go,1512,1537,314,30935,False,False,GNU Affero General Public License v3.0,"golang, load-testing, load-generator, javascript, es6, performance, go"
+591,mxnet,apache,20410,6874,2015-04-30T16:21:15Z,2023-05-19T08:30:19Z,C++,11115,9556,1082,101231,False,False,Apache License 2.0,mxnet
+592,yup,jquense,20401,866,2014-09-22T23:54:22Z,2023-05-19T12:47:58Z,TypeScript,486,1516,70,4565,False,False,MIT License,
+593,monolog,Seldaek,20363,1869,2011-02-17T02:07:15Z,2023-05-19T11:22:33Z,PHP,1038,766,316,3833,False,False,MIT License,"php, logging, logger, psr-3, hacktoberfest"
+594,FileSaver.js,eligrey,20350,4426,2011-07-15T03:27:54Z,2023-05-19T09:15:08Z,JavaScript,163,626,361,356,False,False,Other,
+595,ava,avajs,20349,1480,2014-11-18T17:20:26Z,2023-05-19T01:57:44Z,JavaScript,1379,1617,228,13337,False,False,MIT License,"test-runner, ava, javascript, concurrency, async-functions, tap, assert, babel, nodejs, cli"
+596,ruby,ruby,20345,5323,2010-02-27T15:55:23Z,2023-05-19T14:38:15Z,Ruby,7786,0,1138,324535,False,False,Other,"ruby, c, language, object-oriented, ruby-language, jit, rust, programming-language"
+597,stackedit,benweet,20335,2690,2013-03-24T13:46:06Z,2023-05-19T12:14:18Z,JavaScript,132,1663,509,36697,False,False,Apache License 2.0,"markdown, editor, stackedit, google-drive, dropbox, javascript, blogger, offline, gist, wordpress"
+598,Proton,ValveSoftware,20323,909,2018-03-13T18:45:27Z,2023-05-19T14:34:43Z,C++,187,6438,379,119891,False,False,Other,proton
+599,osquery,osquery,20301,2425,2014-07-29T20:27:33Z,2023-05-19T12:50:10Z,C++,4822,3147,691,26275,False,False,Other,"security, monitoring, intrusion-detection, sql, hacktoberfest"
+600,vue-manage-system,lin-xin,16935,5687,2016-11-30T06:34:40Z,2023-05-19T12:14:20Z,Vue,66,304,562,3208,False,False,MIT License,"vue, element-plus, pinia, vite, typescript"
+601,less.js,less,16929,3471,2010-02-20T17:25:38Z,2023-05-19T12:54:38Z,JavaScript,948,2801,665,16405,False,False,Apache License 2.0,"stylesheet-language, language, css"
+602,simdjson,simdjson,16909,911,2018-03-23T00:49:18Z,2023-05-19T08:28:20Z,C++,1184,750,238,30699,False,False,Apache License 2.0,"json, json-parser, simd, avx2, sse42, neon, aarch64, arm64, arm, vs2019"
+603,lazysizes,aFarkas,16896,1779,2014-10-11T21:03:26Z,2023-05-19T14:37:20Z,JavaScript,137,814,283,2904,False,False,MIT License,"javascript, lazyload, lazy-evaluation, lazysizes, responsive-images, performance"
+604,proposals,tc39,16893,731,2016-05-11T23:41:28Z,2023-05-19T14:32:39Z,None,370,81,2179,1164,False,False,None,"proposal, ecmascript, javascript, spec, specification, committee, language-design, language"
+605,SpringBoot-Labs,yudaocode,16838,5496,2018-09-12T14:51:46Z,2023-05-19T14:47:58Z,Java,29,42,793,1656,False,False,None,"spring-boot, spring-cloud, spring-cloud-alibaba, dubbo, rocketmq, rabbitmq, kafka, activemq"
+606,websocketd,joewalnes,16837,1013,2013-02-14T14:52:55Z,2023-05-19T10:24:37Z,Go,113,320,366,1061,False,False,"BSD 2-Clause ""Simplified"" License","websocket-server, websockets, proxy"
+607,Android-Universal-Image-Loader,nostra13,16806,6212,2011-11-27T18:48:23Z,2023-05-19T09:01:20Z,Java,152,1220,1339,27128,False,False,Apache License 2.0,
+608,sunflower,android,16798,4456,2018-05-23T03:02:28Z,2023-05-19T08:55:22Z,Kotlin,596,256,512,10061,False,False,Apache License 2.0,
+609,material-components-web,material-components,16790,2229,2016-12-05T16:04:09Z,2023-05-19T05:27:51Z,TypeScript,4990,2909,387,89312,False,False,MIT License,"material-components, material-design, web, css, javascript"
+610,prisma1,prisma,16705,909,2016-09-25T12:54:40Z,2023-05-17T06:10:20Z,Scala,1704,3445,95,193917,False,True,Apache License 2.0,"orm, database, graphql, datamapper, serverless, dao, prisma1"
+611,darkreader,darkreader,16682,2132,2014-11-15T14:22:52Z,2023-05-19T08:33:34Z,TypeScript,6704,4222,176,31014,False,False,MIT License,"dark-theme, chrome-extension, firefox-addon, dark-mode, night-mode, darkmode, nightmode, accessibility, eye-care"
+612,doomemacs,doomemacs,16675,2946,2014-07-12T09:29:52Z,2023-05-19T14:48:14Z,Emacs Lisp,2777,4114,240,30409,False,False,MIT License,"emacs, vim, emacs-lisp, emacs-configuration, evil, doom-emacs"
+613,slim,slimtoolkit,16669,626,2015-09-09T17:39:11Z,2023-05-19T13:06:23Z,Go,206,274,175,72830,False,False,Apache License 2.0,"docker, containers, security, seccomp, apparmor, minify-images, golang, go, seccomp-profile, hacktoberfest"
+614,bit,teambit,16652,911,2017-01-22T14:51:43Z,2023-05-19T13:38:17Z,TypeScript,5513,1748,182,141785,False,False,Other,"react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven"
+615,modern-cpp-features,AnthonyCalandra,16646,1847,2016-10-31T03:34:22Z,2023-05-19T10:46:27Z,Python,71,54,756,176,False,False,MIT License,"cpp, cpp11, cpp14, cpp17, cpp20"
+616,next-auth,nextauthjs,16633,2025,2018-01-27T12:28:16Z,2023-05-19T09:44:50Z,TypeScript,1793,3048,91,31095,False,False,ISC License,"nodejs, nextjs, oauth, react, authentication, nextauth, csrf, jwt, oauth2, oidc"
+617,pyscript,pyscript,16627,1283,2022-02-21T04:55:20Z,2023-05-19T12:15:24Z,Python,734,614,176,10323,False,False,Apache License 2.0,"python, html, javascript, wasm"
+618,mint-ui,ElemeFE,16565,3554,2016-05-17T09:54:10Z,2023-05-19T09:22:24Z,Vue,407,1224,476,3420,False,False,MIT License,"vue, vue-components, component, ui-kit, mobile"
+619,ungoogled-chromium,ungoogled-software,16556,747,2015-06-12T22:24:24Z,2023-05-19T14:13:23Z,Python,450,1654,294,14021,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","chromium, inox, iridium, privacy, control, transparency, google-chromium"
+620,Dive-into-DL-PyTorch,ShusenTang,16551,5193,2019-02-21T03:45:20Z,2023-05-19T10:36:22Z,Jupyter Notebook,39,147,390,35157,False,False,Apache License 2.0,"deep-learning, deep-learning-tutorial, pytorch, pytorch-tutorial, computer-vision, natural-language-processing, d2l"
+621,luigi,spotify,16545,2373,2012-09-20T15:06:38Z,2023-05-19T07:36:44Z,Python,2270,964,483,10729,False,False,Apache License 2.0,"python, luigi, orchestration-framework, scheduling, hadoop"
+622,decap-cms,decaporg,16544,2964,2015-01-20T05:47:47Z,2023-05-19T14:05:15Z,JavaScript,3944,2751,266,77575,False,False,MIT License,"cms, jamstack, react, static, javascript, npm-package, netlify-cms, static-site-generator, content-management-system, git-based-cms"
+623,react-loadable,jamiebuilds,16542,855,2017-03-09T18:41:17Z,2023-05-18T18:54:00Z,JavaScript,239,0,145,325,False,False,MIT License,"react, loading, async, imports, webpack, babel-plugin, server-side-rendering, ssr, code-splitting"
+624,typeahead.js,twitter,16521,3302,2013-02-19T19:45:01Z,2023-05-19T06:01:15Z,JavaScript,474,1328,561,2151,False,False,MIT License,
+625,node-lessons,alsotang,16500,4800,2014-10-05T09:57:08Z,2023-05-19T03:20:28Z,JavaScript,45,128,1118,2073,False,False,None,"javascript, nodejs"
+626,zheng,shuzheng,16500,7457,2016-10-04T10:07:06Z,2023-05-19T09:23:41Z,Java,135,98,1471,41267,False,False,MIT License,"spring, springmvc, shiro, spring-session, mybatis, mybatis-generator, druid, zookeeper, dubbo, tbschedule"
+627,Best-App,hzlzh,16498,1860,2013-08-30T14:32:19Z,2023-05-19T13:09:13Z,None,56,75,1260,353,False,False,None,"mac, macos, app"
+628,diff-so-fancy,so-fancy,16463,341,2016-02-04T11:32:08Z,2023-05-19T05:01:56Z,Perl,195,269,117,603,False,False,MIT License,"git, diff, diff-highlight, fancy, diffs"
+629,reddit,reddit-archive,16453,2899,2008-06-18T23:30:53Z,2023-05-19T03:40:51Z,Python,891,0,770,40093,False,True,Other,"reddit, python, javascript"
+630,OnJava8,LingCoder,16443,5483,2018-11-20T05:41:18Z,2023-05-19T04:49:47Z,None,468,186,625,8502,False,False,MIT License,"on-java-8, gitbook, thinking-in-java"
+631,mkdocs,mkdocs,16438,2252,2014-01-11T21:05:21Z,2023-05-19T10:37:38Z,Python,1131,1805,232,31394,False,False,"BSD 2-Clause ""Simplified"" License","mkdocs, documentation, static-site-generator, markdown, python"
+632,fullcalendar,fullcalendar,16400,3517,2009-11-22T23:16:51Z,2023-05-19T12:59:12Z,TypeScript,582,6740,453,32349,False,False,MIT License,"calendar, event, full-sized"
+633,authelia,authelia,16386,917,2016-12-07T00:56:57Z,2023-05-19T14:43:49Z,Go,4126,1102,157,40482,False,False,Apache License 2.0,"totp, u2f, ldap, nginx, sso-authentication, yubikey, two-factor-authentication, docker, cookie, kubernetes"
+634,coffeescript,jashkenas,16345,2022,2009-12-18T01:39:53Z,2023-05-19T04:33:02Z,CoffeeScript,1238,4140,519,30493,False,False,MIT License,
+635,rasa,RasaHQ,16340,4343,2016-10-14T12:27:49Z,2023-05-19T12:25:04Z,Python,5748,6643,348,1585064,False,False,Apache License 2.0,"nlp, machine-learning, machine-learning-library, bot, bots, botkit, rasa, wit, nlu, conversational-bots"
+636,TensorFlow-Course,instillai,16339,3247,2018-10-02T18:10:12Z,2023-05-19T09:21:16Z,Jupyter Notebook,27,12,819,21714,False,False,MIT License,"tensorflow, python, deep-learning, deep-learning-tutorial"
+637,fx,antonmedv,16322,452,2018-01-25T17:29:43Z,2023-05-19T12:23:29Z,Go,73,158,120,2925,False,False,MIT License,"json, cli, command-line"
+638,Anime4K,bloc97,16302,1319,2019-08-13T22:51:31Z,2023-05-19T06:39:16Z,Jupyter Notebook,33,151,286,820465,False,False,MIT License,"anime, upscaling, upsampling, video-processing, video, anime4k, computer-graphics, cnn, neural-networks, convolutional-neural-networks"
+639,wechaty,wechaty,16264,2227,2016-05-01T14:36:45Z,2023-05-19T11:47:29Z,TypeScript,880,1525,391,8983,False,False,Apache License 2.0,"wechaty, chatbot, wechat, whatsapp, conversational-ai, robotics, qq, framework, bot"
+640,nvidia-docker,NVIDIA,16243,2069,2015-11-04T18:04:49Z,2023-05-19T14:48:33Z,Makefile,86,1651,442,19855,False,False,Apache License 2.0,"nvidia-docker, docker, cuda, gpu"
+641,stats,exelban,16242,568,2019-05-29T19:24:56Z,2023-05-19T14:48:07Z,Swift,315,1146,96,54386,False,False,MIT License,"macos, monitor, cpu, gpu, disk, network, temperature, stats, battery, fans"
+642,data,fivethirtyeight,16205,11068,2014-03-17T13:49:17Z,2023-05-19T07:02:20Z,Jupyter Notebook,115,151,1297,155878,False,False,Creative Commons Attribution 4.0 International,data
+643,zipkin,openzipkin,16183,3061,2012-06-06T18:26:16Z,2023-05-19T10:30:37Z,Java,2189,1299,694,68261,False,False,Apache License 2.0,"zipkin, distributed-tracing, tracing, openzipkin, observability"
+644,AFFiNE,toeverything,16179,816,2022-07-31T18:45:21Z,2023-05-19T13:47:29Z,TypeScript,1453,881,136,60150,False,False,Mozilla Public License 2.0,"editor, crdt, knowledge-base, markdown, miro, notion, rust, rust-lang, whiteboard, wiki"
+645,Carbon,briannesbitt,16154,1261,2012-09-08T02:56:20Z,2023-05-19T10:10:33Z,PHP,1571,1220,227,15734,False,False,MIT License,
+646,flash-linux0.11-talk,dibingfa,16152,2151,2021-11-06T04:58:25Z,2023-05-19T08:14:21Z,HTML,36,47,374,194974,False,False,None,
+647,python-spider,Jack-Cherish,16142,5791,2017-05-05T07:28:13Z,2023-05-19T12:55:24Z,Python,43,77,635,1282,False,False,None,"python-spider, python3, python, webspider"
+648,zipline,quantopian,16130,4579,2012-10-19T15:50:29Z,2023-05-18T09:51:04Z,Python,1867,978,1000,170757,False,False,Apache License 2.0,"quant, python, algorithmic-trading, zipline"
+649,Dapper,DapperLib,16117,3610,2011-04-14T08:42:59Z,2023-05-19T07:27:56Z,C#,587,1196,952,49546,False,False,Other,"dapper, sql, ado-net"
+650,setup,lewagon,16048,1600,2014-04-06T09:25:02Z,2023-05-19T14:26:36Z,Ruby,292,140,53,26308,False,False,None,"setup, ruby"
+651,IQKeyboardManager,hackiftekhar,16048,2374,2013-08-25T11:32:48Z,2023-05-18T16:15:18Z,Swift,190,1745,359,23440,False,False,MIT License,"objective-c, keyboard, swift, iqkeyboardmanager, xcode"
+652,openai-translator,openai-translator,16001,1116,2023-03-04T05:21:09Z,2023-05-19T14:39:11Z,TypeScript,206,392,98,14725,False,False,GNU Affero General Public License v3.0,"chatgpt, chrome-extension, openai, translation, translator, browser-extension, translator-app"
+653,disruptor,LMAX-Exchange,15992,3780,2012-09-21T13:42:24Z,2023-05-19T13:36:29Z,Java,157,292,1263,9808,False,False,Apache License 2.0,"disruptor, java, concurrency"
+654,ToolsOfTheTrade,cjbarber,15987,1272,2014-05-29T04:11:33Z,2023-05-19T10:11:41Z,None,476,45,490,1552,False,False,Other,
+655,keepassxc,keepassxreboot,15916,1224,2016-02-28T15:52:40Z,2023-05-19T14:14:06Z,C++,1943,6916,256,55936,False,False,Other,"keepassxc, keepass, password-manager, linux, windows, cross-platform, yubikey, macos, password, security"
+656,prophet,facebook,15884,4403,2016-11-16T01:50:08Z,2023-05-19T07:40:57Z,Python,415,2000,419,59839,False,False,MIT License,"forecasting, r, python"
+657,pyspider,binux,15878,3673,2014-02-21T19:18:47Z,2023-05-19T12:24:36Z,Python,170,817,903,4171,False,False,Apache License 2.0,"python, crawler"
+658,kivy,kivy,15875,3024,2010-11-03T20:27:32Z,2023-05-19T13:24:24Z,Python,3456,4756,616,75571,False,False,MIT License,"python, ui, windows, ios, android, macos, linux, app, kivy"
+659,lottie-react-native,lottie-react-native,15856,1771,2017-01-27T18:24:50Z,2023-05-19T04:07:55Z,Kotlin,299,713,237,416468,False,False,Apache License 2.0,"bodymovin, animations, react-native, after-effects, react"
+660,ui,shadcn,15854,644,2023-01-04T12:43:27Z,2023-05-19T14:48:50Z,TypeScript,196,177,105,6293,False,False,MIT License,"components, nextjs, radix-ui, react, tailwindcss, ui"
+661,SwiftGuide,ipader,15849,3617,2014-06-14T01:17:57Z,2023-05-19T00:44:12Z,Swift,45,27,1494,90065,False,False,None,"swift, swift-programming-language"
+662,sweetalert2,sweetalert2,15834,1549,2015-01-03T16:15:52Z,2023-05-19T14:17:55Z,JavaScript,1022,1566,219,20332,False,False,MIT License,"sweetalert, alert, popup, prompt, dialog, toast, notifications, wai-aria, accessible, confirm"
+663,medium-editor,yabwe,15804,1884,2013-05-29T17:40:11Z,2023-05-19T08:33:21Z,JavaScript,641,945,364,10390,False,False,Other,"medium-editor, contenteditable, editor, javascript, rich-text-editor, wysiwyg"
+664,ArchiveBox,ArchiveBox,15777,921,2017-05-05T08:50:14Z,2023-05-19T06:28:23Z,Python,299,718,172,6086,False,False,MIT License,"pocket, wget, browser-bookmarks, pinboard, chromium, firefox, backups, rss, web-archiving, python"
+665,deeplearning-models,rasbt,15752,3893,2019-06-05T16:08:20Z,2023-05-19T03:54:53Z,Jupyter Notebook,38,28,597,43653,False,False,MIT License,
+666,browsh,browsh-org,15745,447,2016-05-08T19:34:15Z,2023-05-19T11:30:47Z,JavaScript,89,386,186,8466,False,False,GNU Lesser General Public License v2.1,"tty, ssh, mosh, bandwidth-saver, http-performance, vnc"
+667,cursor,getcursor,15726,1208,2023-03-12T00:19:42Z,2023-05-19T14:24:32Z,None,79,528,133,2104,False,False,None,
+668,pouchdb,pouchdb,15724,1460,2010-06-10T18:34:24Z,2023-05-19T09:30:13Z,JavaScript,4410,4196,277,122296,False,False,Apache License 2.0,"javascript, database, pouchdb, couchdb, hacktoberfest"
+669,CopyTranslator,CopyTranslator,15703,1876,2018-05-19T04:56:01Z,2023-05-19T14:24:57Z,TypeScript,96,478,404,10593,False,False,GNU General Public License v2.0,"translate, dictionary, copytranslator"
+670,AR.js,jeromeetienne,15697,2260,2017-02-17T10:27:59Z,2023-05-18T23:44:05Z,HTML,149,665,555,327340,False,False,MIT License,"a-frame, three-js, webar"
+671,plotly.js,plotly,15678,1787,2015-11-05T23:27:17Z,2023-05-19T14:50:53Z,JavaScript,2698,3891,286,1342479,False,False,MIT License,"data-visualization, d3, webgl, plotly, charting-library, charts, visualization, plotly-dash, regl"
+672,system-design,karanpratapsingh,15675,1413,2022-08-15T18:59:54Z,2023-05-19T10:15:07Z,None,16,8,163,5456,False,False,Other,"architecture, distributed-systems, system-design, system-design-interview, interview, tech, engineering, interview-preparation, scalability, microservices"
+673,vConsole,Tencent,15657,2968,2016-04-27T03:33:45Z,2023-05-19T12:18:33Z,TypeScript,191,422,312,5404,False,False,Other,"wechat, mobile, console"
+674,Rust,TheAlgorithms,15630,1547,2018-09-13T13:29:27Z,2023-05-19T14:33:11Z,Rust,450,49,220,702,False,False,MIT License,"rust, algorithms, data-structures, rust-lang, hacktoberfest"
+675,nodemailer,nodemailer,15615,1349,2011-01-19T21:17:36Z,2023-05-19T13:36:46Z,JavaScript,219,1312,224,10067,False,False,Other,"nodemailer, email, email-sender, rfc822"
+676,simple-icons,simple-icons,15609,2225,2012-11-16T11:09:13Z,2023-05-19T14:29:25Z,JavaScript,4731,3851,192,62461,False,False,Creative Commons Zero v1.0 Universal,"brand, branding, brands, brand-assets, icons, logos, svg, svg-icons, design, design-assets"
+677,cube,cube-js,15555,1557,2018-09-16T18:58:46Z,2023-05-19T13:09:34Z,Rust,4822,1803,150,253514,False,False,Other,"analytics, serverless, microservice, cube, postgresql, mysql, hive, presto, bigquery, sql"
+678,jasmine,jasmine,15538,2274,2008-12-02T23:46:37Z,2023-05-19T08:26:40Z,JavaScript,602,1389,444,9968,False,False,None,"jasmine, javascript, tdd, testing"
+679,wangEditor,wangeditor-team,15533,3055,2014-11-06T09:26:47Z,2023-05-19T06:34:52Z,TypeScript,572,4845,260,20077,False,False,MIT License,"wangeditor, rich-text, rich-text-html-editor, typescript, wysiwyg, wysiwyg-editor"
+680,GitHub520,521xueweihan,15532,1722,2020-05-13T07:25:21Z,2023-05-19T13:58:23Z,Python,28,163,222,6682,False,False,None,"dns, github, hosts"
+681,awesome-design-systems,alexpate,15512,1036,2017-06-06T19:56:49Z,2023-05-19T05:32:44Z,None,266,0,458,397,False,False,The Unlicense,"awesome-list, design-systems, pattern-library, ui-library, awesome, hacktoberfest"
+682,charts,helm,15499,17214,2015-11-24T17:05:28Z,2023-05-19T02:59:32Z,Go,18201,6322,398,291410,False,True,Apache License 2.0,"kubernetes, charts, helm"
+683,solarized,altercation,15498,3572,2011-02-18T05:18:27Z,2023-05-19T08:28:10Z,Vim Script,156,253,408,34558,False,False,MIT License,
+684,spf13-vim,spf13,15480,3715,2010-04-20T16:20:16Z,2023-05-18T19:59:50Z,Vim Script,386,731,674,5905,False,False,Apache License 2.0,
+685,grpc-gateway,grpc-ecosystem,15459,1996,2015-04-03T07:25:13Z,2023-05-19T13:20:11Z,Go,2283,1026,283,8419,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","go, grpc, grpc-gateway, rest-api, restful-api, swagger, openapi"
+686,springboot-learning-example,JeffLi1993,15451,7078,2017-02-06T07:02:25Z,2023-05-19T09:56:35Z,Java,65,77,1021,403,False,False,Apache License 2.0,"springboot, redis, jpa, elasticsearch, dubbo, mybatis, webflux"
+687,chinese-independent-blogs,timqian,15446,2090,2019-10-22T09:22:45Z,2023-05-19T14:28:19Z,JavaScript,1430,46,264,8717,False,False,MIT License,"rss, blog, china"
+688,vim-go,fatih,15431,1466,2014-03-24T13:12:26Z,2023-05-18T23:55:15Z,Vim Script,1616,1926,268,7049,False,False,Other,"vim, go, viml, vim-plugins, vim-go, golang, gopls, lps, hacktoberfest"
+689,react-native-windows,microsoft,15412,1125,2015-12-15T00:16:54Z,2023-05-19T14:32:53Z,C++,7460,3985,289,228692,False,False,Other,"uwp, xbox, dotnet, react-native, react"
+690,cilium,cilium,15388,2194,2015-12-16T12:33:31Z,2023-05-19T13:21:06Z,Go,17925,7561,309,272857,False,False,Apache License 2.0,"containers, bpf, security, kubernetes, kubernetes-networking, cni, kernel, loadbalancing, monitoring, troubleshooting"
+691,react-bits,vasanthk,15357,1064,2016-12-20T06:49:54Z,2023-05-18T17:29:28Z,None,84,28,318,1037,False,False,Creative Commons Attribution 4.0 International,"react-patterns, design-patterns, techniques, best-practices, react, reactjs, javascript"
+692,intellij-community,JetBrains,15339,4878,2011-09-30T13:33:05Z,2023-05-19T13:34:28Z,None,2358,0,529,4433600,False,False,Apache License 2.0,"intellij, intellij-platform, ide, code-editor, intellij-community"
+693,lime,limetext,15316,1106,2012-10-03T18:10:02Z,2023-05-18T18:33:40Z,None,188,403,764,2133,False,False,"BSD 2-Clause ""Simplified"" License","text-editor, golang, editor"
+694,electron-vue,SimulatedGREG,15289,1567,2016-05-12T07:08:12Z,2023-05-19T12:21:10Z,JavaScript,185,939,250,5927,False,False,MIT License,"electron, vue, webpack, boilerplate, vue-cli, documentation, unit-testing, end-to-end-testing, electron-packager, electron-builder"
+695,httprouter,julienschmidt,15286,1424,2013-12-05T15:10:55Z,2023-05-19T12:50:19Z,Go,131,231,320,269,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","go, router, http, mux, httprouter, golang"
+696,vueuse,vueuse,15283,1902,2019-12-14T06:44:59Z,2023-05-19T13:41:04Z,TypeScript,1692,1174,125,10789,False,False,MIT License,"vue, vue-use, vue-composition-api, vue-next, utility-library, composable, vue3"
+697,mjml,mjmlio,15265,921,2016-01-28T14:04:05Z,2023-05-19T14:06:27Z,JavaScript,762,1879,168,10074,False,False,MIT License,"mjml, email, email-boilerplate, responsive-email, email-campaigns, responsive"
+698,N-blog,nswbmw,15261,4735,2013-05-27T06:46:58Z,2023-05-19T13:43:31Z,JavaScript,47,443,931,10727,False,False,None,"tutorial, nodejs, mongodb, express, blog, course, javascript, mongolass"
+699,wasmer,wasmerio,15253,652,2018-10-11T10:15:53Z,2023-05-19T12:48:23Z,Rust,2570,1200,194,398699,False,False,MIT License,"webassembly, wasm, wasi, emscripten, rust, windows, macos, linux, wasmer"
+700,mocha,mochajs,22011,3004,2011-03-07T18:44:25Z,2023-05-19T05:08:46Z,JavaScript,2046,2877,397,22206,False,False,MIT License,"mocha, javascript, testing, tdd, bdd, browser, nodejs, mochajs, node, test"
+701,go-patterns,tmrts,21999,2043,2015-12-14T22:05:06Z,2023-05-19T14:03:45Z,Go,91,28,617,927,False,False,Apache License 2.0,"go, idioms, patterns, awesome, golang, design-patterns, design-patterns-for-humans"
+702,flow,facebook,21978,1872,2014-10-28T17:17:45Z,2023-05-18T18:57:51Z,OCaml,2280,6622,399,118466,False,False,MIT License,
+703,chosen,harvesthq,21977,4183,2011-04-18T15:07:41Z,2023-05-18T08:00:23Z,HTML,763,2372,672,3057,False,False,Other,"deprecated, not-maintained"
+704,OpenBBTerminal,OpenBB-finance,21977,2169,2020-12-20T10:46:38Z,2023-05-19T14:15:54Z,Python,3088,1779,249,1563560,False,False,MIT License,"python, investment, machine-learning, artificial-intelligence, finance, cryptocurrency, investment-research, stocks, quantitative-finance, economics"
+705,chinese-independent-developer,1c7,21968,2016,2017-09-21T11:08:23Z,2023-05-19T10:54:53Z,None,172,73,1025,1186,False,False,None,"indie, indie-developer, china"
+706,github1s,conwnet,21968,798,2019-06-16T09:55:25Z,2023-05-19T08:11:50Z,TypeScript,291,200,108,17150,False,False,MIT License,"hacktoberfest, vscode"
+707,python-telegram-bot,python-telegram-bot,21952,4761,2015-07-07T15:30:39Z,2023-05-19T13:57:17Z,Python,1492,1893,597,13182,False,False,GNU General Public License v3.0,"python, telegram, bot, chatbot, framework, hacktoberfest"
+708,polymer,Polymer,21940,2027,2012-08-23T20:56:30Z,2023-05-17T14:53:02Z,HTML,1439,3910,866,30658,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","polymer, web-components"
+709,homebridge,homebridge,21930,1963,2014-12-01T16:37:39Z,2023-05-19T14:49:25Z,TypeScript,373,2943,647,3262,False,False,Apache License 2.0,"homebridge, homekit-api, siri, homekit, hap, homekit-accessory-protocol, homekit-bridge"
+710,SwiftyJSON,SwiftyJSON,21925,3399,2014-06-18T14:41:15Z,2023-05-19T13:21:28Z,Swift,416,692,628,1116,False,False,MIT License,"swiftyjson, json, swift, xcode10, swift4-2, response, request, carthage, cocoapods, json-parsing-library"
+711,DeepSpeech,mozilla,21921,3735,2016-06-02T15:04:53Z,2023-05-19T11:24:07Z,C++,1664,2085,658,50567,False,False,Mozilla Public License 2.0,"deep-learning, machine-learning, neural-networks, tensorflow, speech-recognition, speech-to-text, deepspeech, embedded, on-device, offline"
+712,algo,wangzheng0822,21918,6961,2018-09-24T05:33:46Z,2023-05-19T14:05:01Z,Python,409,124,843,1173,False,False,Apache License 2.0,
+713,react-starter-kit,kriasoft,21912,4144,2014-04-16T13:08:18Z,2023-05-19T13:43:18Z,TypeScript,840,1185,537,16507,False,False,MIT License,"react, javascript, graphql, boilerplate, reactjs, nodejs, starter-kit, typescript, template, relay"
+714,RedisDesktopManager,RedisInsight,21910,3266,2013-08-05T07:51:08Z,2023-05-19T13:27:22Z,C++,562,4540,625,78590,False,False,Other,
+715,mediapipe,google,21839,4571,2019-06-13T19:16:41Z,2023-05-19T13:53:35Z,C++,314,4114,499,597478,False,False,Apache License 2.0,"mediapipe, c-plus-plus, computer-vision, deep-learning, android, video-processing, audio-processing, mobile-development, machine-learning, inference"
+716,skywalking,apache,21834,6203,2015-11-07T03:30:36Z,2023-05-19T12:44:34Z,Java,4694,4789,851,168243,False,False,Apache License 2.0,"skywalking, observability, apm, service-mesh, dapper, distributed-tracing, web-performance, metrics, logging, prometheus"
+717,faiss,facebookresearch,21802,2942,2017-02-07T16:07:05Z,2023-05-19T14:44:23Z,C++,727,2066,448,126201,False,False,MIT License,
+718,windows95,felixrieseberg,21789,1281,2018-08-23T05:04:38Z,2023-05-19T12:12:08Z,TypeScript,61,230,451,3822,False,False,Other,
+719,termux-app,termux,21764,2558,2015-10-23T09:42:46Z,2023-05-19T14:47:57Z,Java,312,2316,1061,4329,False,False,Other,"android, terminal, termux, linux, hacktoberfest"
+720,penpot,penpot,21718,1013,2015-12-29T22:09:07Z,2023-05-19T14:06:32Z,Clojure,1953,1060,188,108820,False,False,Mozilla Public License 2.0,"ux-design, ux-experience, prototyping, clojure, clojurescript, ui, design"
+721,openssl,openssl,21716,9171,2013-01-15T22:34:48Z,2023-05-19T12:55:05Z,C,12444,8425,991,284443,False,False,Apache License 2.0,"cryptography, openssl, encryption, tls, ssl, decryption"
+722,react-bootstrap,react-bootstrap,21708,3516,2013-12-27T19:06:07Z,2023-05-19T12:28:19Z,TypeScript,3184,3418,427,30603,False,False,MIT License,"react, bootstrap, hacktoberfest, react-components, typescript, javascript"
+723,llama,facebookresearch,21685,3481,2023-02-14T09:29:12Z,2023-05-19T14:10:43Z,Python,52,254,225,36,False,False,GNU General Public License v3.0,
+724,howler.js,goldfire,21677,2170,2013-01-28T16:47:12Z,2023-05-19T10:33:48Z,JavaScript,264,1343,364,32214,False,False,MIT License,"javascript, audio, html5-audio, playback, volume, web-audio, audio-library, howler"
+725,exa,ogham,21668,636,2014-05-22T12:45:16Z,2023-05-19T13:51:41Z,Rust,346,845,144,3876,False,False,MIT License,"rust, ls, command-line, files"
+726,elixir,elixir-lang,21636,3050,2011-01-09T08:43:57Z,2023-05-19T11:34:11Z,Elixir,7601,4951,678,57622,False,False,Apache License 2.0,
+727,srs,ossrs,21628,4974,2015-04-29T06:59:32Z,2023-05-19T11:39:30Z,C++,600,1215,844,249489,False,False,MIT License,"rtmp, live-streaming, live, media-server, hls, webrtc, srt, low-latency, video-conferencing, video"
+728,notable,notable,21618,1107,2018-12-22T13:57:19Z,2023-05-19T14:13:37Z,None,74,1583,206,8943,False,False,None,"electron, react, note, markdown, cross-platform, mac, linux, windows"
+729,fish-shell,fish-shell,21545,1708,2012-05-10T03:00:55Z,2023-05-19T06:16:31Z,C++,2947,6727,283,77755,False,False,Other,"fish, shell, terminal"
+730,v2rayNG,2dust,21536,3456,2019-05-15T02:15:31Z,2023-05-19T14:50:04Z,Kotlin,186,1913,455,233218,False,False,GNU General Public License v3.0,"android, proxy, socks5, shadowsocks, trojan, v2ray, v2fly, xray, vmess, vless"
+731,dragula,bevacqua,21529,1993,2015-04-13T21:35:38Z,2023-05-19T08:15:55Z,JavaScript,189,513,361,1942,False,False,MIT License,"javascript, front-end, drag-and-drop, vanilla, drag-drop, dragging, component"
+732,pumpkin-book,datawhalechina,21529,4606,2018-12-22T05:05:24Z,2023-05-19T11:25:41Z,None,59,69,627,10594,False,False,Other,"machine-learning, pumpkin-book, book"
+733,celery,celery,21528,4487,2009-04-24T11:31:24Z,2023-05-19T13:37:20Z,Python,2930,4849,479,34539,False,False,Other,"python, task-manager, task-scheduler, task-runner, queue-workers, queued-jobs, queue-tasks, amqp, redis, sqs"
+734,highlight.js,highlightjs,21527,3473,2011-01-01T23:47:21Z,2023-05-19T10:13:08Z,JavaScript,1802,1958,302,14497,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","syntax-highlighting, language-grammars, highlighting, syntax-highlighter, javascript, hacktoberfest"
+735,scrollreveal,jlmakes,21526,2194,2014-01-16T17:37:20Z,2023-05-19T08:59:05Z,JavaScript,53,478,418,1140,False,False,None,"reveal, animation, scroll, javascript, css, transition, transform, scrollreveal"
+736,libgdx,libgdx,21505,6421,2012-08-10T19:34:38Z,2023-05-19T11:08:29Z,Java,3507,3605,1178,1102272,False,False,Apache License 2.0,"libgdx, java, game, cross-platform, android, ios, html5, windows, linux, macosx"
+737,react-motion,chenglou,21470,1205,2015-06-11T07:38:23Z,2023-05-19T13:36:19Z,JavaScript,228,398,285,5349,False,False,MIT License,
+738,passport,jaredhanson,21466,1215,2011-10-08T22:38:32Z,2023-05-19T14:02:52Z,JavaScript,150,745,318,614,False,False,MIT License,"nodejs, express, passport, oauth, oauth2, saml, openid-connect, openid"
+739,javascript-testing-best-practices,goldbergyoni,21461,1898,2019-07-04T11:08:12Z,2023-05-19T14:03:03Z,JavaScript,189,60,323,10454,False,False,MIT License,"nodejs, testing, unittest, test, integration-testing, ci, cicd, javascript, react, angular"
+740,aseprite,aseprite,21421,2049,2014-08-19T23:44:50Z,2023-05-19T14:47:44Z,C++,485,3322,417,38240,False,False,None,"animation, pixel-art, graphics, animated-sprites, spritesheet, gif, aseprite, c-plus-plus, sprites, draw"
+741,Hero,HeroTransitions,21414,1717,2016-11-24T18:49:37Z,2023-05-19T07:32:26Z,Swift,149,597,367,31215,False,False,MIT License,"animation, custom-transitions, swift, ios, ios-animation, ios-transition, material-design, transition-animation, animations, ios-swift"
+742,api-guidelines,microsoft,21389,2626,2016-07-12T20:01:24Z,2023-05-19T14:26:42Z,None,231,190,637,2154,False,False,Other,"api, guidelines, rest-api, styleguide"
+743,turbo,vercel,21352,1439,2021-10-05T17:37:11Z,2023-05-19T13:41:55Z,Rust,3207,1116,120,522590,False,False,Mozilla Public License 2.0,"monorepo, javascript, typescript, build-tool, build-system, bundler, turbopack, webpack"
+744,vant,youzan,21345,9466,2017-04-19T07:55:31Z,2023-05-19T10:30:27Z,TypeScript,4878,6720,369,242367,False,False,MIT License,"vue, mobile, components, vant, vue3, ui-library, ui-kit"
+745,TDengine,taosdata,21339,4660,2019-07-11T08:33:48Z,2023-05-19T11:49:54Z,C,17377,3885,708,284748,False,False,GNU Affero General Public License v3.0,"iot, bigdata, time-series, database, industrial-iot, connected-vehicles, monitoring, tsdb, tdengine, sql"
+746,locust,locustio,21335,2691,2011-02-17T11:08:03Z,2023-05-19T12:05:06Z,Python,899,1440,435,7483,False,False,MIT License,"locust, python, load-testing, performance-testing, http, benchmarking, load-generator, load-test, load-tests, performance"
+747,homemade-machine-learning,trekhleb,21308,3901,2018-11-01T04:34:19Z,2023-05-19T13:25:44Z,Jupyter Notebook,21,25,937,14827,False,False,MIT License,"python, jupyter, jupyter-notebook, machine-learning, machinelearning, machine-learning-algorithms, algorithm"
+748,electron-react-boilerplate,electron-react-boilerplate,21302,3625,2015-05-18T09:54:57Z,2023-05-19T10:37:21Z,TypeScript,1577,1826,275,17370,False,False,MIT License,"electron, boilerplate, react, webpack, babel, eslint, typescript, javascript"
+749,validator.js,validatorjs,21284,2148,2010-10-06T06:58:48Z,2023-05-19T09:29:46Z,JavaScript,1223,992,226,5429,False,False,MIT License,"validation, sanitization, javascript, node, input, validator, validations, validate, sanitize, hacktoberfest"
+750,trilium,zadam,21272,1418,2017-05-23T00:30:20Z,2023-05-19T13:33:08Z,JavaScript,295,2930,242,110489,False,False,GNU Affero General Public License v3.0,"knowledge-graph, note-taking, notebook, knowledge-base, knowledge-management, knowledge-management-graph, electron, electron-app, local-first, self-hosted"
+751,Kingfisher,onevcat,21271,2410,2015-04-06T14:26:21Z,2023-05-19T03:38:03Z,Swift,703,1285,363,5781,False,False,MIT License,"swift, kingfisher, image, cache, filters, image-processor, xcode, ios, macos"
+752,DesignPatternsPHP,DesignPatternsPHP,21255,4520,2011-08-22T05:24:31Z,2023-05-18T09:23:40Z,PHP,373,112,1213,6143,False,False,MIT License,"designpatternsphp, php, design-patterns, design-pattern, oop, modern-php, code-examples, phpunit, php8"
+753,flink,apache,21253,12004,2014-06-07T07:00:10Z,2023-05-19T13:32:36Z,Java,22596,0,947,497327,False,False,Apache License 2.0,"scala, java, big-data, flink, python, sql"
+754,pug,pugjs,21231,1972,2010-06-23T01:05:42Z,2023-05-19T11:22:29Z,JavaScript,854,2548,548,14862,False,False,None,
+755,vegeta,tsenart,21231,1287,2013-08-13T11:45:21Z,2023-05-19T11:56:56Z,Go,224,390,322,1736,False,False,MIT License,"load-testing, go, benchmarking, http"
+756,gfwlist,gfwlist,21223,3984,2015-03-13T13:24:56Z,2023-05-19T13:21:41Z,None,27,2373,727,78558,False,False,GNU Lesser General Public License v2.1,"china, censorship-circumvention, anticensorship, gfw, censorship"
+757,Rectangle,rxhanson,21221,611,2019-06-21T21:34:53Z,2023-05-19T08:39:30Z,Swift,217,503,87,4872,False,False,Other,
+758,v8,v8,21210,3837,2014-09-24T15:24:30Z,2023-05-19T12:36:55Z,C++,66,0,973,1300193,False,False,Other,"javascript-engine, virtual-machine, compiler, interpreter, javascript"
+759,CyberChef,gchq,21202,2499,2016-11-28T10:34:07Z,2023-05-19T14:33:51Z,JavaScript,613,786,364,88589,False,False,Apache License 2.0,"data-analysis, data-manipulation, encryption, encoding, compression, parsing, hashing"
+760,redisson,redisson,21141,5054,2014-01-11T14:06:25Z,2023-05-19T10:01:52Z,Java,556,4448,890,23137,False,False,Apache License 2.0,"java, redis, lock, map, list, queue, executor, redis-cluster, redis-client, distributed"
+761,refined-github,refined-github,21120,1442,2016-02-15T16:45:02Z,2023-05-19T14:33:29Z,TypeScript,3106,3487,211,21772,False,False,MIT License,"chrome-extension, github, github-extension, userstyle, firefox-addon, browser-extension, safari-extension"
+762,dracula-theme,dracula,21113,2230,2013-10-27T12:39:02Z,2023-05-19T14:32:14Z,None,121,632,185,1225,False,False,MIT License,
+763,lux,iawia002,21045,2467,2018-02-24T11:29:03Z,2023-05-19T14:12:20Z,Go,296,929,355,2557,False,False,MIT License,"downloader, go, crawler, scraper, video, bilibili, youtube, youku, iqiyi, tumblr"
+764,masscan,robertdavidgraham,21030,2919,2013-07-28T05:35:33Z,2023-05-19T12:41:01Z,C,200,510,657,3496,False,False,Other,
+765,lens,lensapp,21022,1267,2018-11-12T06:28:56Z,2023-05-19T14:28:14Z,TypeScript,4455,3249,251,695390,False,False,Other,"kubernetes, kubernetes-ui, kubernetes-dashboard, cloud-native, devops, containers"
+766,autoprefixer,postcss,20995,1299,2013-03-14T05:04:51Z,2023-05-19T12:25:46Z,JavaScript,335,1134,383,8024,False,False,MIT License,"css, postcss-plugins, prefixer"
+767,normalizr,paularmstrong,20982,897,2014-08-20T08:41:38Z,2023-05-17T11:02:00Z,JavaScript,193,0,201,2471,False,True,MIT License,"normalizr, redux, javascript, json, reactjs, flux, normalize, api"
+768,wiki,requarks,20967,2332,2016-08-16T19:35:26Z,2023-05-19T13:32:39Z,Vue,608,2462,302,37606,False,False,GNU Affero General Public License v3.0,"wiki, nodejs, git, documentation, cross-platform, markdown, open-source, hacktoberfest"
+769,games,leereilly,20950,2811,2012-01-05T19:48:55Z,2023-05-19T13:27:41Z,None,398,258,890,510,False,False,None,"game-engine, platform-game, html5-games, strategy-game, puzzle-game, sandbox-game, gamedev, games, game, game-development"
+770,flameshot,flameshot-org,20927,1325,2017-05-10T19:44:51Z,2023-05-19T14:22:07Z,C++,954,2107,204,23414,False,False,GNU General Public License v3.0,"screenshot, qt, image-editing, gnu-linux, free-software, capture, gui, hacktoberfest, cross-platform"
+771,hosts,googlehosts,20920,10619,2017-08-05T16:10:32Z,2023-05-19T12:29:29Z,None,88,419,1284,13238,False,False,Other,hosts
+772,vnpy,vnpy,20884,7886,2015-03-02T03:36:58Z,2023-05-19T14:30:21Z,Python,1421,1976,1345,253899,False,False,MIT License,"trading, investment, quant, python, algotrading, finance, fintech, vnpy"
+773,The-Art-Of-Programming-By-July-2nd,julycoding,20844,7177,2013-12-14T10:00:06Z,2023-05-19T13:38:28Z,C,343,130,1863,27547,False,False,None,
+774,API-Security-Checklist,shieldfy,20834,2495,2017-07-08T20:01:38Z,2023-05-19T08:34:03Z,None,135,39,532,484,False,False,MIT License,"api, security, jwt, oauth2"
+775,tips,git-tips,20819,1753,2015-07-15T07:24:48Z,2023-05-19T12:15:11Z,JavaScript,171,34,569,393,False,False,MIT License,"git, tips, tips-and-tricks"
+776,jenkins,jenkinsci,20809,8089,2010-11-22T21:21:23Z,2023-05-19T14:41:06Z,Java,7976,0,864,152533,False,False,MIT License,"continuous-integration, continuous-delivery, continuous-deployment, java, groovy, jenkins, pipelines-as-code, devops, cicd, hacktoberfest"
+777,IntelliJ-IDEA-Tutorial,judasn,20807,7368,2015-08-17T15:25:52Z,2023-05-19T08:31:11Z,None,74,77,1780,151086,False,False,GNU General Public License v2.0,"intellij, java, tutorial, intellij-idea, jetbrains, webstorm, phpstorm, pycharm, rubymine, android-studio"
+778,k9s,derailed,20797,1332,2019-01-25T18:46:02Z,2023-05-19T09:15:22Z,Go,662,1432,145,63801,False,False,Apache License 2.0,"k9s, kubernetes, kubernetes-cli, kubernetes-clusters, k8s, k8s-cluster, go, golang"
+779,the-swift-programming-language-in-chinese,SwiftGGTeam,20783,5159,2014-06-03T04:44:09Z,2023-05-19T02:12:05Z,CSS,814,409,1284,41134,False,False,None,hacktoberfest
+780,nanoid,ai,20781,748,2017-08-05T05:24:35Z,2023-05-19T14:27:26Z,JavaScript,202,208,158,4603,False,False,MIT License,
+781,RevokeMsgPatcher,huiyadanli,20771,2678,2019-07-21T15:12:52Z,2023-05-19T13:46:58Z,C#,9,492,233,3630,False,False,GNU General Public License v3.0,"patch, pc, windows, tool, wechat, qq, tim, revoke, hex-editor, revokemsg"
+782,gentelella,ColorlibHQ,20758,6849,2015-05-15T06:57:27Z,2023-05-19T11:46:09Z,HTML,261,645,1097,35085,False,False,MIT License,"bootstrap, dashboard, admin-dashboard, html, html-template, colorlib"
+783,en.javascript.info,javascript-tutorial,20750,3601,2017-06-03T14:27:57Z,2023-05-19T14:34:43Z,HTML,2637,801,342,756073,False,False,Other,
+784,react-native-web,necolas,20742,1784,2015-06-09T19:25:38Z,2023-05-19T12:18:41Z,JavaScript,700,1691,334,94458,False,False,MIT License,"react, react-components, gui-framework, css-in-js, react-native, react-native-web, cross-platform, react-dom, react-ui"
+785,ExoPlayer,google,20717,5951,2014-06-13T21:19:18Z,2023-05-19T12:31:02Z,Java,1180,9924,856,326740,False,False,Apache License 2.0,"android, mediaplayer, java, exoplayer"
+786,awesome-falsehood,kdeldycke,20714,504,2016-09-08T09:13:47Z,2023-05-19T13:04:59Z,None,120,25,381,2285,False,False,Creative Commons Zero v1.0 Universal,"falsehoods, programming, awesome-list, phone-number, geography, postal-addresses, identity, date, time, email"
+787,security-guide-for-developers,FallibleInc,20696,1616,2016-06-08T15:56:25Z,2023-05-18T03:43:40Z,None,42,12,1109,5838,False,False,None,"security-checklist, security-book, security, books, api"
+788,es6tutorial,ruanyf,20686,8958,2014-04-20T13:06:28Z,2023-05-19T02:03:37Z,JavaScript,604,549,894,5587,False,False,Other,
+789,js-cookie,js-cookie,20668,2112,2015-03-19T15:57:47Z,2023-05-19T14:51:58Z,JavaScript,256,531,348,794,False,False,MIT License,"cookie, javascript"
+790,Rocket,SergioBenitez,20662,1422,2016-03-18T02:50:18Z,2023-05-19T13:39:31Z,Rust,710,1439,263,7519,False,False,Other,"rocket, web, framework, web-framework, web-development, rust"
+791,Babylon.js,BabylonJS,20660,3154,2013-06-27T20:40:42Z,2023-05-19T13:58:49Z,TypeScript,10964,2851,553,1042211,False,False,Apache License 2.0,"webgl, webgl2, 3d, game-development, webvr, babylon, webaudio, typescript, webxr, webgpu"
+792,daisyui,saadeghi,20639,808,2020-11-28T22:57:27Z,2023-05-19T13:51:06Z,Svelte,191,1049,131,807653,False,False,MIT License,"tailwind-css, ui-library, design-system, ui-pattern, ui-framework, css-components, css-framework, ui-kit, ui-design, design-pattern"
+793,novu,novuhq,20629,1370,2021-08-26T15:22:44Z,2023-05-19T12:00:16Z,TypeScript,2349,974,134,92620,False,False,MIT License,"notifications, communication, email, sms, push-notifications, transactional, javascript, typescript, nodejs, notification-center"
+794,headlessui,tailwindlabs,20628,856,2020-09-16T09:53:09Z,2023-05-19T13:14:36Z,TypeScript,528,901,167,4624,False,False,MIT License,"react, headless-ui, headlessui, vue, accessibility, a11y, tailwindcss, components"
+795,nanoGPT,karpathy,20628,2426,2022-12-28T00:51:12Z,2023-05-19T14:52:18Z,Python,103,175,259,878,False,False,MIT License,
+796,kratos,go-kratos,20610,3793,2019-01-10T10:42:31Z,2023-05-19T13:17:52Z,Go,1800,1010,442,9258,False,False,MIT License,"golang, framework, kratos, go, microservices, architecture, protobuf, http, grpc, generate"
+797,PicGo,Molunerfinn,20603,2061,2017-12-12T08:39:44Z,2023-05-19T12:56:58Z,TypeScript,38,1019,174,4217,False,False,MIT License,"electron, electron-app, electron-vue, vue, qiniu, tencent-cos, github, smms, upyun, weibo"
+798,forem,forem,20597,3709,2016-11-13T23:02:13Z,2023-05-19T03:42:51Z,Ruby,13463,5201,353,1371854,False,False,GNU Affero General Public License v3.0,"feedback, discussion, community, hacktoberfest, open-source, rails, ruby"
+799,ChromeAppHeroes,zhaoolee,20548,2245,2019-02-07T06:35:24Z,2023-05-19T10:46:26Z,JavaScript,27,46,635,801397,False,False,GNU General Public License v3.0,
+800,awesome-design-systems,alexpate,15512,1036,2017-06-06T19:56:49Z,2023-05-19T05:32:44Z,None,266,0,458,397,False,False,The Unlicense,"awesome-list, design-systems, pattern-library, ui-library, awesome, hacktoberfest"
+801,charts,helm,15499,17214,2015-11-24T17:05:28Z,2023-05-19T02:59:32Z,Go,18201,6322,398,291410,False,True,Apache License 2.0,"kubernetes, charts, helm"
+802,solarized,altercation,15498,3572,2011-02-18T05:18:27Z,2023-05-19T08:28:10Z,Vim Script,156,253,408,34558,False,False,MIT License,
+803,Clash_Chinese_Patch,BoyceLig,15491,1291,2020-04-21T10:06:55Z,2023-05-19T14:48:14Z,JavaScript,57,64,137,400061,False,False,None,"clash-for-windows, cfw"
+804,spf13-vim,spf13,15480,3715,2010-04-20T16:20:16Z,2023-05-18T19:59:50Z,Vim Script,386,731,674,5905,False,False,Apache License 2.0,
+805,lectures,oxford-cs-deepnlp-2017,15475,3632,2017-02-06T11:32:46Z,2023-05-19T11:24:28Z,None,4,18,1236,48981,False,False,None,"deep-learning, machine-learning, natural-language-processing, nlp, oxford"
+806,chinese-independent-blogs,timqian,15446,2090,2019-10-22T09:22:45Z,2023-05-19T14:28:19Z,JavaScript,1430,46,264,8717,False,False,MIT License,"rss, blog, china"
+807,Qv2ray,Qv2ray,15429,3172,2019-06-15T01:51:08Z,2023-05-19T14:21:41Z,C++,461,1123,260,25563,False,False,GNU General Public License v3.0,"v2ray, ssr, trojan, trojan-go, qt5, v2fly, qv2ray, qv2ray-plugins, plugin, cpp"
+808,uWebSockets,uNetworking,15406,1690,2016-03-21T04:39:40Z,2023-05-19T14:17:36Z,C++,285,431,406,4518,False,False,Apache License 2.0,"websockets, http, pubsub, router, commercial, cross-platform, proxy-protocol"
+809,cilium,cilium,15388,2194,2015-12-16T12:33:31Z,2023-05-19T13:21:06Z,Go,17925,7561,309,272857,False,False,Apache License 2.0,"containers, bpf, security, kubernetes, kubernetes-networking, cni, kernel, loadbalancing, monitoring, troubleshooting"
+810,react-bits,vasanthk,15357,1064,2016-12-20T06:49:54Z,2023-05-18T17:29:28Z,None,84,28,318,1037,False,False,Creative Commons Attribution 4.0 International,"react-patterns, design-patterns, techniques, best-practices, react, reactjs, javascript"
+811,intellij-community,JetBrains,15339,4878,2011-09-30T13:33:05Z,2023-05-19T13:34:28Z,None,2358,0,529,4433600,False,False,Apache License 2.0,"intellij, intellij-platform, ide, code-editor, intellij-community"
+812,Android-CleanArchitecture,android10,15333,3373,2014-08-19T14:09:26Z,2023-05-19T09:01:09Z,Java,58,250,845,5191,False,False,Apache License 2.0,"android-cleanarchitecture, architectural, java, android-application, android, android-development, android-architecture"
+813,stanford-cs-229-machine-learning,afshinea,15321,3648,2018-08-04T23:01:00Z,2023-05-19T11:25:23Z,None,2,22,695,38339,False,False,MIT License,"cheatsheet, machine-learning, data-science, supervised-learning, unsupervised-learning, deep-learning, ml-cheatsheet, cs229"
+814,electron-vue,SimulatedGREG,15289,1567,2016-05-12T07:08:12Z,2023-05-19T12:21:10Z,JavaScript,185,939,250,5927,False,False,MIT License,"electron, vue, webpack, boilerplate, vue-cli, documentation, unit-testing, end-to-end-testing, electron-packager, electron-builder"
+815,httprouter,julienschmidt,15286,1424,2013-12-05T15:10:55Z,2023-05-19T12:50:19Z,Go,131,231,320,269,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","go, router, http, mux, httprouter, golang"
+816,vueuse,vueuse,15283,1902,2019-12-14T06:44:59Z,2023-05-19T13:41:04Z,TypeScript,1692,1174,125,10789,False,False,MIT License,"vue, vue-use, vue-composition-api, vue-next, utility-library, composable, vue3"
+817,wasmer,wasmerio,15253,652,2018-10-11T10:15:53Z,2023-05-19T12:48:23Z,Rust,2570,1200,194,398699,False,False,MIT License,"webassembly, wasm, wasi, emscripten, rust, windows, macos, linux, wasmer"
+818,minGPT,karpathy,15245,1776,2020-08-17T07:08:48Z,2023-05-19T14:35:57Z,Python,61,51,245,1485,False,False,MIT License,
+819,mdx,mdx-js,15209,1169,2017-12-24T00:01:48Z,2023-05-18T20:09:32Z,JavaScript,1322,620,82,42196,False,False,MIT License,"mdx, markdown, react, vue, jsx, remark, unified"
+820,Administrative-divisions-of-China,modood,15207,6779,2016-10-08T08:59:27Z,2023-05-19T14:39:58Z,JavaScript,20,112,359,151419,False,False,Do What The F*ck You Want To Public License,"china, administrative-divisions, address, json, csv, province, city, area, street, nodejs"
+821,cz-cli,commitizen,15203,577,2015-04-20T01:11:39Z,2023-05-18T17:00:54Z,JavaScript,629,341,79,2329,False,False,MIT License,"commitizen, javascript, commit-hooks, node, semantic-versioning, semantic-release, command-line, utilities, commitizen-adapter, git"
+822,CLIP,openai,15141,2267,2020-12-16T11:24:42Z,2023-05-19T13:30:03Z,Jupyter Notebook,44,314,262,9142,False,False,MIT License,"deep-learning, machine-learning"
+823,blessed-contrib,yaronn,15137,897,2015-01-14T14:18:07Z,2023-05-19T10:57:11Z,JavaScript,97,143,328,5490,False,False,MIT License,
+824,excelize,qax-os,15136,1479,2016-08-29T12:32:12Z,2023-05-19T13:22:43Z,Go,301,1097,221,5721,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","xlsx, golang, excel, microsoft, office, openxml, go, excelize, spreadsheet, openoffice"
+825,qmk_firmware,qmk,15086,32200,2014-12-08T22:02:05Z,2023-05-19T14:47:43Z,C,18155,2794,230,271657,False,False,GNU General Public License v2.0,"keyboard-firmware, c, olkb, ergodox-ez, clueboard, qmk, keyboard-support, c-plus-plus, atmel-avr, hacktoberfest"
+826,ruoyi-vue-pro,YunaiV,15072,3509,2021-01-24T03:18:25Z,2023-05-19T14:52:16Z,Java,53,209,168,144878,False,False,MIT License,"springboot, vue, mysql, redis, mybatis-plus, redisson, spring-security, flowable"
+827,gpt-3,openai,15053,2173,2020-05-18T08:03:50Z,2023-05-19T14:41:39Z,None,2,3,877,2245,False,True,None,
+828,egui,emilk,15038,1064,2019-01-13T15:39:15Z,2023-05-19T14:52:43Z,Rust,972,1142,113,58199,False,False,Apache License 2.0,"gui, rust, game-development, wasm, imgui, gamedev"
+829,Flat-UI,designmodo,15029,2373,2013-03-03T15:36:49Z,2023-05-19T07:18:14Z,JavaScript,74,189,747,36190,False,False,MIT License,
+830,cadvisor,google,14995,2233,2014-06-09T16:36:33Z,2023-05-19T10:00:26Z,Go,1907,1388,401,52437,False,False,Other,
+831,RustPython,RustPython,14994,1019,2018-05-28T19:27:01Z,2023-05-19T10:01:45Z,Rust,3931,1014,158,61192,False,False,MIT License,"rust, python3, python-language, jit, interpreter, hacktoberfest, language, compiler, wasm"
+832,material-components-android,material-components,14994,3005,2016-12-05T16:11:29Z,2023-05-19T13:26:41Z,Java,545,2788,419,140710,False,False,Apache License 2.0,"material-components, android, material-design"
+833,zepto,madrobby,14989,4020,2010-09-20T07:57:57Z,2023-05-18T15:11:54Z,HTML,617,752,564,8242,False,False,Other,
+834,react-sketchapp,airbnb,14967,900,2017-04-21T18:27:39Z,2023-05-18T16:14:18Z,TypeScript,227,299,410,4428,False,False,MIT License,"react-sketchapp, react, sketch, sketch-plugin, react-renderer"
+835,twint,twintproject,14961,2649,2017-06-10T15:16:49Z,2023-05-19T12:16:50Z,Python,248,1173,316,4578,False,True,MIT License,"osint, twitter, python, scrape, tweets, elasticsearch, kibana, scrape-followers, scrape-likes, scrape-following"
+836,spotify-tui,Rigellute,14955,457,2019-08-16T19:31:53Z,2023-05-19T09:53:09Z,Rust,583,500,76,2403,False,False,MIT License,"spotify, spotify-api, spotify-tui, rust, terminal-based, terminal, cli"
+837,awesome-java-cn,jobbole,14933,4701,2015-10-01T06:53:06Z,2023-05-19T01:27:58Z,None,46,15,1544,360,False,False,None,
+838,loguru,Delgan,14912,604,2017-08-15T17:22:32Z,2023-05-19T11:53:09Z,Python,114,757,128,1993,False,False,MIT License,"python, logging, logger, log"
+839,zincsearch,zincsearch,14894,650,2021-12-02T12:49:41Z,2023-05-19T13:02:11Z,Go,596,242,158,11606,False,False,Other,"go, golang, search, searchengine, modern, vuejs, elasticsearch, opensearch"
+840,Marlin,MarlinFirmware,14849,18284,2011-08-13T08:07:20Z,2023-05-19T12:11:11Z,C++,11760,14026,922,219146,False,False,GNU General Public License v3.0,"reprap, arduino, 3d-printing, firmware, avr, atmel, stmicro, esp32, hacktoberfest"
+841,recompose,acdlite,14830,1301,2015-10-07T05:54:51Z,2023-05-18T19:04:32Z,JavaScript,430,439,176,1325,False,True,MIT License,
+842,learn-anything,learn-anything,14814,962,2016-08-08T16:09:17Z,2023-05-19T07:49:59Z,TypeScript,9,0,444,51,False,False,None,"knowledge, mindmaps, curated, research, resources, community, search-engine, interactive, education, api"
+843,chromium,chromium,14811,5542,2018-02-05T20:55:32Z,2023-05-19T11:11:44Z,None,159,0,531,39385116,False,False,"BSD 3-Clause ""New"" or ""Revised"" License",
+844,vivus,maxwellito,14801,1158,2014-05-13T22:22:18Z,2023-05-19T10:04:25Z,JavaScript,42,202,277,472,False,False,MIT License,
+845,Carthage,Carthage,14799,1619,2014-10-10T19:54:55Z,2023-05-19T00:49:33Z,Swift,1142,2093,384,20146,False,False,Other,"cocoa, carthage, swift, package-manager"
+846,diffusers,huggingface,14786,2961,2022-05-30T16:04:02Z,2023-05-19T13:18:29Z,Python,1959,1531,147,33358,False,False,Apache License 2.0,"deep-learning, diffusion, image-generation, pytorch, score-based-generative-modeling, image2image, text2image, stable-diffusion, hacktoberfest"
+847,wiki,ethereum,14767,2692,2014-02-14T23:05:17Z,2023-05-19T10:17:58Z,None,101,344,1271,3763,False,True,None,
+848,awesome-nlp,keon,14710,2494,2015-12-01T11:11:33Z,2023-05-19T13:44:10Z,None,246,54,604,614,False,False,Creative Commons Zero v1.0 Universal,"natural-language-processing, deep-learning, machine-learning, language, awesome, awesome-list, nlp, text-mining"
+849,presto,prestodb,14705,5010,2012-08-09T01:03:37Z,2023-05-19T11:38:45Z,Java,14234,5369,879,190715,False,False,Apache License 2.0,"java, presto, hive, hadoop, big-data, sql"
+850,charts,frappe,14704,752,2017-10-26T10:13:21Z,2023-05-18T15:06:00Z,JavaScript,133,270,217,7017,False,False,MIT License,"chart, javascript, svg, svg-chart, graph, zero-dependency, hacktoberfest"
+851,ml-agents,Unity-Technologies,14702,3851,2017-09-08T21:09:04Z,2023-05-19T11:24:49Z,C#,3148,2762,551,3006529,False,False,Other,"reinforcement-learning, unity3d, deep-learning, unity, deep-reinforcement-learning, neural-networks, machine-learning"
+852,openface,cmusatyalab,14685,3609,2015-09-16T12:47:27Z,2023-05-19T07:20:11Z,Lua,73,379,764,24596,False,False,Apache License 2.0,"deep-learning, face-recognition, facenet"
+853,gradle,gradle,14685,4162,2009-09-09T18:27:19Z,2023-05-19T10:38:24Z,Groovy,13638,11135,510,478225,False,False,Apache License 2.0,"gradle, build-tool, groovy, java, kotlin"
+854,weui-wxss,Tencent,14684,5313,2016-11-04T04:47:02Z,2023-05-19T03:39:21Z,Less,51,156,479,1666,False,False,Other,"weui, wxss"
+855,koel,koel,14679,1859,2015-12-06T12:13:19Z,2023-05-19T07:56:54Z,PHP,718,922,328,15396,False,False,MIT License,"laravel, vue, audio, streaming, mp3player, hacktoberfest"
+856,driver.js,kamranahmedse,14653,841,2018-03-11T19:52:13Z,2023-05-19T01:03:36Z,TypeScript,123,220,191,2011,False,False,MIT License,"tour, walkthrough, user-onboarding, feature-introductions, overlays, popover, overlay, focus-shifters, spotlight"
+857,LunarVim,LunarVim,14605,1469,2018-08-16T23:55:19Z,2023-05-19T14:19:00Z,Lua,1700,2149,109,14176,False,False,GNU General Public License v3.0,"neovim, vim, vimrc, nvim, ide, lunarvim, lua, linters, formatters, snippets"
+858,sst,serverless-stack,14592,1282,2020-08-04T20:28:14Z,2023-05-19T13:25:05Z,JavaScript,1473,1326,302,74288,False,False,MIT License,"serverless, aws, serverless-stack, sst, typescript, lambda, javascript, golang, python, csharp"
+859,cheatsheets-ai,kailashahirwar,14591,3455,2017-05-24T12:06:56Z,2023-05-19T13:30:31Z,None,5,15,1062,29960,False,False,MIT License,"deep-learning, artificial-intelligence, machine-learning, keras, matplotlib, scipy, numpy"
+860,feathers,feathersjs,14589,736,2011-10-19T22:45:16Z,2023-05-19T09:46:37Z,TypeScript,1053,1967,233,34115,False,False,MIT License,"feathersjs, javascript, nodejs, browser, react-native, framework, feathers, real-time, typescript"
+861,lit,lit,14580,756,2017-06-29T16:27:16Z,2023-05-19T10:22:24Z,TypeScript,1930,1599,208,46451,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","lit-html, lit-element, html-templates, lit"
+862,alpaca-lora,tloen,14577,1702,2023-03-13T21:52:36Z,2023-05-19T14:10:01Z,Jupyter Notebook,110,337,136,28455,False,False,Apache License 2.0,
+863,gpu.js,gpujs,14572,684,2016-02-09T09:13:37Z,2023-05-19T13:31:54Z,JavaScript,220,594,252,20529,False,False,MIT License,"gpu, webgl, javascript, math, gpgpu, glsl, nodejs"
+864,vanillawebprojects,bradtraversy,14568,4193,2020-01-28T14:11:32Z,2023-05-19T03:56:00Z,JavaScript,76,0,366,28779,False,False,None,
+865,Moya,Moya,14550,1936,2014-08-16T07:41:21Z,2023-05-19T09:49:29Z,Swift,984,1320,245,18281,False,False,MIT License,"swift, reactiveswift, rxswift, alamofire, networking, hacktoberfest"
+866,insightface,deepinsight,14519,4284,2017-09-01T00:36:51Z,2023-05-19T14:30:02Z,Python,138,2167,476,31860,False,False,MIT License,"face-recognition, face-detection, mxnet, face-alignment, age-estimation, arcface, retinaface, pytorch, oneflow, paddlepaddle"
+867,awesome-python-applications,mahmoud,14505,2502,2018-11-14T07:36:44Z,2023-05-19T11:36:21Z,Jupyter Notebook,90,75,757,4138,False,False,None,"python, application, video, audio, graphics, gui, productivity, education, science, game"
+868,sass,sass,14503,2064,2010-09-22T06:16:55Z,2023-05-19T06:25:53Z,TypeScript,720,2799,587,1410,False,False,MIT License,
+869,DevToys,veler,14482,780,2021-09-29T01:40:41Z,2023-05-19T14:49:13Z,C#,297,485,87,137791,False,False,MIT License,"uwp, syntax-highlighting, developer-tools, windows, windows-11, fluent-design, fluent, csharp, xaml, windows-10"
+870,redox,redox-os,14479,924,2015-04-20T17:35:19Z,2023-05-19T13:21:53Z,Shell,642,0,610,8017,False,False,MIT License,"redox, rust, microkernel, operating-system"
+871,OI-wiki,OI-wiki,14476,2914,2018-07-11T03:28:14Z,2023-05-19T14:43:38Z,TypeScript,4050,831,198,82823,False,False,None,"oi, oi-handbook, data-structures, algorithms, competitive-programming, icpc, acm-icpc, acm-icpc-handbook, icpc-handbook, icpc-training"
+872,antlr4,antlr,14454,3064,2010-02-04T01:36:28Z,2023-05-19T08:29:46Z,Java,1949,2109,367,68460,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","parsing, parser-generator, antlr, antlr4, java, grammar, python, parse, language-recognition, javascript"
+873,git-recipes,geeeeeeeeek,14420,3517,2015-10-10T06:53:17Z,2023-05-19T11:45:09Z,None,38,0,608,298,False,True,None,"git-recipes, git, tutorials"
+874,packer,hashicorp,14409,3323,2013-03-23T05:43:03Z,2023-05-19T13:25:36Z,Go,5684,6669,480,106547,False,False,Mozilla Public License 2.0,
+875,GNNPapers,thunlp,14406,2887,2018-12-24T02:26:31Z,2023-05-19T07:18:55Z,None,60,16,597,308,False,False,None,"paper-list, gnn"
+876,qiankun,umijs,14405,1874,2019-05-15T05:27:23Z,2023-05-19T07:03:17Z,TypeScript,621,1763,233,29810,False,False,MIT License,"microfrontend, micro-frontend, micro-frontends, microfrontends, microservices, javascript, framework"
+877,baselines,openai,14393,4675,2017-05-24T01:58:13Z,2023-05-19T05:41:46Z,Python,370,842,631,6620,False,False,MIT License,
+878,browserify,browserify,14386,1250,2010-09-22T16:11:32Z,2023-05-19T03:16:41Z,JavaScript,541,1501,288,2486,False,False,MIT License,"bundler, javascript, module-bundler, commonjs, modules, browser"
+879,VirtualXposed,android-hacker,14376,2428,2017-12-01T09:00:58Z,2023-05-19T12:17:45Z,Java,70,1064,535,49794,False,False,GNU General Public License v3.0,"xposed, android, non-root, hook, aop"
+880,bootstrap,angular-ui,14374,6895,2012-10-05T18:27:01Z,2023-05-18T17:19:06Z,JavaScript,2270,4454,769,9938,False,True,MIT License,
+881,ScrollMagic,janpaepke,14334,2071,2013-09-23T08:08:53Z,2023-05-19T08:37:24Z,JavaScript,92,921,326,6059,False,False,Other,
+882,netch,netchx,14280,2367,2019-06-25T09:55:30Z,2023-05-19T09:12:03Z,C#,273,760,176,11843,False,False,GNU General Public License v3.0,"netch, socks, shadowsocks, shadowsocksr, vless, vmess, fullcone, netfiltersdk, tun2socks"
+883,QuickLook,QL-Win,14278,973,2017-04-12T14:57:38Z,2023-05-19T12:15:14Z,C#,107,1159,224,288368,False,False,GNU General Public License v3.0,
+884,awesome-macOS,iCHAIT,14271,1057,2015-05-25T16:24:12Z,2023-05-19T02:00:22Z,None,566,68,422,831,False,False,None,"macos, mac, awesome-list, apple, awesome-lists, awesome, list"
+885,hapi,hapijs,14267,1379,2011-08-06T00:35:39Z,2023-05-18T05:38:34Z,JavaScript,1329,3097,417,17089,False,False,Other,"hapi, nodejs, framework, http, application"
+886,spicetify-cli,spicetify,14253,628,2018-12-01T19:55:18Z,2023-05-19T14:40:40Z,JavaScript,486,1546,97,4547,False,False,GNU Lesser General Public License v2.1,"spotify, customization, golang, macos, linux, windows, command-line, command-line-tool"
+887,etherpad-lite,ether,14241,2536,2011-03-26T13:09:02Z,2023-05-19T13:32:02Z,JavaScript,2663,2963,360,34501,False,False,Apache License 2.0,"etherpad, collaboration, web-editor, documents, collaborative, collaborative-editing, collaborative-framework, collaborative-writing, collaborative-research, document"
+888,InvokeAI,invoke-ai,14201,1581,2022-08-17T01:04:27Z,2023-05-19T14:46:05Z,Jupyter Notebook,1461,1584,168,215638,False,False,MIT License,"ai-art, artificial-intelligence, generative-art, image-generation, img2img, inpainting, latent-diffusion, linux, macos, outpainting"
+889,StableLM,Stability-AI,14155,839,2023-04-19T14:02:16Z,2023-05-19T14:35:47Z,Jupyter Notebook,14,65,183,204,False,False,Apache License 2.0,
+890,WebViewJavascriptBridge,marcuswestin,14133,2964,2011-08-28T02:25:27Z,2023-05-19T11:31:35Z,Objective-C,139,280,513,522,False,False,MIT License,
+891,bootswatch,thomaspark,14120,3693,2012-02-07T04:31:56Z,2023-05-18T10:07:18Z,JavaScript,377,864,490,79848,False,False,MIT License,"bootswatch, theme, bootstrap, css, css-framework"
+892,ecma262,tc39,14115,1322,2014-04-09T19:04:33Z,2023-05-19T14:30:17Z,HTML,1798,1151,953,338101,False,False,Other,"ecmascript, javascript"
+893,Mailspring,Foundry376,14100,878,2016-10-13T06:45:50Z,2023-05-19T09:01:47Z,C,268,2182,185,115035,False,False,GNU General Public License v3.0,"email, mail, electron, osx, windows, linux, electron-app, imap"
+894,react-window,bvaughn,14093,758,2018-05-07T14:45:51Z,2023-05-19T13:20:07Z,JavaScript,144,570,67,1793,False,False,MIT License,
+895,yii2,yiisoft,14085,7005,2012-02-13T15:32:36Z,2023-05-18T20:41:02Z,PHP,8028,11405,1091,81032,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","yii, php, php-framework, yii2, framework, hacktoberfest"
+896,PromiseKit,mxcl,14075,1478,2014-04-04T13:54:37Z,2023-05-19T02:18:37Z,Swift,436,849,260,9934,False,False,MIT License,"swift, objc, promises"
+897,algorithm-pattern,greyireland,14065,2513,2020-06-13T15:29:21Z,2023-05-19T04:26:13Z,Go,22,31,362,4196,False,False,MIT License,"leetcode, leetcode-go, algorithm, algo, pattern"
+898,QMUI_Android,Tencent,14063,2639,2017-04-21T10:03:18Z,2023-05-19T09:00:55Z,Java,39,1122,333,21875,False,False,Other,"android, android-ui, ui-components"
+899,bettercap,bettercap,14051,1309,2018-01-07T15:30:41Z,2023-05-19T12:57:26Z,Go,191,812,395,15835,False,False,Other,"password-sniffer, mitm, rogue-ap, wifi, hacking, security, spoofing, proxy, wifi-security, deauthentication-attack"
+900,datasets,huggingface,16214,2168,2020-03-26T09:23:22Z,2023-05-19T12:47:44Z,Python,3552,2222,271,93765,False,False,Apache License 2.0,"nlp, datasets, pytorch, tensorflow, pandas, numpy, natural-language-processing, computer-vision, machine-learning, deep-learning"
+901,Anime-Girls-Holding-Programming-Books,cat-milk,16211,843,2017-05-10T23:23:32Z,2023-05-19T14:52:29Z,None,497,76,216,894299,False,False,None,anime
+902,data,fivethirtyeight,16205,11068,2014-03-17T13:49:17Z,2023-05-19T07:02:20Z,Jupyter Notebook,115,151,1297,155878,False,False,Creative Commons Attribution 4.0 International,data
+903,zipkin,openzipkin,16183,3061,2012-06-06T18:26:16Z,2023-05-19T10:30:37Z,Java,2189,1299,694,68261,False,False,Apache License 2.0,"zipkin, distributed-tracing, tracing, openzipkin, observability"
+904,AFFiNE,toeverything,16179,816,2022-07-31T18:45:21Z,2023-05-19T13:47:29Z,TypeScript,1453,881,136,60150,False,False,Mozilla Public License 2.0,"editor, crdt, knowledge-base, markdown, miro, notion, rust, rust-lang, whiteboard, wiki"
+905,localtunnel,localtunnel,16174,1219,2012-06-18T02:33:30Z,2023-05-19T12:56:30Z,JavaScript,96,500,222,197,False,False,MIT License,
+906,Functional-Light-JS,getify,16174,1962,2016-08-17T01:40:50Z,2023-05-19T13:51:06Z,JavaScript,90,123,464,31724,False,False,Other,"book, javascript, functional-programming, training-materials, training-providers, education"
+907,Carbon,briannesbitt,16154,1261,2012-09-08T02:56:20Z,2023-05-19T10:10:33Z,PHP,1571,1220,227,15734,False,False,MIT License,
+908,dva,dvajs,16148,3217,2016-06-24T09:06:16Z,2023-05-18T09:15:03Z,JavaScript,351,2160,442,2377,False,False,MIT License,"dva, redux, redux-saga, framework, elm"
+909,mindsdb,mindsdb,16135,1999,2018-08-02T17:56:45Z,2023-05-19T13:08:25Z,Python,3152,2763,364,188575,False,False,GNU General Public License v3.0,"ml, pytorch, automl, explainable-ai, explainable-ml, artificial-intelligence, machine-learning, hacktoberfest, mysql, machine-learning-api"
+910,zipline,quantopian,16130,4579,2012-10-19T15:50:29Z,2023-05-18T09:51:04Z,Python,1867,978,1000,170757,False,False,Apache License 2.0,"quant, python, algorithmic-trading, zipline"
+911,PHP-Parser,nikic,16127,929,2011-04-18T17:03:47Z,2023-05-19T11:22:36Z,PHP,375,547,230,6911,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","php, parser, ast, static-analysis"
+912,deep-learning-for-image-processing,WZMIAOMIAO,16113,7060,2019-11-14T15:02:27Z,2023-05-19T14:19:54Z,Python,385,351,147,24212,False,False,GNU General Public License v3.0,"pytorch, tensorflow2, classification, object-detection, bilibili, deep-learning, segmentation"
+913,30-seconds-of-css,30-seconds,16111,1085,2018-02-25T13:22:25Z,2023-05-19T08:59:33Z,CSS,166,62,335,7124,False,True,Creative Commons Attribution 4.0 International,"css, css-snippets, snippets, snippets-collection, learning-resources, learn-to-code, education, programming"
+914,spellbook-of-modern-webdev,dexteryy,16058,1281,2017-06-10T18:03:21Z,2023-05-19T12:53:51Z,None,32,14,509,557,False,False,None,"javascript, nodejs, universal-javascript, isomorphic-javascript, webapp, webplatform, libraries, awesome, learning, html5"
+915,IQKeyboardManager,hackiftekhar,16048,2374,2013-08-25T11:32:48Z,2023-05-18T16:15:18Z,Swift,190,1745,359,23440,False,False,MIT License,"objective-c, keyboard, swift, iqkeyboardmanager, xcode"
+916,wails,wailsapp,16037,748,2018-12-15T23:14:06Z,2023-05-19T14:01:16Z,Go,1031,1290,113,86442,False,False,MIT License,"go, golang, vuejs, desktop-application, macos, windows, linux, angular, react, svelte"
+917,twemoji,twitter,16027,1893,2014-11-06T21:49:34Z,2023-05-19T09:27:24Z,HTML,166,411,358,843480,False,False,MIT License,"emoji, twemoji"
+918,game-programmer,miloyip,16026,1946,2016-12-06T06:26:17Z,2023-05-19T10:23:11Z,Python,23,40,806,253417,False,False,None,
+919,masonry,desandro,16001,2167,2009-11-21T21:04:56Z,2023-05-17T02:32:33Z,HTML,52,1128,463,1479,False,False,None,
+920,openai-translator,openai-translator,16001,1116,2023-03-04T05:21:09Z,2023-05-19T14:39:11Z,TypeScript,206,392,98,14725,False,False,GNU Affero General Public License v3.0,"chatgpt, chrome-extension, openai, translation, translator, browser-extension, translator-app"
+921,disruptor,LMAX-Exchange,15992,3780,2012-09-21T13:42:24Z,2023-05-19T13:36:29Z,Java,157,292,1263,9808,False,False,Apache License 2.0,"disruptor, java, concurrency"
+922,redwood,redwoodjs,15990,889,2019-06-09T20:17:57Z,2023-05-19T14:38:10Z,TypeScript,6366,2006,92,304757,False,False,MIT License,"jamstack, graphql, react, apollo, prisma, hacktoberfest"
+923,ToolsOfTheTrade,cjbarber,15987,1272,2014-05-29T04:11:33Z,2023-05-19T10:11:41Z,None,476,45,490,1552,False,False,Other,
+924,MBProgressHUD,jdg,15974,3529,2009-05-31T21:45:41Z,2023-05-18T02:24:55Z,Objective-C,228,405,564,1253,False,False,MIT License,
+925,best-resume-ever,salomonelli,15971,2271,2017-01-30T23:02:00Z,2023-05-19T00:11:21Z,Vue,293,131,322,120459,False,False,MIT License,"vue, pdf, resume, cv, javascript, nodejs"
+926,deeplearning_ai_books,fengdu78,15965,5681,2017-12-08T08:47:42Z,2023-05-19T14:45:32Z,HTML,16,64,637,585160,False,False,None,deeplearning-ai
+927,Iosevka,be5invis,15957,524,2015-07-18T23:10:59Z,2023-05-19T12:49:17Z,JavaScript,182,1544,186,53900713,False,False,SIL Open Font License 1.1,"iosevka, font, typeface, opentype-features, ligatures, programming-ligatures, monospace-font, programming-font"
+928,V2rayU,yanue,15940,2532,2018-10-12T11:42:16Z,2023-05-19T12:56:27Z,None,44,1132,267,15972,False,False,None,"v2ray, v2rayu, v2ray-core, v2ray-gui, mac-v2ray, v2ray-shadowsocks, v2ray-mac, vmess"
+929,Fuse,krisk,15939,761,2012-05-28T04:31:06Z,2023-05-19T14:04:07Z,JavaScript,184,502,135,6719,False,False,Apache License 2.0,"javascript, lightweight-fuzzy-search, weighted-search, bitap"
+930,javascript-interview-questions,sudheerj,15934,4690,2017-10-29T05:40:24Z,2023-05-19T14:07:48Z,JavaScript,119,73,284,1534,False,False,None,"javascript, javascript-interview-questions, javascript-applications, vanilla-javascript, core-javascript, react, vuejs, angular"
+931,keepassxc,keepassxreboot,15916,1224,2016-02-28T15:52:40Z,2023-05-19T14:14:06Z,C++,1943,6916,256,55936,False,False,Other,"keepassxc, keepass, password-manager, linux, windows, cross-platform, yubikey, macos, password, security"
+932,jdk,openjdk,15895,4533,2018-09-17T12:29:20Z,2023-05-19T14:46:08Z,Java,14032,0,312,1139648,False,False,GNU General Public License v2.0,"openjdk, java, jvm"
+933,kivy,kivy,15875,3024,2010-11-03T20:27:32Z,2023-05-19T13:24:24Z,Python,3456,4756,616,75571,False,False,MIT License,"python, ui, windows, ios, android, macos, linux, app, kivy"
+934,PySnooper,cool-RR,15857,940,2019-04-18T13:55:43Z,2023-05-19T13:41:52Z,Python,114,123,234,487,False,False,MIT License,"python, debug, debugger, introspection, logging"
+935,lottie-react-native,lottie-react-native,15856,1771,2017-01-27T18:24:50Z,2023-05-19T04:07:55Z,Kotlin,299,713,237,416468,False,False,Apache License 2.0,"bodymovin, animations, react-native, after-effects, react"
+936,ui,shadcn,15854,644,2023-01-04T12:43:27Z,2023-05-19T14:48:50Z,TypeScript,196,177,105,6293,False,False,MIT License,"components, nextjs, radix-ui, react, tailwindcss, ui"
+937,SwiftGuide,ipader,15849,3617,2014-06-14T01:17:57Z,2023-05-19T00:44:12Z,Swift,45,27,1494,90065,False,False,None,"swift, swift-programming-language"
+938,hexo-theme-next,iissnan,15828,3715,2014-12-01T14:07:07Z,2023-05-17T08:40:00Z,JavaScript,418,1851,452,13366,False,False,MIT License,"hexo, hexo-theme, theme-next"
+939,ipython,ipython,15824,4426,2010-05-10T04:46:06Z,2023-05-19T14:12:17Z,Python,6886,7126,765,77808,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","ipython, jupyter, data-science, notebook, python, repl, closember, hacktoberfest"
+940,MMKV,Tencent,15821,1754,2018-09-17T10:59:36Z,2023-05-19T08:53:19Z,C++,248,778,278,2502,False,False,Other,"android, ios, kotlin, swift, macos, key-value, wechat, flutter, golang, python"
+941,magic-wormhole,magic-wormhole,15808,580,2015-02-10T08:38:44Z,2023-05-19T13:23:11Z,Python,170,314,214,2830,False,False,MIT License,
+942,compose-samples,android,15806,3867,2019-09-27T09:51:19Z,2023-05-19T14:33:27Z,Kotlin,801,328,344,177239,False,False,Apache License 2.0,"android, jetpack-compose"
+943,medium-editor,yabwe,15804,1884,2013-05-29T17:40:11Z,2023-05-19T08:33:21Z,JavaScript,641,945,364,10390,False,False,Other,"medium-editor, contenteditable, editor, javascript, rich-text-editor, wysiwyg"
+944,xbmc,xbmc,15795,6152,2011-01-03T21:18:51Z,2023-05-19T14:00:42Z,C++,19836,3430,807,1595686,False,False,Other,"kodi, home-theater, media-center, multimedia, c-plus-plus, python, xml, android, linux, ios"
+945,ArchiveBox,ArchiveBox,15777,921,2017-05-05T08:50:14Z,2023-05-19T06:28:23Z,Python,299,718,172,6086,False,False,MIT License,"pocket, wget, browser-bookmarks, pinboard, chromium, firefox, backups, rss, web-archiving, python"
+946,rust-course,sunface,15774,1360,2018-08-07T05:01:21Z,2023-05-19T14:21:33Z,Rust,707,142,133,10995,False,False,None,"rust-lang, rust, book, chinese, rust-learning, rust-course, course, programming-courses, learning, learn"
+947,umami,umami-software,15771,2699,2020-07-17T07:59:00Z,2023-05-19T14:08:14Z,JavaScript,658,1053,104,8654,False,False,MIT License,"analytics, charts, statistics, google-analytics, web-analytics"
+948,github-profile-readme-generator,rahuldkjain,15767,4351,2020-07-15T11:20:48Z,2023-05-19T14:42:48Z,JavaScript,380,326,76,15009,False,False,Apache License 2.0,"github, readme, generator, react, gatsby, markdown, hacktoberfest"
+949,filament,google,15762,1646,2018-08-03T17:26:00Z,2023-05-19T13:02:54Z,C++,4087,1925,372,680770,False,False,Apache License 2.0,"pbr, graphics, 3d-graphics, real-time, android, opengl, opengl-es, vulkan, webgl, wasm"
+950,browsh,browsh-org,15745,447,2016-05-08T19:34:15Z,2023-05-19T11:30:47Z,JavaScript,89,386,186,8466,False,False,GNU Lesser General Public License v2.1,"tty, ssh, mosh, bandwidth-saver, http-performance, vnc"
+951,books,programthink,15737,3039,2015-06-01T05:17:41Z,2023-05-19T14:32:52Z,None,2,121,952,1117,False,False,Creative Commons Zero v1.0 Universal,
+952,pouchdb,pouchdb,15724,1460,2010-06-10T18:34:24Z,2023-05-19T09:30:13Z,JavaScript,4410,4196,277,122296,False,False,Apache License 2.0,"javascript, database, pouchdb, couchdb, hacktoberfest"
+953,system-design,karanpratapsingh,15675,1413,2022-08-15T18:59:54Z,2023-05-19T10:15:07Z,None,16,8,163,5456,False,False,Other,"architecture, distributed-systems, system-design, system-design-interview, interview, tech, engineering, interview-preparation, scalability, microservices"
+954,hey,rakyll,15661,1067,2016-09-02T10:24:09Z,2023-05-19T13:55:05Z,Go,146,152,182,601,False,False,Apache License 2.0,
+955,vConsole,Tencent,15657,2968,2016-04-27T03:33:45Z,2023-05-19T12:18:33Z,TypeScript,191,422,312,5404,False,False,Other,"wechat, mobile, console"
+956,react-flow,wbkd,15655,1034,2019-07-15T14:47:30Z,2023-05-19T13:38:03Z,TypeScript,1061,1244,95,31829,False,False,MIT License,"flowchart, graph, typescript-library, react-library, react, typescript, node-based-ui, workflow"
+957,avatarify-python,alievk,15647,2573,2020-04-06T19:53:16Z,2023-05-19T10:47:16Z,Python,70,518,310,5788,False,False,Other,
+958,Rust,TheAlgorithms,15631,1547,2018-09-13T13:29:27Z,2023-05-19T14:52:44Z,Rust,450,49,220,702,False,False,MIT License,"rust, algorithms, data-structures, rust-lang, hacktoberfest"
+959,nodemailer,nodemailer,15615,1349,2011-01-19T21:17:36Z,2023-05-19T13:36:46Z,JavaScript,219,1312,224,10067,False,False,Other,"nodemailer, email, email-sender, rfc822"
+960,distroless,GoogleContainerTools,15604,914,2017-04-18T22:02:38Z,2023-05-19T10:35:14Z,Starlark,815,492,188,5793,False,False,Apache License 2.0,"docker, bazel"
+961,flatpickr,flatpickr,15568,1410,2015-08-10T23:52:45Z,2023-05-19T14:26:35Z,TypeScript,647,2100,214,7848,False,False,MIT License,"datetime, datetime-picker, datepicker, timepicker, daterange, date, daterangepicker"
+962,Hack,source-foundry,15538,611,2015-06-21T22:47:58Z,2023-05-19T05:13:12Z,Shell,82,476,337,107611,False,False,Other,"font, typeface, developer-tools, developer, ttf, web-fonts, hack"
+963,reverse-interview-zh,yifeikong,15538,1256,2019-09-11T14:48:55Z,2023-05-19T13:26:55Z,None,17,22,218,38,False,False,Other,"interview-questions, interview, reverse-interview"
+964,jasmine,jasmine,15538,2274,2008-12-02T23:46:37Z,2023-05-19T08:26:40Z,JavaScript,602,1389,444,9968,False,False,None,"jasmine, javascript, tdd, testing"
+965,wangEditor,wangeditor-team,15533,3055,2014-11-06T09:26:47Z,2023-05-19T06:34:52Z,TypeScript,572,4845,260,20077,False,False,MIT License,"wangeditor, rich-text, rich-text-html-editor, typescript, wysiwyg, wysiwyg-editor"
+966,GitHub520,521xueweihan,15532,1722,2020-05-13T07:25:21Z,2023-05-19T13:58:23Z,Python,28,163,222,6682,False,False,None,"dns, github, hosts"
+967,snapdrop,RobinLinus,15521,1454,2015-12-18T15:44:18Z,2023-05-19T12:15:12Z,JavaScript,129,455,182,3562,False,False,GNU General Public License v3.0,"webrtc, pwa, snapdrop"
+968,Pake,tw93,15520,1531,2022-10-14T09:32:57Z,2023-05-19T14:40:13Z,Rust,95,171,105,41059,False,False,MIT License,"rust, tauri, wry, no-electron, linux-desktop, mac, mac-desktop, windows-desktop, high-performance, webview"
+969,awesome-design-systems,alexpate,15512,1036,2017-06-06T19:56:49Z,2023-05-19T05:32:44Z,None,266,0,458,397,False,False,The Unlicense,"awesome-list, design-systems, pattern-library, ui-library, awesome, hacktoberfest"
+970,solarized,altercation,15498,3572,2011-02-18T05:18:27Z,2023-05-19T08:28:10Z,Vim Script,156,253,408,34558,False,False,MIT License,
+971,spf13-vim,spf13,15480,3715,2010-04-20T16:20:16Z,2023-05-18T19:59:50Z,Vim Script,386,731,674,5905,False,False,Apache License 2.0,
+972,chinese-independent-blogs,timqian,15446,2090,2019-10-22T09:22:45Z,2023-05-19T14:28:19Z,JavaScript,1430,46,264,8717,False,False,MIT License,"rss, blog, china"
+973,fluentui,microsoft,15429,2477,2016-06-06T15:03:44Z,2023-05-19T10:31:38Z,TypeScript,16184,11168,272,538580,False,False,Other,"react, react-components, office-ui-fabric, microsoft, components, fluent"
+974,vim-galore,mhinz,15429,596,2016-01-04T17:02:16Z,2023-05-19T13:20:15Z,Vim Script,71,94,327,952,False,False,Creative Commons Attribution Share Alike 4.0 International,"vim, guide, awesome, awesome-list, neovim, viml, vim-scripts, learn, help, tips"
+975,markdown-it,markdown-it,15412,1660,2014-12-19T22:54:53Z,2023-05-19T09:30:43Z,JavaScript,152,765,173,3621,False,False,MIT License,"commonmark, markdown, javascript"
+976,pwc,zziz,15400,2496,2018-09-02T12:06:52Z,2023-05-19T11:25:26Z,None,19,23,1195,1643,False,False,None,"machine-learning, paper, code, cvpr, nips, icml, iccv, eccv"
+977,mypy,python,15375,2541,2012-12-07T13:30:23Z,2023-05-19T13:33:57Z,Python,6205,8989,232,63062,False,False,Other,"python, types, typing, typechecker, linter"
+978,inter,rsms,15373,370,2017-08-22T07:14:17Z,2023-05-19T13:34:58Z,Python,71,460,164,535814,False,False,SIL Open Font License 1.1,"typeface, font, design"
+979,AspNetCore-Developer-Roadmap,MoienTajik,15372,2162,2019-02-06T07:50:13Z,2023-05-19T14:39:08Z,None,71,61,550,83120,False,False,None,"asp-net-core, roadmap, aspnetcore, aspnet-core, dotnet, dotnet-core, blazor, csharp, razor"
+980,A-to-Z-Resources-for-Students,dipakkr,15357,4419,2018-09-17T11:15:29Z,2023-05-19T10:46:25Z,None,1225,186,386,3594,False,False,MIT License,"hackathon, students, android, conferences, react, udacity, awesome-list, awesome"
+981,react-bits,vasanthk,15357,1064,2016-12-20T06:49:54Z,2023-05-18T17:29:28Z,None,84,28,318,1037,False,False,Creative Commons Attribution 4.0 International,"react-patterns, design-patterns, techniques, best-practices, react, reactjs, javascript"
+982,aframe,aframevr,15343,3743,2015-09-15T02:04:40Z,2023-05-19T14:19:56Z,JavaScript,2213,3036,535,650722,False,False,MIT License,"vr, webvr, virtualreality, threejs, html, vive, oculus, rift, game-engine, aframe"
+983,intellij-community,JetBrains,15339,4878,2011-09-30T13:33:05Z,2023-05-19T13:34:28Z,None,2358,0,529,4433600,False,False,Apache License 2.0,"intellij, intellij-platform, ide, code-editor, intellij-community"
+984,InstaPy,InstaPy,15327,3712,2016-09-26T20:36:26Z,2023-05-19T12:10:01Z,Python,1161,5499,668,83720,False,False,GNU General Public License v3.0,"instagram, clarifai, automation, script, python, selenium, bot"
+985,3d-game-shaders-for-beginners,lettier,15324,1230,2019-05-12T22:08:45Z,2023-05-19T14:42:42Z,C++,10,28,402,34817,False,False,None,"shaders, 3d, graphics, panda3d, game-development, glsl, glsl-shaders, graphics-programming, 3d-graphics, hlsl"
+986,ignite,infinitered,15294,1278,2016-02-10T16:06:07Z,2023-05-19T09:29:48Z,TypeScript,1017,1253,240,58245,False,False,MIT License,"cli, react-native, react-native-generator, boilerplate, generator, expo, mst"
+987,kubectx,ahmetb,15292,1121,2017-03-30T18:06:53Z,2023-05-19T11:24:33Z,Go,175,208,127,923,False,False,Apache License 2.0,"kubernetes, kubectl, kubectl-plugins, kubernetes-clusters"
+988,httprouter,julienschmidt,15286,1424,2013-12-05T15:10:55Z,2023-05-19T12:50:19Z,Go,131,231,320,269,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","go, router, http, mux, httprouter, golang"
+989,vueuse,vueuse,15283,1902,2019-12-14T06:44:59Z,2023-05-19T13:41:04Z,TypeScript,1692,1174,125,10789,False,False,MIT License,"vue, vue-use, vue-composition-api, vue-next, utility-library, composable, vue3"
+990,wasmer,wasmerio,15253,652,2018-10-11T10:15:53Z,2023-05-19T12:48:23Z,Rust,2570,1200,194,398699,False,False,MIT License,"webassembly, wasm, wasi, emscripten, rust, windows, macos, linux, wasmer"
+991,minGPT,karpathy,15245,1776,2020-08-17T07:08:48Z,2023-05-19T14:35:57Z,Python,61,51,245,1485,False,False,MIT License,
+992,WSL,microsoft,15228,781,2016-04-06T17:32:56Z,2023-05-19T11:02:49Z,PowerShell,122,9163,605,7682,False,False,None,
+993,cz-cli,commitizen,15203,577,2015-04-20T01:11:39Z,2023-05-18T17:00:54Z,JavaScript,629,341,79,2329,False,False,MIT License,"commitizen, javascript, commit-hooks, node, semantic-versioning, semantic-release, command-line, utilities, commitizen-adapter, git"
+994,laravel-debugbar,barryvdh,15200,1476,2013-09-05T10:26:54Z,2023-05-19T04:58:19Z,PHP,438,971,287,2582,False,False,MIT License,"laravel, debugbar, hacktoberfest"
+995,calibre,kovidgoyal,15142,1917,2013-05-28T10:03:23Z,2023-05-19T13:31:21Z,Python,1897,0,378,291639,False,False,GNU General Public License v3.0,"ebook-manager, calibre, python, ebook, ebooks, ebook-reader, ebook-formats, epub, kindle, epub-generation"
+996,CLIP,openai,15141,2267,2020-12-16T11:24:42Z,2023-05-19T13:30:03Z,Jupyter Notebook,44,314,262,9142,False,False,MIT License,"deep-learning, machine-learning"
+997,excelize,qax-os,15136,1479,2016-08-29T12:32:12Z,2023-05-19T13:22:43Z,Go,301,1097,221,5721,False,False,"BSD 3-Clause ""New"" or ""Revised"" License","xlsx, golang, excel, microsoft, office, openxml, go, excelize, spreadsheet, openoffice"
+998,focalboard,mattermost,15114,1274,2020-10-06T16:46:23Z,2023-05-19T11:24:43Z,TypeScript,2320,2248,122,59045,False,False,Other,"project-management, project, kanban-board, goal-tracking, trello, notion, asana, golang, collaboration, hacktoberfest"
+999,docker-elk,deviantony,15113,6233,2014-11-18T20:07:47Z,2023-05-19T12:11:11Z,Shell,325,533,349,697,False,False,MIT License,"docker, elasticsearch, logstash, kibana, elk, docker-compose, searchguard"
