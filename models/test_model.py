@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import Ridge
 from sklearn.ensemble import RandomForestClassifier
 
-df = pd.read_csv("../data.csv")
+df = pd.read_csv("../../data.csv")
 cols = ['Fork Count', 'PR Count', 'Issue Count', 'Watcher Count']
 X = df[cols]
 y = df["Star Count"]
