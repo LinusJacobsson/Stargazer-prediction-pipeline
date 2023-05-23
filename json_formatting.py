@@ -1,6 +1,6 @@
 # Code snippet to format the previous gathered
 # JSON file into a single Pandas dataframe.
-# Usage: python3 json_formatting.py filename
+# Usage: python3 json_formatting.py filename (which is merged_repos.json here)
 # This will return and print the final dataframe.
 # Written by Linus Jacobsson 19/5 2023
 
@@ -54,6 +54,5 @@ for i, repo in enumerate(repos, start=1):
 
 # Convert the list of dictionaries to a DataFrame
 df = pd.DataFrame(repo_dicts)
-
-# Print the DataFrame
-print(df)
+# Save to CSV file
+df.to_csv('data.csv')
