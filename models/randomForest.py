@@ -36,10 +36,9 @@ poly = PolynomialFeatures(degree=1)
 X_poly = poly.fit_transform(X)
 
 np.random.seed(0)  # Set a random seed for reproducibility
-print(X.shape)
 # Split the data into train and test sets
 X_train, X_test, y_train, y_test = skl_ms.train_test_split(X_poly, y, test_size=0.2)
-print(X_train.shape)
+print('X_train_shape: ',X_train.shape)
 # Create a Random Forest Regression model
 rf_model = RandomForestRegressor()
 rf_params = {'n_estimators': [50, 100, 200]}  # Define the hyperparameters to tune
