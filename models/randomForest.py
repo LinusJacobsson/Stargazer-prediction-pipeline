@@ -36,9 +36,10 @@ poly = PolynomialFeatures(degree=1)
 X_poly = poly.fit_transform(X)
 
 np.random.seed(0)  # Set a random seed for reproducibility
+
 # Split the data into train and test sets
 X_train, X_test, y_train, y_test = skl_ms.train_test_split(X_poly, y, test_size=0.2)
-print('X_train_shape: ',X_train.shape)
+
 # Create a Random Forest Regression model
 rf_model = RandomForestRegressor()
 rf_params = {'n_estimators': [50, 100, 200]}  # Define the hyperparameters to tune
@@ -60,10 +61,3 @@ rf_cv_scores = cross_val_score(rf_best_model, X_poly, y, cv=kf, scoring='r2')
 mean_r2_rf_cv = np.mean(rf_cv_scores)
 print(mean_r2_rf_cv)
 
-# Saving the model for possible deployment
-# Save your model
-import joblib
-joblib.dump(rf_best_model, 'randomForest.joblib')
-joblib.dump(imputer, 'imputer.joblib')
-joblib.dump(scaler, 'scaler.joblib')
-joblib.dump(df_encoded.columns, 'columns.joblib')
