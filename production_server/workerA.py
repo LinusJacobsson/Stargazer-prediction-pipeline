@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 from sklearn.metrics import r2_score
 
-model_file = './randomForest.joblib'
+model_file = './best_model.joblib'
 data_file = './data.csv'
 
 def preprocess_data(df):
@@ -86,4 +86,3 @@ def get_accuracy():
 
     return r2
 
-print(get_predictions())

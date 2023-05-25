@@ -32,8 +32,6 @@ def predictions():
         results = get_predictions.delay()
         predictions = results.get()
 
-        print(type(predictions))  # Print type of predictions
-
         results = get_accuracy.delay()
         accuracy = results.get()
 
