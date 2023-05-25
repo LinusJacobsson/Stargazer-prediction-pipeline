@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import cross_val_score, KFold
 from sklearn.model_selection import GridSearchCV
 import joblib
-##
+#
 df = pd.read_csv("/home/appuser/de2-final-project/data.csv")
 # Convert categorical columns to strings
 # Split the data into input features (X) and target variable (y)
