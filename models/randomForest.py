@@ -10,6 +10,7 @@ from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import cross_val_score, KFold
 from sklearn.model_selection import GridSearchCV
+import joblib
 ##
 df = pd.read_csv("/home/appuser/de2-final-project/data.csv")
 # Convert categorical columns to strings
@@ -19,11 +20,11 @@ y = df["Star Count"].values
 # Impute missing values with the mean value of each column
 imputer = SimpleImputer()
 X = imputer.fit_transform(X)
-
+joblib.dump(imputer, 'imputer.joblib') 
 # Normalize numerical features
 scaler = skl_pre.StandardScaler()
 X = scaler.fit_transform(X)
-
+joblib.dump(scaler, 'scaler.joblib')
 # Generate polynomial features
 poly = PolynomialFeatures(degree=1)
 X_poly = poly.fit_transform(X)
@@ -53,3 +54,4 @@ kf = KFold(n_splits=5, shuffle=True, random_state=0)
 rf_cv_scores = cross_val_score(rf_best_model, X_poly, y, cv=kf, scoring='r2')
 mean_r2_rf_cv = np.mean(rf_cv_scores)
 print(mean_r2_rf_cv)
+joblib.dump(rf_best_model, 'randomForest.joblib')
