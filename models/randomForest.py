@@ -13,13 +13,7 @@ from sklearn.model_selection import GridSearchCV
 import joblib
 ####
 df = pd.read_csv("/home/appuser/de2-final-project/data.csv")
-# Convert categorical columns to strings
-categorical_cols = ['Primary Language', 'License Info']
-df[categorical_cols] = df[categorical_cols].astype(str)
-
-# Convert categorical columns to numerical using one-hot encoding
-df_encoded = pd.get_dummies(df, columns=categorical_cols)
-
+df = df[['Fork Count', 'PR Count', 'Issue Count', 'Watcher Count']]
 # Split the data into input features (X) and target variable (y)
 X = df_encoded.drop(['Star Count', 'Owner', 'Repository Name', 'Owner', 'Created at', 'Updated at', 'Topics'], axis=1).values
 y = df_encoded["Star Count"].values
