@@ -10,6 +10,7 @@ from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import cross_val_score, KFold
 from sklearn.model_selection import GridSearchCV
+import joblib
 #####
 df = pd.read_csv("/home/appuser/de2-final-project/data.csv")
 # Convert categorical columns to strings
@@ -61,3 +62,4 @@ rf_cv_scores = cross_val_score(rf_best_model, X_poly, y, cv=kf, scoring='r2')
 mean_r2_rf_cv = np.mean(rf_cv_scores)
 print(mean_r2_rf_cv)
 
+joblib.dump(rf_best_model, 'randomForest.joblib')
