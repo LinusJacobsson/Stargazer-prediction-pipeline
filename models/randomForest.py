@@ -13,9 +13,9 @@ from sklearn.model_selection import GridSearchCV
 ###
 df = pd.read_csv("/home/appuser/de2-final-project/data.csv")
 # Convert categorical columns to strings
-print(df.columns)
-X = df.drop(['Primary Language','Is Fork','Is Archived','License Info','Star Count', 'Owner', 'Repository Name', 'Owner', 'Created at', 'Updated at', 'Topics'], axis=1).values
-y = df["Star Count"]
+# Split the data into input features (X) and target variable (y)
+X = df.drop(['Primary Language','Star Count', 'Owner', 'Repository Name', 'Owner', 'Created at', 'Updated at', 'Topics','Is Fork','Is Archived','License Info'], axis=1).values
+y = df["Star Count"].values
 # Impute missing values with the mean value of each column
 imputer = SimpleImputer()
 X = imputer.fit_transform(X)
