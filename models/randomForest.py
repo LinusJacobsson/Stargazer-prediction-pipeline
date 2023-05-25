@@ -10,14 +10,12 @@ from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import cross_val_score, KFold
 from sklearn.model_selection import GridSearchCV
-import joblib
-####
-df = pd.read_csv("/home/appuser/de2-final-project/data.csv")
-df = df[['Fork Count', 'PR Count', 'Issue Count', 'Watcher Count']]
-# Split the data into input features (X) and target variable (y)
-X = df_encoded.drop(['Star Count', 'Owner', 'Repository Name', 'Owner', 'Created at', 'Updated at', 'Topics'], axis=1).values
-y = df_encoded["Star Count"].values
 
+df = pd.read_csv("/home/appuser/de2-final-project/data.csv")
+# Convert categorical columns to strings
+print(df.columns)
+X = df.drop(['Primary Language','Is Fork','Is Archived','License Info','Star Count', 'Owner', 'Repository Name', 'Owner', 'Created at', 'Updated at', 'Topics'], axis=1).values
+y = df["Star Count"]
 # Impute missing values with the mean value of each column
 imputer = SimpleImputer()
 X = imputer.fit_transform(X)
@@ -55,5 +53,3 @@ kf = KFold(n_splits=5, shuffle=True, random_state=0)
 rf_cv_scores = cross_val_score(rf_best_model, X_poly, y, cv=kf, scoring='r2')
 mean_r2_rf_cv = np.mean(rf_cv_scores)
 print(mean_r2_rf_cv)
-
-joblib.dump(rf_best_model, 'randomForest.joblib')
