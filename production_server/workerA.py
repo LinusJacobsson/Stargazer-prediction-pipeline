@@ -9,17 +9,16 @@ data_file = './data.csv'
 
 def preprocess_data(df):
     # Keep only the required columns
-    df = df[['Fork Count', 'PR Count', 'Issue Count', 'Watcher Count']]
-
+    X = df.drop(['Primary Language','Star Count', 'Owner', 'Repository Name', 'Owner', 'Created at', 'Updated at', 'Topics','Is Fork','Is Archived','License Info'], axis=1).values
     # Load and apply saved Imputer
     imputer = joblib.load('imputer.joblib')
-    df = imputer.transform(df)
+    X = imputer.transform(df)
 
     # Load and apply saved StandardScaler
     scaler = joblib.load('scaler.joblib')
-    df = scaler.transform(df)
+    X = scaler.transform(df)
 
-    return df
+    return X
 
 def load_model():
     loaded_model = joblib.load(model_file)
@@ -46,7 +45,7 @@ def get_predictions():
 
     # Preprocess the data
     X_sample = preprocess_data(df_sample)
-
+    print(X_sample)
     # Load the trained model
     loaded_model = load_model()
 
