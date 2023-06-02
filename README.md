@@ -40,7 +40,7 @@ Check that everything works well using
 ```bash
 sudo docker ps
 ```
-and that the welcome page is visible at: http://<PUBLIC-IP-ADRESS>:5100
+and that the welcome page is visible at: http://PUBLIC-IP-ADRESS:5100
 
 After configuring the IaC scripts and succesfully launching the development and production servers, clone this repository into both. After that add the update.sh script as a post-commit hoook on the development server. Now everything is pretty much set up as intented. 
 Now the models can simply be improved on the development server, and any commit will test for the best model and push it to the production server.
