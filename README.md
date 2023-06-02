@@ -10,7 +10,31 @@ After configuring the IaC scripts and succesfully launching the development and 
 
 ### Prerequisites
 
-Openstack API??
+OpenStack APIs - only needed on the client machine for contextualization. Instructions can be found [here](https://github.com/sztoor/model_serving.git)
 
-A GitHub account with access to the GitHub API.
+GitHub API - optional since the data for this project is already in the repo. 
+
+
+'''python
+python3 start_instance.py
+'''
+
+'''bash
+git clone https://github.com/LinusJacobsson/Stargazer-prediction-pipeline
+'''
+Navigate to the server hosting
+'''bash
+cd Stargazer-prediction-pipeline/production server
+'''
+Start the docker containers
+'''bash
+sudo docker-compose build
+sudo docker-compose up -d
+'''
+
+Check that everything works well using
+'''bash
+sudo docker ps
+'''
+and that the welcome page is visible at: http:PUBLIC-IP-ADRESS:5100
 
