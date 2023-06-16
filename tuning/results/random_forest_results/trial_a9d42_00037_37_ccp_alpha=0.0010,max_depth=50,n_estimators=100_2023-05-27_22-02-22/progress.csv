@@ -1,0 +1,2 @@
+R-squared (Random Forest Regression),"Mean R-squared (Random Forest Regression, Cross-Validation)",time_this_iter_s,done,training_iteration,trial_id,date,timestamp,time_total_s,pid,hostname,node_ip,time_since_restore,iterations_since_restore
+0.9560850432006491,0.972796501690467,7.838948011398315,False,1,a9d42_00037,2023-05-27_22-02-34,1685224954,7.838948011398315,199296,dev-server-group8,192.168.2.92,7.838948011398315,1
