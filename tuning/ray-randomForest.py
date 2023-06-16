@@ -1,6 +1,10 @@
+import os
 import time
 import ray
 from ray.tune import run_experiments
+from ray.tune.analysis import ExperimentAnalysis
+from ray.tune.analysis.experiment_analysis import ExperimentAnalysis
+from ray.tune.logger import CSVLogger
 from ray import tune
 import pandas as pd
 import numpy as np
@@ -14,6 +18,7 @@ from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import cross_val_score, KFold
 from sklearn.model_selection import GridSearchCV
+import tempfile
 
 # Load the dataset
 df = pd.read_csv('../data.csv')
@@ -107,22 +112,42 @@ search_config = {
     "ccp_alpha": tune.grid_search([0, 0.001, 0.01, 0.1]),
 }
 
+# Create a temporary directory for results
+temp_dir = tempfile.mkdtemp()
+
 # Set up the Ray cluster
 ray.init()
 
 # Start the hyperparameter search
 start_timestamp = time.time()
 
-run_experiments({
+analysis = run_experiments({
     "random_forest_results": {
         "run": rf_training,
         "config": search_config,
         "num_samples": 1,
         "resources_per_trial": {"cpu": 1},
+        "local_dir": temp_dir,  # Specify the directory to save the results
+        "trial_name_creator": lambda trial: f"trial_{trial.trial_id}",  # Specify trial names
     }
 })
 
+#analysis_obj = ExperimentAnalysis("ray_results/random_forest_results")
+#best_rf_trial = analysis_obj.get_best_trial(metric="mean_accuracy", mode="max")
+
+# Get the best hyperparameters
+best_trial = min(analysis, key=lambda trial: trial.last_result["Mean R-squared (Random Forest Regression, Cross-Validation)"])
+
 end_timestamp = time.time()
 
-print("Time taken to complete the tuning using 2 VM of 'small' flavor: {:.2f} seconds".format(end_timestamp - start_timestamp))
+# Print the best hyperparameters
+#print("Best Hyperparameters 1:")
+#print(best_rf_trial.config)
 
+# Print the best hyperparameters
+print("Best Hyperparameters:")
+print(best_trial.config)
+
+
+#print("Optimal trial accuracy: ", best_rf_trial.last_result["mean_accuracy"])
+print("Time taken to complete the tuning using 4 VMs: {:.2f} seconds".format(end_timestamp - start_timestamp))
