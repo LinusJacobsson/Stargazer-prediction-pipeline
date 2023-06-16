@@ -1,3 +1,4 @@
+import time
 import pandas as pd
 import numpy as np
 import sklearn.preprocessing as skl_pre
@@ -9,8 +10,12 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import RepeatedStratifiedKFold
 from sklearn.ensemble import BaggingRegressor
 import xgboost as xgb
+import joblib
 
+#Start time stamp
+start_timestamp = time.time()
 
+#Load data
 df = pd.read_csv('../data.csv')
 
 # Convert categorical columns to strings
@@ -59,29 +64,6 @@ y_pred_gbm = best_gbm_model.predict(X_test)
 r2_gbm = r2_score(y_test, y_pred_gbm)
 print('R-squared (Gradient Boosting): ', r2_gbm)
 
-# Perform GridSearchCV for XGBoost Regression
-xgb_model = xgb.XGBRegressor()
-xgb_grid = GridSearchCV(estimator=xgb_model, param_grid=param_grid, scoring='r2', cv=5)
-xgb_grid.fit(X_train, y_train)
-
-# Get the best model from GridSearchCV
-best_xgb_model = xgb_grid.best_estimator_
-
-# Predict on the test set using the best XGBoost Regression model
-y_pred_xgb = best_xgb_model.predict(X_test)
-
-# Calculate the R-squared score for XGBoost Regression
-r2_xgb = r2_score(y_test, y_pred_xgb)
-print('R-squared (XGBoost): ', r2_xgb)
-
-# Ensemble Methods - Bagging
-bagging_model = BaggingRegressor(base_estimator=best_gbm_model, n_estimators=10)
-bagging_model.fit(X_train, y_train)
-
-# Predict on the test set using the Bagging model
-y_pred_bagging = bagging_model.predict(X_test)
-
-# Calculate the R-squared score for Bagging model
-r2_bagging = r2_score(y_test, y_pred_bagging)
-print('R-squared (Bagging): ', r2_bagging)
-
+#End time stamp
+end_timestamp = time.time()
+print("Time taken to complete the tuning using 3 VMs: {:.2f} seconds".format(end_timestamp - start_timestamp))

@@ -1,0 +1,26 @@
+Failure # 1 (occurred at 2023-05-27_21-58-21)
+Traceback (most recent call last):
+  File "/home/appuser/.local/lib/python3.10/site-packages/ray/tune/execution/ray_trial_executor.py", line 1231, in get_next_executor_event
+    future_result = ray.get(ready_future)
+  File "/home/appuser/.local/lib/python3.10/site-packages/ray/_private/client_mode_hook.py", line 105, in wrapper
+    return func(*args, **kwargs)
+  File "/home/appuser/.local/lib/python3.10/site-packages/ray/_private/worker.py", line 2523, in get
+    raise value
+ray.exceptions.RayActorError: The actor died because of an error raised in its creation task, [36mray::ImplicitFunc.__init__()[39m (pid=89437, ip=192.168.2.139, repr=rf_training)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ray/tune/trainable/trainable.py", line 144, in __init__
+    self._create_logger(self.config, logger_creator)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ray/tune/trainable/trainable.py", line 1079, in _create_logger
+    self._result_logger = logger_creator(config)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ray/tune/experiment/trial.py", line 203, in _noop_logger_creator
+    os.makedirs(logdir, exist_ok=True)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  [Previous line repeated 2 more times]
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/home/appuser'
+

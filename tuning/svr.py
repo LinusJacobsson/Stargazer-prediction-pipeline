@@ -1,3 +1,4 @@
+import time
 import pandas as pd
 import numpy as np
 import sklearn.preprocessing as skl_pre
@@ -10,6 +11,10 @@ from sklearn.model_selection import RepeatedStratifiedKFold
 from sklearn.ensemble import BaggingRegressor
 import xgboost as xgb
 from sklearn.svm import SVR
+import joblib
+
+#Start time stamp
+start_timestamp = time.time()
 
 df= pd.read_csv('../data.csv')
 # Convert categorical columns to strings
@@ -59,15 +64,7 @@ r2_svr = r2_score(y_test, y_pred_svr)
 print('R-squared (SVR): ', r2_svr)
 
 
-# Ensemble Methods - Bagging
-bagging_model = BaggingRegressor(base_estimator=best_svr_model, n_estimators=10)
-bagging_model.fit(X_train, y_train)
+end_timestamp = time.time()
+print("Time taken to complete the tuning using 3 VMs: {:.2f} seconds".format(end_timestamp - start_timestamp))
 
-# Predict on the test set using the Bagging model
-y_pred_bagging = bagging_model.predict(X_test)
-
-# Calculate the R-squared score for Bagging model
-r2_bagging = r2_score(y_test, y_pred_bagging)
-print('R-squared (Bagging): ', r2_bagging)
-
-
+joblib.dump(r2_svr, 'svr.joblib')
