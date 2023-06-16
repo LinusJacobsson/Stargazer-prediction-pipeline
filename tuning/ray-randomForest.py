@@ -150,4 +150,4 @@ print(best_trial.config)
 
 
 #print("Optimal trial accuracy: ", best_rf_trial.last_result["mean_accuracy"])
-print("Time taken to complete the tuning using 4 VMs: {:.2f} seconds".format(end_timestamp - start_timestamp))
+print("Time taken to complete the tuning: {:.2f} seconds".format(end_timestamp - start_timestamp))
